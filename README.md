@@ -1,5 +1,23 @@
-# PropIntel AI
+🏠 PropIntel AI
 
-AI-powered Property Intelligence Platform built using Gemini 2.5, RAG and Streamlit.
+AI-powered Property Intelligence Platform
 
-More documentation coming soon.
+🚀 Live Demo
+
+📸 Screenshots
+
+✨ Features
+
+🏗 Architecture
+
+⚡ Tech Stack
+
+🧠 AI Workflow
+
+📂 Folder Structure
+
+🚀 Installation
+
+🛣 Roadmap
+
+👨‍💻 About
