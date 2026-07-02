@@ -1,0 +1,83 @@
+COMMUNITIES = {
+
+    "Dubai Marina": {
+        "price": (1500000, 5000000),
+        "roi": (7.0, 9.0),
+        "yield": (6.5, 8.5),
+        "risk": "Low",
+        "appreciation": "High"
+    },
+
+    "Downtown Dubai": {
+        "price": (2200000, 9000000),
+        "roi": (6.0, 8.0),
+        "yield": (5.5, 7.2),
+        "risk": "Low",
+        "appreciation": "High"
+    },
+
+    "Business Bay": {
+        "price": (1200000, 4500000),
+        "roi": (7.0, 8.8),
+        "yield": (6.5, 8.2),
+        "risk": "Low",
+        "appreciation": "High"
+    },
+
+    "Dubai Hills Estate": {
+        "price": (1800000, 7000000),
+        "roi": (6.8, 8.5),
+        "yield": (6.0, 7.8),
+        "risk": "Low",
+        "appreciation": "High"
+    },
+
+    "JVC": {
+        "price": (650000, 2000000),
+        "roi": (8.0, 10.0),
+        "yield": (7.8, 9.0),
+        "risk": "Medium",
+        "appreciation": "Medium"
+    },
+
+    "Palm Jumeirah": {
+        "price": (5000000, 15000000),
+        "roi": (5.5, 7.0),
+        "yield": (4.5, 6.0),
+        "risk": "Medium",
+        "appreciation": "High"
+    },
+
+    "Dubai Creek Harbour": {
+        "price": (1200000, 4000000),
+        "roi": (7.0, 9.0),
+        "yield": (6.5, 8.5),
+        "risk": "Low",
+        "appreciation": "High"
+    },
+
+    "Arabian Ranches": {
+        "price": (2000000, 7000000),
+        "roi": (6.0, 7.5),
+        "yield": (5.5, 7.0),
+        "risk": "Low",
+        "appreciation": "Medium"
+    },
+
+    "Dubai South": {
+        "price": (500000, 1800000),
+        "roi": (8.0, 10.0),
+        "yield": (7.5, 9.2),
+        "risk": "Medium",
+        "appreciation": "High"
+    },
+
+    "MBR City": {
+        "price": (1800000, 6500000),
+        "roi": (6.8, 8.5),
+        "yield": (6.2, 7.8),
+        "risk": "Low",
+        "appreciation": "High"
+    }
+
+}

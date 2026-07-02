@@ -1,0 +1,2001 @@
+Property_ID,Property,Community,Developer,Property_Type,Bedrooms,Price_AED,ROI,Rental_Yield,Expected_Appreciation,Risk
+PID-00001,Vista Heights,Business Bay,Sobha Realty,Villa,2 BR,2343867,7.6%,8.1%,High,Low
+PID-00002,Harbour Living,JVC,Binghatti,Apartment,3 BR,1854310,9.1%,8.0%,Medium,Medium
+PID-00003,The Vista,JVC,Binghatti,Townhouse,Studio,682921,8.5%,7.6%,Medium,Medium
+PID-00004,Royal Square,Dubai Marina,Danube,Apartment,Studio,3612555,7.9%,6.9%,High,Low
+PID-00005,Infinity Point,Dubai Marina,Emaar,Villa,2 BR,3689054,8.6%,8.0%,High,Low
+PID-00006,Azure Square,Business Bay,DAMAC,Villa,Studio,2923367,7.6%,6.5%,High,Low
+PID-00007,Canal Residence,Dubai Marina,DAMAC,Townhouse,3 BR,4929382,8.9%,7.1%,High,Low
+PID-00008,Royal Vista,Dubai Marina,DAMAC,Villa,Studio,3659445,8.9%,7.1%,High,Low
+PID-00009,Grand Point,Business Bay,Sobha Realty,Townhouse,3 BR,3516297,7.9%,7.5%,High,Low
+PID-00010,Royal One,Dubai Marina,Emaar,Apartment,4 BR,2967247,8.8%,7.2%,High,Low
+PID-00011,Infinity View,JVC,Binghatti,Apartment,4 BR,778403,8.1%,8.2%,Medium,Medium
+PID-00012,Vista Horizon,Business Bay,Binghatti,Townhouse,2 BR,4236891,7.5%,6.8%,High,Low
+PID-00013,The Square,JVC,Emaar,Townhouse,1 BR,1904532,8.2%,7.6%,Medium,Medium
+PID-00014,The Living,Business Bay,Sobha Realty,Townhouse,Studio,3864457,7.5%,6.6%,High,Low
+PID-00015,Canal Collection,JVC,DAMAC,Apartment,3 BR,1860283,9.3%,8.6%,Medium,Medium
+PID-00016,Azure Place,JVC,Emaar,Townhouse,1 BR,1135666,8.9%,8.5%,Medium,Medium
+PID-00017,Skyline Residence,Business Bay,Sobha Realty,Apartment,1 BR,4146380,7.3%,7.9%,High,Low
+PID-00018,Skyline Tower,JVC,Binghatti,Apartment,1 BR,957665,8.6%,8.5%,Medium,Medium
+PID-00019,Marina Tower,Dubai Marina,Binghatti,Villa,1 BR,4225181,7.5%,6.9%,High,Low
+PID-00020,Canal Square,Dubai Marina,Sobha Realty,Villa,Studio,2856157,7.2%,8.1%,High,Low
+PID-00021,Infinity Living,Business Bay,Binghatti,Apartment,Studio,2829727,7.8%,7.6%,High,Low
+PID-00022,Royal Point,Business Bay,Danube,Townhouse,2 BR,3542591,7.6%,7.0%,High,Low
+PID-00023,Skyline Point,Dubai Marina,Emaar,Townhouse,2 BR,4727210,7.1%,7.4%,High,Low
+PID-00024,The Tower,Business Bay,DAMAC,Villa,1 BR,3472606,8.4%,7.0%,High,Low
+PID-00025,Royal Square,Dubai Marina,Sobha Realty,Townhouse,3 BR,2942412,8.3%,6.6%,High,Low
+PID-00026,Canal Horizon,Business Bay,DAMAC,Apartment,2 BR,4314372,7.2%,7.1%,High,Low
+PID-00027,Vista Point,Dubai Marina,Sobha Realty,Apartment,1 BR,4263492,8.6%,7.2%,High,Low
+PID-00028,Harbour Residence,JVC,Emaar,Apartment,4 BR,1711194,9.5%,9.0%,Medium,Medium
+PID-00029,Skyline Point,Business Bay,Danube,Apartment,4 BR,2655565,8.6%,8.0%,High,Low
+PID-00030,Vista Collection,JVC,Emaar,Apartment,Studio,1519567,8.8%,9.0%,Medium,Medium
+PID-00031,Infinity Vista,JVC,Binghatti,Villa,4 BR,1831070,9.6%,8.8%,Medium,Medium
+PID-00032,Elite Square,Business Bay,Emaar,Apartment,Studio,2831533,8.5%,7.6%,High,Low
+PID-00033,Marina Place,Business Bay,Binghatti,Apartment,3 BR,1318086,7.2%,7.4%,High,Low
+PID-00034,Canal View,JVC,Emaar,Apartment,2 BR,1563603,8.9%,7.5%,Medium,Medium
+PID-00035,Palm View,Business Bay,Danube,Villa,2 BR,4220484,7.6%,7.2%,High,Low
+PID-00036,Harbour Tower,Dubai Marina,Sobha Realty,Apartment,1 BR,2717649,7.1%,7.1%,High,Low
+PID-00037,Infinity Place,Dubai Marina,Binghatti,Apartment,2 BR,2426249,7.2%,7.6%,High,Low
+PID-00038,Skyline Vista,JVC,Emaar,Villa,Studio,1262603,9.8%,8.7%,Medium,Medium
+PID-00039,Vista Park,Dubai Marina,Danube,Villa,3 BR,1611189,8.5%,8.1%,High,Low
+PID-00040,Harbour Vista,JVC,Danube,Apartment,2 BR,1350164,9.2%,8.1%,Medium,Medium
+PID-00041,Park Gardens,JVC,DAMAC,Apartment,1 BR,1413451,8.7%,7.8%,Medium,Medium
+PID-00042,Creek Residence,Business Bay,Sobha Realty,Townhouse,Studio,1658620,7.1%,7.5%,High,Low
+PID-00043,Skyline Square,JVC,Sobha Realty,Apartment,1 BR,1820079,8.9%,8.8%,Medium,Medium
+PID-00044,Elite Collection,Business Bay,Danube,Villa,1 BR,3796998,8.5%,7.1%,High,Low
+PID-00045,Palm Tower,Business Bay,Sobha Realty,Apartment,3 BR,3230163,8.4%,7.2%,High,Low
+PID-00046,The Vista,Business Bay,Sobha Realty,Apartment,2 BR,4421356,7.3%,7.0%,High,Low
+PID-00047,Royal Heights,Dubai Marina,Emaar,Apartment,4 BR,4563133,8.3%,7.4%,High,Low
+PID-00048,Elite Vista,Business Bay,Sobha Realty,Villa,4 BR,1489753,8.3%,8.1%,High,Low
+PID-00049,Vista Place,Business Bay,Sobha Realty,Apartment,4 BR,2764582,8.3%,7.5%,High,Low
+PID-00050,Infinity Park,Dubai Marina,Sobha Realty,Villa,1 BR,3362589,7.2%,7.5%,High,Low
+PID-00051,Azure Vista,JVC,Danube,Townhouse,4 BR,1120869,9.7%,8.5%,Medium,Medium
+PID-00052,Vista Square,Business Bay,Sobha Realty,Apartment,2 BR,3459437,8.2%,6.9%,High,Low
+PID-00053,Canal Heights,Dubai Marina,Sobha Realty,Apartment,1 BR,2134888,8.4%,7.0%,High,Low
+PID-00054,Ocean Living,Business Bay,Sobha Realty,Apartment,4 BR,2068666,8.1%,6.9%,High,Low
+PID-00055,Azure Collection,Dubai Marina,Emaar,Apartment,4 BR,3381341,8.8%,7.9%,High,Low
+PID-00056,Harbour View,Dubai Marina,Sobha Realty,Villa,Studio,4223457,7.4%,6.8%,High,Low
+PID-00057,Infinity Residence,JVC,Danube,Apartment,4 BR,1748795,8.6%,8.8%,Medium,Medium
+PID-00058,Park Place,JVC,Danube,Apartment,1 BR,1288824,8.2%,8.9%,Medium,Medium
+PID-00059,Vista Residences,Business Bay,DAMAC,Villa,3 BR,4169579,7.8%,7.9%,High,Low
+PID-00060,Palm Collection,JVC,Binghatti,Villa,4 BR,1063274,8.5%,8.9%,Medium,Medium
+PID-00061,Royal Living,Dubai Marina,Sobha Realty,Townhouse,2 BR,2970090,7.8%,6.5%,High,Low
+PID-00062,Skyline Heights,Dubai Marina,Binghatti,Townhouse,Studio,3846233,8.8%,8.4%,High,Low
+PID-00063,Central Gardens,JVC,Emaar,Townhouse,2 BR,1538947,8.9%,8.2%,Medium,Medium
+PID-00064,Creek Square,JVC,Sobha Realty,Townhouse,4 BR,1919435,9.7%,7.8%,Medium,Medium
+PID-00065,Park One,Dubai Marina,Emaar,Villa,1 BR,2953641,8.1%,7.9%,High,Low
+PID-00066,Canal One,JVC,Binghatti,Villa,Studio,1231357,8.5%,8.8%,Medium,Medium
+PID-00067,Grand Central,Dubai Marina,Danube,Apartment,Studio,2365200,7.4%,6.6%,High,Low
+PID-00068,Skyline One,JVC,Binghatti,Apartment,3 BR,1411672,8.1%,8.3%,Medium,Medium
+PID-00069,Skyline Vista,Business Bay,DAMAC,Apartment,Studio,1418980,7.1%,7.3%,High,Low
+PID-00070,Elite Residences,Business Bay,Binghatti,Villa,1 BR,1226138,8.7%,8.1%,High,Low
+PID-00071,Elite Park,JVC,Danube,Apartment,1 BR,1676068,8.2%,8.5%,Medium,Medium
+PID-00072,Grand Residence,Business Bay,DAMAC,Townhouse,3 BR,1601839,7.9%,7.9%,High,Low
+PID-00073,Canal Place,Business Bay,Binghatti,Townhouse,1 BR,3078551,7.6%,6.5%,High,Low
+PID-00074,Skyline Point,JVC,Binghatti,Villa,3 BR,828336,8.8%,7.8%,Medium,Medium
+PID-00075,Royal Point,JVC,Danube,Villa,1 BR,1027939,8.3%,7.8%,Medium,Medium
+PID-00076,Marina Park,JVC,Sobha Realty,Apartment,2 BR,1768127,9.2%,8.2%,Medium,Medium
+PID-00077,Ocean Horizon,Business Bay,Binghatti,Villa,3 BR,2209907,7.8%,7.9%,High,Low
+PID-00078,Creek Vista,JVC,Danube,Villa,3 BR,1097237,10.0%,8.6%,Medium,Medium
+PID-00079,Palm Tower,Dubai Marina,Binghatti,Villa,Studio,2115569,7.3%,8.4%,High,Low
+PID-00080,Harbour Heights,Dubai Marina,Emaar,Apartment,4 BR,4895708,8.2%,8.4%,High,Low
+PID-00081,Skyline Residence,Dubai Marina,Binghatti,Apartment,1 BR,1785221,8.3%,7.0%,High,Low
+PID-00082,Grand Gardens,JVC,Emaar,Apartment,4 BR,1787509,8.9%,7.8%,Medium,Medium
+PID-00083,Vista Central,Business Bay,Danube,Townhouse,4 BR,2916181,7.6%,7.1%,High,Low
+PID-00084,The Gardens,JVC,Danube,Villa,Studio,1574726,8.8%,8.8%,Medium,Medium
+PID-00085,Skyline Horizon,Business Bay,Emaar,Apartment,Studio,1703594,7.7%,6.8%,High,Low
+PID-00086,Azure Horizon,JVC,DAMAC,Villa,3 BR,826609,9.3%,7.7%,Medium,Medium
+PID-00087,Infinity Point,Business Bay,DAMAC,Apartment,1 BR,3615920,8.5%,7.3%,High,Low
+PID-00088,Harbour Point,Business Bay,Danube,Apartment,4 BR,3725957,8.5%,8.1%,High,Low
+PID-00089,The One,JVC,Binghatti,Townhouse,2 BR,695609,9.8%,7.6%,Medium,Medium
+PID-00090,Harbour Heights,JVC,Emaar,Apartment,4 BR,745856,9.6%,8.7%,Medium,Medium
+PID-00091,Royal Living,Dubai Marina,Binghatti,Townhouse,4 BR,4338155,7.2%,7.3%,High,Low
+PID-00092,Central Gardens,Business Bay,Danube,Villa,4 BR,2737111,7.0%,6.6%,High,Low
+PID-00093,Marina Park,Dubai Marina,DAMAC,Villa,3 BR,1999521,7.2%,7.3%,High,Low
+PID-00094,Marina Vista,JVC,DAMAC,Apartment,2 BR,1611440,9.4%,7.7%,Medium,Medium
+PID-00095,Elite Heights,JVC,Binghatti,Apartment,3 BR,1309426,9.1%,8.0%,Medium,Medium
+PID-00096,Palm Horizon,JVC,Emaar,Townhouse,Studio,1737119,8.6%,8.6%,Medium,Medium
+PID-00097,Harbour Heights,JVC,DAMAC,Apartment,2 BR,1814570,9.3%,8.0%,Medium,Medium
+PID-00098,Creek Tower,JVC,Binghatti,Villa,1 BR,1110382,8.8%,8.0%,Medium,Medium
+PID-00099,Azure Residences,Dubai Marina,Sobha Realty,Apartment,3 BR,4452521,7.0%,7.9%,High,Low
+PID-00100,Infinity Collection,Dubai Marina,Emaar,Townhouse,4 BR,1953316,8.9%,6.6%,High,Low
+PID-00101,Palm Point,JVC,Emaar,Apartment,Studio,918761,9.8%,8.2%,Medium,Medium
+PID-00102,Harbour Park,JVC,Danube,Villa,2 BR,1543176,8.9%,8.5%,Medium,Medium
+PID-00103,Canal Heights,Dubai Marina,Binghatti,Apartment,2 BR,2112302,7.2%,7.6%,High,Low
+PID-00104,The Heights,Business Bay,Sobha Realty,Townhouse,2 BR,3756036,7.7%,8.0%,High,Low
+PID-00105,Marina Living,Business Bay,Binghatti,Apartment,3 BR,4358273,7.5%,7.0%,High,Low
+PID-00106,Azure Gardens,Dubai Marina,Binghatti,Villa,3 BR,2599779,8.9%,7.3%,High,Low
+PID-00107,Azure Place,JVC,Emaar,Villa,4 BR,783819,8.0%,8.7%,Medium,Medium
+PID-00108,Harbour Place,Business Bay,Danube,Townhouse,3 BR,3215679,7.3%,7.1%,High,Low
+PID-00109,Creek View,JVC,Sobha Realty,Villa,Studio,1714535,8.4%,8.6%,Medium,Medium
+PID-00110,Grand Gardens,JVC,Danube,Villa,3 BR,1079036,8.8%,8.3%,Medium,Medium
+PID-00111,Elite Residences,Dubai Marina,Emaar,Townhouse,1 BR,3071508,8.4%,7.4%,High,Low
+PID-00112,Ocean Residences,JVC,DAMAC,Townhouse,4 BR,1681615,9.0%,7.8%,Medium,Medium
+PID-00113,Infinity Living,Business Bay,Sobha Realty,Townhouse,4 BR,3019304,7.4%,7.0%,High,Low
+PID-00114,Ocean Vista,Business Bay,DAMAC,Apartment,3 BR,3484464,7.9%,7.8%,High,Low
+PID-00115,Creek Square,JVC,Danube,Apartment,3 BR,738242,9.5%,8.9%,Medium,Medium
+PID-00116,Vista Living,Dubai Marina,Emaar,Townhouse,Studio,4323744,8.6%,8.1%,High,Low
+PID-00117,Palm Residences,JVC,Binghatti,Apartment,2 BR,1181220,8.9%,8.8%,Medium,Medium
+PID-00118,Ocean Residences,Dubai Marina,Sobha Realty,Townhouse,3 BR,4969727,7.9%,7.7%,High,Low
+PID-00119,Canal Gardens,JVC,DAMAC,Apartment,4 BR,1431613,8.7%,8.7%,Medium,Medium
+PID-00120,Azure Gardens,Dubai Marina,DAMAC,Apartment,Studio,3060374,7.3%,7.8%,High,Low
+PID-00121,The Tower,Business Bay,Emaar,Townhouse,4 BR,4486355,8.4%,8.2%,High,Low
+PID-00122,Royal One,JVC,Sobha Realty,Townhouse,Studio,1099010,8.4%,7.7%,Medium,Medium
+PID-00123,Creek Horizon,Dubai Marina,Danube,Apartment,2 BR,4466703,7.6%,6.9%,High,Low
+PID-00124,Elite Gardens,Business Bay,Danube,Apartment,Studio,3679957,7.5%,8.0%,High,Low
+PID-00125,Elite Gardens,Business Bay,Emaar,Townhouse,1 BR,2695301,7.1%,8.0%,High,Low
+PID-00126,Park Square,Business Bay,Danube,Apartment,2 BR,1929337,7.9%,7.5%,High,Low
+PID-00127,Park Residences,Dubai Marina,Sobha Realty,Villa,Studio,1976893,8.5%,7.2%,High,Low
+PID-00128,Park Living,JVC,DAMAC,Townhouse,1 BR,1958106,9.5%,8.2%,Medium,Medium
+PID-00129,Ocean Residences,Business Bay,Binghatti,Apartment,1 BR,1955185,7.4%,7.8%,High,Low
+PID-00130,Central Tower,JVC,DAMAC,Apartment,3 BR,1127608,8.1%,7.9%,Medium,Medium
+PID-00131,Harbour Point,Business Bay,DAMAC,Townhouse,3 BR,2049862,8.7%,8.0%,High,Low
+PID-00132,Elite Vista,Business Bay,Sobha Realty,Apartment,4 BR,2210907,7.6%,6.6%,High,Low
+PID-00133,Harbour Central,JVC,DAMAC,Townhouse,2 BR,1697916,8.0%,8.0%,Medium,Medium
+PID-00134,Central Point,JVC,Emaar,Apartment,Studio,1029241,8.7%,7.9%,Medium,Medium
+PID-00135,Grand Vista,Dubai Marina,Emaar,Townhouse,Studio,1977345,8.1%,7.6%,High,Low
+PID-00136,Park Gardens,Business Bay,Binghatti,Townhouse,1 BR,1609367,8.1%,6.8%,High,Low
+PID-00137,Royal Heights,JVC,Emaar,Apartment,2 BR,978641,8.2%,8.3%,Medium,Medium
+PID-00138,Canal Heights,Dubai Marina,Binghatti,Villa,2 BR,4536848,8.1%,8.1%,High,Low
+PID-00139,Azure Central,Business Bay,Sobha Realty,Villa,3 BR,3212399,7.5%,7.2%,High,Low
+PID-00140,Canal Park,JVC,Emaar,Villa,3 BR,1279849,9.6%,8.4%,Medium,Medium
+PID-00141,Skyline Tower,Business Bay,Emaar,Villa,2 BR,1823082,7.5%,7.6%,High,Low
+PID-00142,Canal Park,JVC,DAMAC,Villa,4 BR,1641781,9.7%,7.5%,Medium,Medium
+PID-00143,The Square,Dubai Marina,Sobha Realty,Villa,1 BR,4159346,7.0%,7.2%,High,Low
+PID-00144,Azure Point,Business Bay,Danube,Apartment,1 BR,1399140,7.6%,7.7%,High,Low
+PID-00145,Azure Living,Business Bay,Emaar,Apartment,2 BR,2885013,7.9%,7.1%,High,Low
+PID-00146,Ocean Park,Dubai Marina,Binghatti,Apartment,3 BR,2758799,7.9%,6.7%,High,Low
+PID-00147,Azure Residences,JVC,Danube,Townhouse,4 BR,1497763,9.3%,8.5%,Medium,Medium
+PID-00148,Central Heights,Dubai Marina,DAMAC,Apartment,3 BR,4331746,8.0%,7.6%,High,Low
+PID-00149,Central Place,Dubai Marina,Binghatti,Townhouse,2 BR,2654316,8.3%,8.2%,High,Low
+PID-00150,Canal Residence,Business Bay,Sobha Realty,Villa,4 BR,4265995,8.3%,6.9%,High,Low
+PID-00151,Palm Park,Dubai Marina,Danube,Townhouse,3 BR,4916745,8.4%,7.5%,High,Low
+PID-00152,Ocean Park,Business Bay,Danube,Villa,3 BR,1501629,8.8%,7.1%,High,Low
+PID-00153,Marina Horizon,Business Bay,DAMAC,Townhouse,1 BR,2165768,8.4%,7.0%,High,Low
+PID-00154,Harbour Tower,Dubai Marina,Sobha Realty,Apartment,1 BR,3625288,8.6%,8.2%,High,Low
+PID-00155,Palm Residence,Dubai Marina,Danube,Townhouse,3 BR,3608133,8.6%,8.3%,High,Low
+PID-00156,Park One,JVC,Emaar,Apartment,2 BR,1690357,8.9%,8.2%,Medium,Medium
+PID-00157,Central Place,Dubai Marina,Sobha Realty,Townhouse,Studio,2806289,8.5%,6.8%,High,Low
+PID-00158,Canal Square,Dubai Marina,Emaar,Townhouse,2 BR,4830218,8.6%,7.1%,High,Low
+PID-00159,Central Square,JVC,Binghatti,Townhouse,2 BR,1960397,9.5%,8.9%,Medium,Medium
+PID-00160,Harbour Living,Dubai Marina,Sobha Realty,Townhouse,Studio,1632200,8.7%,7.8%,High,Low
+PID-00161,Palm Square,Business Bay,Danube,Villa,4 BR,1508872,8.3%,6.6%,High,Low
+PID-00162,Creek Collection,Business Bay,Sobha Realty,Townhouse,2 BR,2935175,7.6%,8.2%,High,Low
+PID-00163,Skyline Vista,Dubai Marina,DAMAC,Villa,4 BR,4988747,7.3%,8.4%,High,Low
+PID-00164,Skyline Central,Business Bay,Emaar,Villa,4 BR,3045560,7.5%,7.6%,High,Low
+PID-00165,Creek Park,Business Bay,Emaar,Apartment,3 BR,1765576,8.4%,7.9%,High,Low
+PID-00166,Skyline Living,Dubai Marina,Emaar,Townhouse,4 BR,3503373,8.1%,7.8%,High,Low
+PID-00167,The Vista,JVC,DAMAC,Townhouse,1 BR,1973365,9.8%,8.5%,Medium,Medium
+PID-00168,Grand Point,Dubai Marina,Danube,Villa,Studio,4603090,8.0%,8.4%,High,Low
+PID-00169,Marina Park,JVC,Sobha Realty,Apartment,1 BR,945692,9.4%,8.8%,Medium,Medium
+PID-00170,Canal Heights,Dubai Marina,Binghatti,Townhouse,4 BR,2264624,8.0%,7.6%,High,Low
+PID-00171,Vista Place,JVC,DAMAC,Villa,2 BR,1264421,9.3%,8.3%,Medium,Medium
+PID-00172,Royal Heights,JVC,Sobha Realty,Villa,3 BR,1710392,8.6%,7.5%,Medium,Medium
+PID-00173,Canal Vista,Business Bay,Emaar,Townhouse,2 BR,1270862,7.3%,6.8%,High,Low
+PID-00174,Harbour Place,Dubai Marina,Sobha Realty,Apartment,4 BR,2501214,7.9%,8.0%,High,Low
+PID-00175,Canal Residences,Dubai Marina,Binghatti,Villa,3 BR,1763267,7.8%,6.8%,High,Low
+PID-00176,Harbour Place,Business Bay,DAMAC,Apartment,3 BR,3638917,7.1%,7.8%,High,Low
+PID-00177,Creek Horizon,JVC,DAMAC,Apartment,Studio,1608244,8.4%,8.3%,Medium,Medium
+PID-00178,Royal Tower,Business Bay,DAMAC,Apartment,2 BR,4336758,7.8%,7.4%,High,Low
+PID-00179,Grand Park,JVC,Emaar,Townhouse,3 BR,658420,8.1%,8.0%,Medium,Medium
+PID-00180,Azure Vista,JVC,Danube,Townhouse,3 BR,1874760,9.2%,7.5%,Medium,Medium
+PID-00181,Harbour Tower,JVC,Danube,Apartment,1 BR,1447066,9.3%,8.3%,Medium,Medium
+PID-00182,The Collection,JVC,Danube,Apartment,4 BR,1703833,9.9%,8.9%,Medium,Medium
+PID-00183,Park Vista,JVC,Emaar,Villa,4 BR,1391970,9.1%,8.4%,Medium,Medium
+PID-00184,Ocean Point,Business Bay,Binghatti,Townhouse,3 BR,3047434,8.0%,7.7%,High,Low
+PID-00185,Skyline Place,JVC,Emaar,Apartment,2 BR,989722,9.0%,8.7%,Medium,Medium
+PID-00186,Creek Horizon,Dubai Marina,Emaar,Villa,2 BR,3428166,7.9%,7.7%,High,Low
+PID-00187,The Residences,JVC,Binghatti,Villa,2 BR,1361421,9.5%,8.7%,Medium,Medium
+PID-00188,The Horizon,Dubai Marina,Binghatti,Villa,3 BR,3261292,8.7%,8.5%,High,Low
+PID-00189,Skyline Heights,JVC,Binghatti,Townhouse,Studio,1714044,8.8%,8.7%,Medium,Medium
+PID-00190,Creek Horizon,Dubai Marina,Binghatti,Townhouse,4 BR,3656631,7.6%,7.2%,High,Low
+PID-00191,Vista One,Business Bay,Emaar,Villa,2 BR,1283849,7.6%,6.7%,High,Low
+PID-00192,Marina Square,JVC,Danube,Townhouse,1 BR,895749,8.6%,8.2%,Medium,Medium
+PID-00193,Elite Place,Dubai Marina,DAMAC,Apartment,4 BR,2308259,7.8%,6.6%,High,Low
+PID-00194,Palm Gardens,Business Bay,DAMAC,Townhouse,1 BR,4288024,7.3%,6.6%,High,Low
+PID-00195,Harbour Place,Business Bay,Emaar,Townhouse,2 BR,2803940,7.7%,7.1%,High,Low
+PID-00196,Elite Central,Business Bay,Sobha Realty,Apartment,3 BR,1263307,8.2%,6.8%,High,Low
+PID-00197,Canal Square,Dubai Marina,Danube,Apartment,3 BR,1575756,7.5%,8.4%,High,Low
+PID-00198,Canal Central,Dubai Marina,Emaar,Apartment,4 BR,3518403,9.0%,7.5%,High,Low
+PID-00199,Creek Place,Dubai Marina,Binghatti,Townhouse,4 BR,2473822,7.9%,7.0%,High,Low
+PID-00200,Grand Collection,JVC,DAMAC,Apartment,2 BR,1240853,9.1%,8.9%,Medium,Medium
+PID-00201,Harbour Vista,Business Bay,Emaar,Townhouse,4 BR,3550706,8.2%,7.0%,High,Low
+PID-00202,Azure One,Business Bay,Danube,Townhouse,3 BR,4260606,7.1%,7.1%,High,Low
+PID-00203,Canal Heights,Business Bay,DAMAC,Apartment,3 BR,3388601,8.3%,7.1%,High,Low
+PID-00204,The Tower,Business Bay,DAMAC,Villa,1 BR,1493277,8.6%,7.8%,High,Low
+PID-00205,Grand Horizon,JVC,Emaar,Apartment,3 BR,1067432,9.8%,8.5%,Medium,Medium
+PID-00206,Royal Point,JVC,Sobha Realty,Townhouse,4 BR,1829711,8.8%,7.7%,Medium,Medium
+PID-00207,Infinity Heights,JVC,DAMAC,Villa,3 BR,1950635,8.2%,7.5%,Medium,Medium
+PID-00208,Marina Square,Business Bay,Danube,Apartment,2 BR,3250976,8.0%,7.1%,High,Low
+PID-00209,Canal Gardens,Business Bay,Danube,Townhouse,1 BR,3119384,7.5%,7.9%,High,Low
+PID-00210,Canal Tower,Dubai Marina,Binghatti,Townhouse,1 BR,4491651,7.3%,7.7%,High,Low
+PID-00211,Skyline Residence,JVC,Binghatti,Apartment,4 BR,1741003,9.4%,7.9%,Medium,Medium
+PID-00212,Harbour View,Business Bay,Binghatti,Townhouse,1 BR,2385579,7.2%,8.0%,High,Low
+PID-00213,Royal Residence,JVC,Emaar,Townhouse,2 BR,1414895,8.3%,8.1%,Medium,Medium
+PID-00214,Marina Vista,Business Bay,Binghatti,Townhouse,Studio,3299025,8.7%,7.9%,High,Low
+PID-00215,Marina One,Business Bay,Emaar,Townhouse,4 BR,1606432,7.9%,7.8%,High,Low
+PID-00216,Creek Place,Business Bay,DAMAC,Villa,2 BR,3057917,7.4%,7.3%,High,Low
+PID-00217,Canal Residence,Dubai Marina,DAMAC,Townhouse,3 BR,2475663,7.9%,8.3%,High,Low
+PID-00218,Vista Residence,JVC,DAMAC,Townhouse,4 BR,908367,8.4%,8.6%,Medium,Medium
+PID-00219,Infinity Heights,Business Bay,Danube,Townhouse,Studio,3644549,8.1%,8.2%,High,Low
+PID-00220,The Gardens,Business Bay,Danube,Apartment,4 BR,3872264,8.5%,7.6%,High,Low
+PID-00221,Vista Tower,JVC,Emaar,Townhouse,2 BR,839751,8.1%,7.7%,Medium,Medium
+PID-00222,Canal Square,Dubai Marina,Danube,Villa,2 BR,2998920,9.0%,7.3%,High,Low
+PID-00223,Creek Gardens,Dubai Marina,DAMAC,Apartment,3 BR,3039604,7.7%,7.1%,High,Low
+PID-00224,Skyline Heights,Business Bay,Sobha Realty,Townhouse,3 BR,2435518,8.1%,7.4%,High,Low
+PID-00225,Vista Horizon,Dubai Marina,Emaar,Townhouse,1 BR,2999051,7.2%,8.3%,High,Low
+PID-00226,Marina Vista,JVC,Danube,Villa,4 BR,736684,8.2%,9.0%,Medium,Medium
+PID-00227,Creek Collection,Business Bay,Danube,Townhouse,4 BR,1906859,8.0%,7.2%,High,Low
+PID-00228,Grand Residences,Dubai Marina,DAMAC,Apartment,4 BR,1730503,7.1%,7.9%,High,Low
+PID-00229,Canal Point,JVC,Binghatti,Townhouse,3 BR,1029049,8.3%,8.3%,Medium,Medium
+PID-00230,Marina Residence,Business Bay,Sobha Realty,Apartment,1 BR,3652385,7.1%,6.5%,High,Low
+PID-00231,Elite View,JVC,DAMAC,Apartment,1 BR,721486,9.3%,7.8%,Medium,Medium
+PID-00232,Palm Tower,Business Bay,Emaar,Villa,Studio,3431823,8.0%,6.5%,High,Low
+PID-00233,Canal Point,Dubai Marina,DAMAC,Townhouse,2 BR,4725617,8.3%,8.2%,High,Low
+PID-00234,Canal Horizon,Dubai Marina,Sobha Realty,Apartment,1 BR,4481791,7.6%,7.8%,High,Low
+PID-00235,The Place,Dubai Marina,Emaar,Apartment,1 BR,4818794,7.7%,7.0%,High,Low
+PID-00236,Azure Central,JVC,DAMAC,Villa,1 BR,684223,8.4%,8.3%,Medium,Medium
+PID-00237,Marina Square,Business Bay,Emaar,Apartment,4 BR,2146561,7.3%,7.5%,High,Low
+PID-00238,Creek Residence,JVC,Emaar,Townhouse,3 BR,901359,9.5%,7.6%,Medium,Medium
+PID-00239,Infinity Residence,Dubai Marina,Danube,Villa,1 BR,4770943,8.5%,6.8%,High,Low
+PID-00240,Palm Park,Dubai Marina,Emaar,Apartment,1 BR,2146035,7.4%,7.8%,High,Low
+PID-00241,Harbour One,Dubai Marina,DAMAC,Villa,Studio,1668484,8.4%,8.1%,High,Low
+PID-00242,Creek Tower,Dubai Marina,DAMAC,Townhouse,Studio,4245465,8.0%,7.7%,High,Low
+PID-00243,Royal Gardens,JVC,DAMAC,Townhouse,2 BR,1183601,8.7%,8.5%,Medium,Medium
+PID-00244,Azure Collection,Dubai Marina,Emaar,Townhouse,1 BR,1601710,7.5%,6.6%,High,Low
+PID-00245,Grand Vista,Dubai Marina,Sobha Realty,Apartment,3 BR,4053471,8.3%,6.5%,High,Low
+PID-00246,Grand One,Business Bay,DAMAC,Villa,4 BR,2903468,7.2%,7.3%,High,Low
+PID-00247,Elite View,JVC,Danube,Townhouse,3 BR,1345062,8.2%,8.8%,Medium,Medium
+PID-00248,Azure Square,Dubai Marina,Sobha Realty,Apartment,4 BR,4178409,8.5%,7.3%,High,Low
+PID-00249,Palm Heights,Dubai Marina,Binghatti,Townhouse,2 BR,4034135,8.0%,7.6%,High,Low
+PID-00250,Vista View,JVC,Emaar,Apartment,1 BR,1395264,9.3%,8.7%,Medium,Medium
+PID-00251,Palm Residence,Business Bay,DAMAC,Villa,1 BR,3992941,7.3%,6.9%,High,Low
+PID-00252,Elite Point,Dubai Marina,DAMAC,Villa,1 BR,3707816,7.8%,8.3%,High,Low
+PID-00253,Harbour Central,Dubai Marina,Binghatti,Apartment,Studio,4737498,7.8%,8.3%,High,Low
+PID-00254,Marina Square,JVC,DAMAC,Villa,3 BR,1614883,8.6%,8.6%,Medium,Medium
+PID-00255,Infinity One,Dubai Marina,Danube,Townhouse,3 BR,4531077,8.1%,7.9%,High,Low
+PID-00256,Infinity One,Business Bay,DAMAC,Apartment,3 BR,3613898,7.8%,7.5%,High,Low
+PID-00257,Royal Residences,Business Bay,Emaar,Townhouse,2 BR,3955934,7.6%,7.5%,High,Low
+PID-00258,Vista Living,Dubai Marina,Binghatti,Apartment,Studio,1716580,8.1%,7.9%,High,Low
+PID-00259,Azure Place,Dubai Marina,Emaar,Villa,4 BR,2959443,7.3%,8.2%,High,Low
+PID-00260,Creek Collection,JVC,Danube,Villa,Studio,1501095,8.4%,8.1%,Medium,Medium
+PID-00261,Grand One,JVC,Danube,Apartment,Studio,810335,8.4%,7.5%,Medium,Medium
+PID-00262,The Residences,Business Bay,Sobha Realty,Apartment,2 BR,2234504,8.8%,6.6%,High,Low
+PID-00263,Skyline One,Business Bay,DAMAC,Apartment,Studio,1386231,7.8%,6.5%,High,Low
+PID-00264,Central Central,Business Bay,DAMAC,Apartment,4 BR,1254357,7.1%,8.0%,High,Low
+PID-00265,Palm Residences,JVC,Emaar,Apartment,Studio,1718280,9.7%,7.7%,Medium,Medium
+PID-00266,Elite Square,Business Bay,Emaar,Townhouse,4 BR,2942968,8.1%,8.0%,High,Low
+PID-00267,Elite Place,Business Bay,Sobha Realty,Townhouse,2 BR,1527198,7.4%,6.6%,High,Low
+PID-00268,Elite One,JVC,Danube,Villa,4 BR,1556037,9.6%,8.1%,Medium,Medium
+PID-00269,Canal Vista,Dubai Marina,Emaar,Villa,4 BR,4747048,8.8%,8.3%,High,Low
+PID-00270,The Residence,Business Bay,Sobha Realty,Apartment,Studio,3992397,7.5%,6.9%,High,Low
+PID-00271,Royal Point,JVC,Danube,Townhouse,Studio,1115721,8.7%,8.4%,Medium,Medium
+PID-00272,Harbour Park,Business Bay,DAMAC,Villa,Studio,3855960,8.2%,7.4%,High,Low
+PID-00273,Marina Gardens,Dubai Marina,DAMAC,Townhouse,2 BR,2153264,8.5%,8.4%,High,Low
+PID-00274,Skyline Place,JVC,Sobha Realty,Villa,4 BR,729501,9.0%,8.8%,Medium,Medium
+PID-00275,Elite Point,Business Bay,DAMAC,Villa,4 BR,3121329,7.6%,7.2%,High,Low
+PID-00276,Palm One,JVC,DAMAC,Villa,1 BR,883595,8.7%,8.2%,Medium,Medium
+PID-00277,The View,Business Bay,Danube,Townhouse,1 BR,1844768,8.3%,7.4%,High,Low
+PID-00278,Creek Collection,Dubai Marina,Sobha Realty,Villa,2 BR,3018096,7.9%,6.7%,High,Low
+PID-00279,Royal Gardens,Business Bay,Sobha Realty,Townhouse,1 BR,4333597,8.3%,7.8%,High,Low
+PID-00280,The Park,Dubai Marina,Binghatti,Villa,1 BR,2442083,7.5%,6.7%,High,Low
+PID-00281,Harbour Gardens,JVC,DAMAC,Townhouse,4 BR,660224,9.2%,7.9%,Medium,Medium
+PID-00282,Canal Collection,Business Bay,Emaar,Villa,4 BR,1643658,7.7%,8.1%,High,Low
+PID-00283,Elite Place,Dubai Marina,Binghatti,Villa,3 BR,3320973,7.9%,7.4%,High,Low
+PID-00284,Elite Tower,JVC,Danube,Townhouse,3 BR,1912746,8.4%,8.9%,Medium,Medium
+PID-00285,Central Vista,Dubai Marina,DAMAC,Townhouse,1 BR,2066950,8.6%,8.1%,High,Low
+PID-00286,Palm Residences,JVC,Sobha Realty,Villa,Studio,974137,9.1%,8.3%,Medium,Medium
+PID-00287,Elite Collection,Business Bay,Sobha Realty,Villa,1 BR,1704278,7.3%,7.7%,High,Low
+PID-00288,Park Central,Business Bay,Emaar,Townhouse,3 BR,3647165,8.0%,7.8%,High,Low
+PID-00289,Harbour Residence,Dubai Marina,DAMAC,Apartment,Studio,3524059,7.8%,8.5%,High,Low
+PID-00290,Canal Heights,Business Bay,Emaar,Villa,Studio,3450204,8.6%,6.6%,High,Low
+PID-00291,The Living,JVC,Danube,Apartment,3 BR,1495214,9.5%,8.8%,Medium,Medium
+PID-00292,Elite Residences,JVC,Binghatti,Townhouse,4 BR,1187831,8.9%,8.1%,Medium,Medium
+PID-00293,Infinity Residence,JVC,Danube,Townhouse,1 BR,774365,9.0%,8.1%,Medium,Medium
+PID-00294,Skyline One,JVC,Danube,Apartment,1 BR,1886233,9.9%,8.8%,Medium,Medium
+PID-00295,Grand Square,JVC,Danube,Townhouse,4 BR,1541404,9.0%,8.6%,Medium,Medium
+PID-00296,Grand Collection,Dubai Marina,Emaar,Townhouse,3 BR,2978994,8.7%,8.0%,High,Low
+PID-00297,Park Living,Business Bay,Emaar,Villa,2 BR,3159071,7.1%,6.9%,High,Low
+PID-00298,Azure Vista,Business Bay,Danube,Villa,Studio,4404028,8.5%,7.7%,High,Low
+PID-00299,Skyline Central,Business Bay,DAMAC,Apartment,1 BR,1554309,8.3%,8.1%,High,Low
+PID-00300,Grand Horizon,Dubai Marina,Sobha Realty,Apartment,1 BR,4499628,8.1%,6.7%,High,Low
+PID-00301,Azure Residences,JVC,Sobha Realty,Townhouse,4 BR,1906877,8.1%,7.8%,Medium,Medium
+PID-00302,Harbour Place,Dubai Marina,Emaar,Apartment,Studio,2175357,8.6%,6.6%,High,Low
+PID-00303,Grand Living,Dubai Marina,DAMAC,Townhouse,4 BR,2869908,8.9%,8.3%,High,Low
+PID-00304,Vista Square,Business Bay,Binghatti,Villa,3 BR,3169545,7.3%,7.0%,High,Low
+PID-00305,Grand Collection,Business Bay,Emaar,Villa,4 BR,3961371,8.5%,6.9%,High,Low
+PID-00306,Creek Gardens,Business Bay,Sobha Realty,Apartment,Studio,3380126,8.4%,7.0%,High,Low
+PID-00307,Palm Place,JVC,Sobha Realty,Apartment,1 BR,1915301,9.5%,7.9%,Medium,Medium
+PID-00308,Canal Point,Dubai Marina,Sobha Realty,Apartment,Studio,2170035,7.6%,8.3%,High,Low
+PID-00309,Grand Residence,Dubai Marina,Danube,Apartment,Studio,4475367,8.3%,7.9%,High,Low
+PID-00310,Skyline Horizon,JVC,Emaar,Apartment,1 BR,1437782,8.7%,8.4%,Medium,Medium
+PID-00311,Royal Gardens,Dubai Marina,Binghatti,Villa,3 BR,1667806,7.9%,8.0%,High,Low
+PID-00312,Skyline One,Business Bay,Emaar,Villa,1 BR,1837673,7.7%,7.8%,High,Low
+PID-00313,The Residence,JVC,Danube,Apartment,2 BR,1628764,9.0%,8.5%,Medium,Medium
+PID-00314,Ocean Residence,Business Bay,Sobha Realty,Villa,1 BR,2448860,7.0%,7.2%,High,Low
+PID-00315,The Vista,JVC,Danube,Townhouse,3 BR,1257607,8.5%,7.7%,Medium,Medium
+PID-00316,The View,Dubai Marina,DAMAC,Apartment,Studio,2134943,8.8%,7.9%,High,Low
+PID-00317,Palm View,Business Bay,Danube,Apartment,Studio,1217319,8.7%,7.8%,High,Low
+PID-00318,Elite Horizon,Dubai Marina,Danube,Apartment,Studio,2265132,8.5%,7.5%,High,Low
+PID-00319,Royal Horizon,Business Bay,Danube,Apartment,Studio,3604933,8.4%,6.6%,High,Low
+PID-00320,Marina Place,Dubai Marina,Emaar,Apartment,3 BR,3339742,7.4%,8.4%,High,Low
+PID-00321,Royal Living,Dubai Marina,Sobha Realty,Villa,3 BR,3960256,8.1%,8.3%,High,Low
+PID-00322,Central View,Business Bay,Binghatti,Apartment,Studio,3002677,8.4%,6.9%,High,Low
+PID-00323,Infinity View,Dubai Marina,DAMAC,Apartment,4 BR,1846282,7.4%,6.6%,High,Low
+PID-00324,Central Park,Dubai Marina,Sobha Realty,Villa,1 BR,3293839,8.9%,8.5%,High,Low
+PID-00325,Grand Residence,Dubai Marina,Binghatti,Apartment,4 BR,4519542,7.0%,8.1%,High,Low
+PID-00326,Infinity Tower,Business Bay,Danube,Apartment,3 BR,1719848,7.7%,7.5%,High,Low
+PID-00327,Royal Horizon,Business Bay,DAMAC,Villa,4 BR,2229064,8.2%,7.3%,High,Low
+PID-00328,Infinity Central,JVC,Sobha Realty,Apartment,4 BR,888552,8.1%,8.6%,Medium,Medium
+PID-00329,Royal Park,JVC,DAMAC,Townhouse,1 BR,1332351,8.7%,8.8%,Medium,Medium
+PID-00330,Skyline Gardens,Business Bay,Sobha Realty,Villa,Studio,1268131,7.8%,6.5%,High,Low
+PID-00331,Harbour Square,Business Bay,Sobha Realty,Apartment,4 BR,1894515,7.0%,7.1%,High,Low
+PID-00332,Park Residences,Business Bay,Binghatti,Apartment,2 BR,2438434,7.6%,7.5%,High,Low
+PID-00333,The One,Dubai Marina,DAMAC,Townhouse,2 BR,4446704,8.5%,7.2%,High,Low
+PID-00334,Skyline Horizon,JVC,DAMAC,Townhouse,2 BR,1869201,9.8%,8.8%,Medium,Medium
+PID-00335,Creek Living,JVC,DAMAC,Townhouse,1 BR,1179198,8.3%,8.2%,Medium,Medium
+PID-00336,Canal Point,Business Bay,DAMAC,Apartment,2 BR,3033392,8.3%,6.7%,High,Low
+PID-00337,Park Heights,Dubai Marina,Danube,Apartment,2 BR,4201537,8.9%,6.6%,High,Low
+PID-00338,Harbour One,Business Bay,DAMAC,Apartment,Studio,4466706,8.5%,7.0%,High,Low
+PID-00339,Park One,JVC,Sobha Realty,Townhouse,Studio,1728764,9.1%,8.3%,Medium,Medium
+PID-00340,The Park,Business Bay,Binghatti,Townhouse,3 BR,3397829,8.6%,7.3%,High,Low
+PID-00341,Vista View,Dubai Marina,Binghatti,Villa,3 BR,4777111,7.2%,7.6%,High,Low
+PID-00342,Canal Place,Dubai Marina,Danube,Villa,2 BR,2715593,7.8%,7.3%,High,Low
+PID-00343,Royal Tower,JVC,DAMAC,Villa,Studio,933483,8.3%,7.6%,Medium,Medium
+PID-00344,The Vista,Business Bay,Emaar,Villa,4 BR,4468564,7.2%,7.0%,High,Low
+PID-00345,Azure Park,JVC,Emaar,Townhouse,3 BR,1869181,9.4%,8.6%,Medium,Medium
+PID-00346,Skyline View,Business Bay,Emaar,Villa,Studio,2499388,7.0%,6.6%,High,Low
+PID-00347,Central Tower,Business Bay,Binghatti,Apartment,4 BR,4304569,7.5%,7.3%,High,Low
+PID-00348,Royal Residence,Dubai Marina,Sobha Realty,Villa,3 BR,2511106,8.5%,7.0%,High,Low
+PID-00349,Ocean Vista,Business Bay,Sobha Realty,Apartment,Studio,1296292,8.6%,7.1%,High,Low
+PID-00350,Creek Residences,JVC,Emaar,Villa,2 BR,1617663,8.8%,8.1%,Medium,Medium
+PID-00351,Grand Gardens,Business Bay,Binghatti,Townhouse,2 BR,3774458,7.2%,7.7%,High,Low
+PID-00352,Harbour Horizon,JVC,Emaar,Apartment,2 BR,857581,9.9%,8.5%,Medium,Medium
+PID-00353,Ocean Residence,JVC,Danube,Apartment,2 BR,855101,8.1%,8.1%,Medium,Medium
+PID-00354,Ocean Horizon,Dubai Marina,Sobha Realty,Townhouse,3 BR,2503388,8.4%,7.8%,High,Low
+PID-00355,Infinity Gardens,Dubai Marina,Binghatti,Apartment,4 BR,4644119,8.9%,7.8%,High,Low
+PID-00356,Vista Heights,Business Bay,DAMAC,Townhouse,Studio,4421300,8.0%,7.5%,High,Low
+PID-00357,Creek Vista,JVC,Sobha Realty,Apartment,4 BR,958050,9.3%,8.9%,Medium,Medium
+PID-00358,Royal One,Business Bay,Emaar,Villa,Studio,4349261,8.5%,6.8%,High,Low
+PID-00359,Palm Horizon,Dubai Marina,Emaar,Apartment,1 BR,2632669,7.0%,7.1%,High,Low
+PID-00360,Canal Square,Business Bay,Danube,Villa,3 BR,2320850,7.6%,7.1%,High,Low
+PID-00361,Azure Gardens,Business Bay,Danube,Villa,2 BR,4353476,7.2%,6.9%,High,Low
+PID-00362,Vista Living,Business Bay,Binghatti,Apartment,2 BR,3662082,7.8%,6.7%,High,Low
+PID-00363,Canal Central,Dubai Marina,Danube,Villa,4 BR,3035160,8.3%,7.7%,High,Low
+PID-00364,Vista Park,Business Bay,DAMAC,Apartment,Studio,1988167,7.8%,7.7%,High,Low
+PID-00365,Palm Park,Business Bay,Sobha Realty,Apartment,1 BR,2820622,7.8%,6.9%,High,Low
+PID-00366,Royal Gardens,Dubai Marina,Sobha Realty,Townhouse,1 BR,1521866,8.4%,7.3%,High,Low
+PID-00367,Palm Park,Dubai Marina,Binghatti,Apartment,4 BR,3659443,7.9%,8.4%,High,Low
+PID-00368,Infinity One,Dubai Marina,Sobha Realty,Townhouse,2 BR,3449413,7.5%,8.0%,High,Low
+PID-00369,Marina Vista,Dubai Marina,Binghatti,Apartment,2 BR,4874657,8.6%,7.0%,High,Low
+PID-00370,Royal Place,JVC,DAMAC,Townhouse,1 BR,1221267,9.7%,8.3%,Medium,Medium
+PID-00371,Royal Gardens,Dubai Marina,Sobha Realty,Villa,3 BR,4072372,8.4%,8.3%,High,Low
+PID-00372,Creek Vista,Business Bay,Danube,Townhouse,2 BR,4157246,8.3%,7.7%,High,Low
+PID-00373,Grand One,Dubai Marina,Emaar,Villa,4 BR,1795590,7.2%,6.6%,High,Low
+PID-00374,Grand Collection,JVC,Sobha Realty,Townhouse,2 BR,1958390,8.3%,7.8%,Medium,Medium
+PID-00375,Marina Tower,Business Bay,Binghatti,Villa,Studio,3360643,8.2%,7.8%,High,Low
+PID-00376,Park Point,JVC,Emaar,Villa,3 BR,788086,10.0%,8.1%,Medium,Medium
+PID-00377,Azure Collection,JVC,Emaar,Townhouse,2 BR,939112,9.7%,8.9%,Medium,Medium
+PID-00378,Grand Tower,Business Bay,Sobha Realty,Townhouse,4 BR,3427245,8.1%,7.2%,High,Low
+PID-00379,Infinity Central,Dubai Marina,Emaar,Apartment,1 BR,4325736,8.7%,6.8%,High,Low
+PID-00380,Skyline Gardens,JVC,Sobha Realty,Villa,2 BR,1201621,8.8%,8.3%,Medium,Medium
+PID-00381,Ocean Park,Business Bay,Binghatti,Apartment,2 BR,1498871,7.9%,6.6%,High,Low
+PID-00382,Palm View,Business Bay,Sobha Realty,Apartment,Studio,1714894,8.6%,7.7%,High,Low
+PID-00383,Vista Residences,JVC,Binghatti,Apartment,4 BR,1867655,8.7%,8.2%,Medium,Medium
+PID-00384,Ocean Tower,Business Bay,Emaar,Townhouse,4 BR,1403571,8.7%,7.9%,High,Low
+PID-00385,Canal Square,Business Bay,Sobha Realty,Apartment,Studio,1418223,8.2%,7.6%,High,Low
+PID-00386,Marina Gardens,Dubai Marina,DAMAC,Villa,2 BR,4309893,7.1%,6.7%,High,Low
+PID-00387,Elite Park,Dubai Marina,Danube,Apartment,3 BR,4551443,8.7%,7.9%,High,Low
+PID-00388,Infinity Park,Dubai Marina,DAMAC,Townhouse,3 BR,4460184,8.1%,7.2%,High,Low
+PID-00389,Royal Central,Dubai Marina,DAMAC,Villa,4 BR,4189658,7.8%,6.5%,High,Low
+PID-00390,The Tower,JVC,Danube,Apartment,3 BR,819839,9.8%,8.9%,Medium,Medium
+PID-00391,Park Place,Dubai Marina,Binghatti,Apartment,Studio,4838368,8.6%,7.0%,High,Low
+PID-00392,Azure Residences,Dubai Marina,Danube,Townhouse,Studio,1663109,8.2%,8.1%,High,Low
+PID-00393,Park Heights,Dubai Marina,DAMAC,Townhouse,4 BR,3763278,8.2%,8.3%,High,Low
+PID-00394,Royal Residences,Dubai Marina,DAMAC,Apartment,3 BR,3709115,8.4%,7.5%,High,Low
+PID-00395,Grand Gardens,JVC,Emaar,Townhouse,1 BR,1084208,9.9%,7.5%,Medium,Medium
+PID-00396,Infinity Place,Business Bay,DAMAC,Townhouse,3 BR,2997795,8.7%,7.4%,High,Low
+PID-00397,Canal Collection,JVC,Sobha Realty,Apartment,4 BR,1261940,9.5%,8.3%,Medium,Medium
+PID-00398,Palm Heights,Dubai Marina,Danube,Villa,1 BR,1581898,7.6%,8.4%,High,Low
+PID-00399,Elite Heights,JVC,Sobha Realty,Villa,2 BR,1795680,9.4%,8.3%,Medium,Medium
+PID-00400,Infinity Point,JVC,Binghatti,Villa,2 BR,1115853,9.3%,7.7%,Medium,Medium
+PID-00401,Creek Gardens,Dubai Marina,Sobha Realty,Apartment,Studio,3316150,8.5%,8.1%,High,Low
+PID-00402,Palm Central,Dubai Marina,Binghatti,Townhouse,1 BR,2726597,8.6%,7.3%,High,Low
+PID-00403,Creek Residence,JVC,Binghatti,Villa,3 BR,1284488,8.1%,7.7%,Medium,Medium
+PID-00404,Grand One,JVC,Emaar,Apartment,Studio,1385625,8.2%,7.6%,Medium,Medium
+PID-00405,Ocean One,JVC,DAMAC,Villa,Studio,1076022,9.2%,8.0%,Medium,Medium
+PID-00406,Elite Square,Dubai Marina,Danube,Apartment,1 BR,4346223,8.3%,7.7%,High,Low
+PID-00407,Central Vista,JVC,Sobha Realty,Villa,3 BR,1885777,9.3%,9.0%,Medium,Medium
+PID-00408,Harbour Residence,Dubai Marina,DAMAC,Apartment,3 BR,2904226,7.7%,8.4%,High,Low
+PID-00409,Creek Point,Business Bay,Sobha Realty,Apartment,1 BR,2697266,8.4%,7.1%,High,Low
+PID-00410,Creek View,Business Bay,Emaar,Townhouse,Studio,4422721,8.3%,7.4%,High,Low
+PID-00411,Ocean Point,Business Bay,Sobha Realty,Apartment,1 BR,3566699,7.9%,7.0%,High,Low
+PID-00412,Infinity Square,JVC,Binghatti,Apartment,3 BR,1903759,8.3%,7.5%,Medium,Medium
+PID-00413,Skyline Heights,JVC,Sobha Realty,Townhouse,Studio,854367,8.4%,8.7%,Medium,Medium
+PID-00414,Ocean Central,JVC,Sobha Realty,Apartment,1 BR,1549633,8.7%,8.9%,Medium,Medium
+PID-00415,Marina Central,Business Bay,Danube,Villa,4 BR,3594734,7.9%,6.8%,High,Low
+PID-00416,Palm Living,Business Bay,Sobha Realty,Apartment,2 BR,4400652,7.2%,7.2%,High,Low
+PID-00417,Skyline Residence,JVC,Sobha Realty,Townhouse,3 BR,1800568,9.9%,7.7%,Medium,Medium
+PID-00418,The Central,Dubai Marina,DAMAC,Apartment,4 BR,4722806,7.5%,6.6%,High,Low
+PID-00419,Central Residence,Business Bay,DAMAC,Apartment,4 BR,1307433,7.6%,6.5%,High,Low
+PID-00420,Ocean Residence,Business Bay,Binghatti,Villa,1 BR,2740770,8.3%,6.5%,High,Low
+PID-00421,Royal Tower,Business Bay,Binghatti,Apartment,4 BR,4189167,8.7%,7.5%,High,Low
+PID-00422,Grand Place,Business Bay,Sobha Realty,Townhouse,2 BR,2273210,8.7%,6.6%,High,Low
+PID-00423,Canal Park,JVC,Binghatti,Townhouse,Studio,1815897,9.2%,8.0%,Medium,Medium
+PID-00424,Grand Heights,Dubai Marina,DAMAC,Apartment,1 BR,3517044,7.1%,8.4%,High,Low
+PID-00425,Vista Vista,JVC,Emaar,Apartment,Studio,1443892,9.6%,8.2%,Medium,Medium
+PID-00426,Elite One,Dubai Marina,Binghatti,Apartment,4 BR,3055848,8.7%,7.7%,High,Low
+PID-00427,Elite Central,JVC,Sobha Realty,Villa,1 BR,764275,9.8%,7.5%,Medium,Medium
+PID-00428,Palm Living,Dubai Marina,Binghatti,Townhouse,4 BR,2866444,8.0%,8.5%,High,Low
+PID-00429,Infinity Park,Dubai Marina,Sobha Realty,Townhouse,2 BR,4954269,8.2%,6.8%,High,Low
+PID-00430,The Residence,Dubai Marina,Binghatti,Apartment,1 BR,4546378,8.0%,7.1%,High,Low
+PID-00431,Marina Vista,Dubai Marina,Danube,Apartment,4 BR,4155973,7.1%,6.7%,High,Low
+PID-00432,Ocean Tower,Business Bay,Emaar,Townhouse,4 BR,1816877,8.6%,7.6%,High,Low
+PID-00433,Royal View,JVC,DAMAC,Townhouse,3 BR,1449805,9.7%,8.2%,Medium,Medium
+PID-00434,Park Horizon,JVC,Danube,Villa,Studio,921826,8.7%,8.6%,Medium,Medium
+PID-00435,Central One,Dubai Marina,Danube,Apartment,4 BR,3244664,7.1%,7.0%,High,Low
+PID-00436,Marina Residences,Dubai Marina,Danube,Villa,3 BR,4135333,7.6%,7.2%,High,Low
+PID-00437,Azure Collection,JVC,Binghatti,Apartment,1 BR,1451867,8.1%,8.7%,Medium,Medium
+PID-00438,Royal Vista,Business Bay,Emaar,Villa,1 BR,3126399,7.9%,6.7%,High,Low
+PID-00439,Harbour Point,Dubai Marina,Danube,Townhouse,3 BR,2431287,8.6%,8.4%,High,Low
+PID-00440,The Place,Dubai Marina,Danube,Villa,2 BR,3038123,8.4%,8.4%,High,Low
+PID-00441,Ocean Collection,Business Bay,DAMAC,Townhouse,2 BR,1201149,7.3%,7.0%,High,Low
+PID-00442,Creek Horizon,Business Bay,Binghatti,Villa,3 BR,2282928,7.2%,8.0%,High,Low
+PID-00443,Elite Vista,Dubai Marina,Binghatti,Villa,Studio,2750005,7.4%,6.9%,High,Low
+PID-00444,Canal Residences,JVC,Binghatti,Townhouse,Studio,1849239,9.9%,8.6%,Medium,Medium
+PID-00445,Central Heights,JVC,Binghatti,Apartment,3 BR,1716791,9.6%,8.9%,Medium,Medium
+PID-00446,Harbour Heights,JVC,Binghatti,Villa,3 BR,1029953,8.8%,7.7%,Medium,Medium
+PID-00447,Harbour Park,JVC,Emaar,Apartment,1 BR,743295,8.5%,8.0%,Medium,Medium
+PID-00448,Marina Heights,Dubai Marina,DAMAC,Townhouse,2 BR,3511396,8.9%,7.1%,High,Low
+PID-00449,Vista Collection,Dubai Marina,Danube,Villa,2 BR,1758030,8.9%,7.5%,High,Low
+PID-00450,Palm Heights,Business Bay,Binghatti,Villa,4 BR,4134614,8.3%,7.2%,High,Low
+PID-00451,Vista Gardens,JVC,Emaar,Apartment,1 BR,1005246,8.5%,7.9%,Medium,Medium
+PID-00452,Elite Central,Dubai Marina,Binghatti,Townhouse,Studio,4892512,8.9%,6.7%,High,Low
+PID-00453,Park Residences,Dubai Marina,Binghatti,Villa,1 BR,3517543,7.3%,7.7%,High,Low
+PID-00454,Skyline Living,JVC,DAMAC,Villa,1 BR,1750987,9.1%,8.4%,Medium,Medium
+PID-00455,The Gardens,JVC,Danube,Apartment,4 BR,816017,9.0%,8.4%,Medium,Medium
+PID-00456,Vista Place,Dubai Marina,Danube,Townhouse,1 BR,1995173,8.4%,8.2%,High,Low
+PID-00457,Marina Central,JVC,Emaar,Apartment,1 BR,928936,9.0%,8.5%,Medium,Medium
+PID-00458,The Residence,Dubai Marina,Sobha Realty,Apartment,Studio,2077943,8.1%,7.0%,High,Low
+PID-00459,Ocean One,JVC,Binghatti,Villa,1 BR,1752550,9.6%,8.0%,Medium,Medium
+PID-00460,Skyline Tower,Business Bay,Sobha Realty,Apartment,4 BR,1213272,8.4%,8.1%,High,Low
+PID-00461,Canal Park,Business Bay,Emaar,Townhouse,1 BR,3903019,7.1%,7.5%,High,Low
+PID-00462,Ocean One,Business Bay,Danube,Apartment,4 BR,3930711,7.6%,7.1%,High,Low
+PID-00463,The Gardens,Dubai Marina,Sobha Realty,Apartment,1 BR,4984846,8.7%,6.9%,High,Low
+PID-00464,Vista Collection,Dubai Marina,Emaar,Townhouse,2 BR,2215190,7.8%,7.3%,High,Low
+PID-00465,Canal Vista,JVC,Emaar,Apartment,3 BR,787653,9.2%,7.8%,Medium,Medium
+PID-00466,Ocean Square,Dubai Marina,Binghatti,Villa,1 BR,4549847,7.2%,7.9%,High,Low
+PID-00467,Infinity Place,Dubai Marina,DAMAC,Apartment,4 BR,4280451,7.3%,8.3%,High,Low
+PID-00468,Ocean Heights,Business Bay,Emaar,Apartment,1 BR,3947073,7.3%,7.3%,High,Low
+PID-00469,Marina Heights,JVC,DAMAC,Villa,Studio,1023803,8.8%,8.3%,Medium,Medium
+PID-00470,Central Park,JVC,DAMAC,Villa,3 BR,1329589,8.1%,7.8%,Medium,Medium
+PID-00471,Infinity Tower,Dubai Marina,Sobha Realty,Apartment,2 BR,1652585,8.0%,7.3%,High,Low
+PID-00472,Elite View,JVC,DAMAC,Apartment,3 BR,1851848,8.3%,8.5%,Medium,Medium
+PID-00473,Park View,JVC,Sobha Realty,Townhouse,4 BR,1579981,9.2%,8.4%,Medium,Medium
+PID-00474,Royal Square,Dubai Marina,Binghatti,Apartment,1 BR,2329873,8.7%,8.1%,High,Low
+PID-00475,Marina Living,Business Bay,Danube,Apartment,1 BR,3757160,7.1%,7.8%,High,Low
+PID-00476,Royal One,Business Bay,Emaar,Apartment,2 BR,3059731,8.8%,7.0%,High,Low
+PID-00477,Azure Gardens,Dubai Marina,Sobha Realty,Townhouse,Studio,2296801,8.5%,8.1%,High,Low
+PID-00478,Canal Point,JVC,Danube,Apartment,3 BR,1971888,9.3%,8.9%,Medium,Medium
+PID-00479,Ocean Park,Business Bay,Danube,Apartment,2 BR,3081989,8.3%,7.3%,High,Low
+PID-00480,Elite Point,JVC,Sobha Realty,Apartment,3 BR,1297499,9.4%,7.8%,Medium,Medium
+PID-00481,Marina Place,JVC,DAMAC,Townhouse,2 BR,1292547,9.6%,7.5%,Medium,Medium
+PID-00482,Vista Heights,Dubai Marina,Danube,Apartment,1 BR,4407790,7.3%,6.6%,High,Low
+PID-00483,The Central,Business Bay,DAMAC,Villa,1 BR,3152725,8.6%,7.5%,High,Low
+PID-00484,Grand Vista,JVC,Danube,Villa,4 BR,1172144,8.2%,7.7%,Medium,Medium
+PID-00485,Royal View,Dubai Marina,Sobha Realty,Villa,4 BR,3424615,8.6%,6.5%,High,Low
+PID-00486,Harbour Point,JVC,Binghatti,Townhouse,2 BR,1652364,9.0%,8.2%,Medium,Medium
+PID-00487,Park Point,Business Bay,Sobha Realty,Villa,4 BR,1627095,7.4%,7.8%,High,Low
+PID-00488,Canal Square,Dubai Marina,Sobha Realty,Apartment,2 BR,4659571,7.1%,7.9%,High,Low
+PID-00489,Royal Collection,JVC,DAMAC,Townhouse,1 BR,1785880,9.2%,8.9%,Medium,Medium
+PID-00490,Elite Point,Dubai Marina,Danube,Townhouse,3 BR,3165953,8.0%,6.5%,High,Low
+PID-00491,Elite Tower,JVC,Emaar,Townhouse,4 BR,1503990,8.7%,8.6%,Medium,Medium
+PID-00492,Canal View,JVC,Sobha Realty,Apartment,4 BR,1909948,9.6%,8.4%,Medium,Medium
+PID-00493,Creek One,Dubai Marina,Danube,Villa,4 BR,3390819,8.5%,6.8%,High,Low
+PID-00494,Canal Vista,JVC,Binghatti,Townhouse,2 BR,821497,8.0%,7.8%,Medium,Medium
+PID-00495,Skyline Horizon,Dubai Marina,Danube,Villa,1 BR,1616993,7.6%,7.3%,High,Low
+PID-00496,Elite Heights,Dubai Marina,Danube,Apartment,1 BR,4345224,7.8%,8.4%,High,Low
+PID-00497,Royal Vista,Dubai Marina,DAMAC,Townhouse,2 BR,3785968,8.2%,8.0%,High,Low
+PID-00498,Azure Tower,JVC,DAMAC,Villa,Studio,962724,8.9%,7.7%,Medium,Medium
+PID-00499,The Residences,Dubai Marina,DAMAC,Apartment,1 BR,3062755,8.7%,7.8%,High,Low
+PID-00500,Infinity Place,Business Bay,Sobha Realty,Villa,3 BR,3083764,7.2%,7.5%,High,Low
+PID-00501,Azure Collection,Business Bay,Binghatti,Townhouse,1 BR,4354618,7.4%,6.9%,High,Low
+PID-00502,Infinity Gardens,Business Bay,DAMAC,Townhouse,3 BR,2699216,8.7%,8.0%,High,Low
+PID-00503,Vista Vista,Business Bay,Emaar,Villa,2 BR,2085513,8.5%,6.5%,High,Low
+PID-00504,Infinity Residences,Dubai Marina,Binghatti,Townhouse,2 BR,2510787,7.7%,8.4%,High,Low
+PID-00505,Ocean One,Dubai Marina,DAMAC,Villa,4 BR,4779622,8.6%,7.8%,High,Low
+PID-00506,Palm Residences,Business Bay,DAMAC,Villa,Studio,2460854,8.3%,7.1%,High,Low
+PID-00507,Ocean Vista,JVC,Binghatti,Villa,2 BR,1908824,9.2%,8.5%,Medium,Medium
+PID-00508,Creek Place,Dubai Marina,Emaar,Townhouse,1 BR,2349955,8.6%,7.8%,High,Low
+PID-00509,Palm Horizon,JVC,DAMAC,Villa,1 BR,1678154,9.7%,7.8%,Medium,Medium
+PID-00510,The Heights,JVC,Binghatti,Townhouse,1 BR,820147,9.7%,8.7%,Medium,Medium
+PID-00511,Elite Place,Dubai Marina,Danube,Apartment,1 BR,1513662,7.7%,8.2%,High,Low
+PID-00512,Park Central,Dubai Marina,DAMAC,Townhouse,3 BR,3178802,7.5%,7.5%,High,Low
+PID-00513,Azure Point,JVC,Emaar,Apartment,2 BR,1842467,9.3%,9.0%,Medium,Medium
+PID-00514,Park Vista,Dubai Marina,DAMAC,Townhouse,1 BR,4116160,8.7%,7.0%,High,Low
+PID-00515,Grand Tower,Business Bay,Emaar,Townhouse,1 BR,2479793,8.1%,7.7%,High,Low
+PID-00516,Royal Heights,Business Bay,Sobha Realty,Apartment,4 BR,2518894,7.6%,7.1%,High,Low
+PID-00517,Harbour Collection,JVC,Binghatti,Townhouse,Studio,1375330,9.8%,8.1%,Medium,Medium
+PID-00518,Creek Vista,Dubai Marina,DAMAC,Townhouse,2 BR,3898844,8.2%,8.0%,High,Low
+PID-00519,Palm View,Business Bay,Sobha Realty,Villa,4 BR,4109498,7.5%,8.0%,High,Low
+PID-00520,Park Heights,JVC,Emaar,Townhouse,4 BR,1021490,8.0%,8.0%,Medium,Medium
+PID-00521,Azure Gardens,JVC,Danube,Apartment,4 BR,675773,8.0%,8.5%,Medium,Medium
+PID-00522,Central Point,JVC,Danube,Townhouse,3 BR,1315601,10.0%,7.5%,Medium,Medium
+PID-00523,Elite Collection,JVC,Binghatti,Townhouse,4 BR,1813032,9.6%,7.8%,Medium,Medium
+PID-00524,Palm Horizon,JVC,Danube,Villa,2 BR,1577299,8.3%,8.8%,Medium,Medium
+PID-00525,Park Central,Business Bay,DAMAC,Townhouse,4 BR,1528912,8.5%,6.9%,High,Low
+PID-00526,Royal Vista,Dubai Marina,Binghatti,Villa,1 BR,4232363,9.0%,7.5%,High,Low
+PID-00527,Marina Square,JVC,Danube,Apartment,4 BR,1091646,9.6%,8.2%,Medium,Medium
+PID-00528,Elite Point,Business Bay,Sobha Realty,Apartment,1 BR,2831910,8.7%,7.2%,High,Low
+PID-00529,Creek One,JVC,Emaar,Villa,Studio,954293,8.1%,8.3%,Medium,Medium
+PID-00530,Canal Place,Dubai Marina,Binghatti,Apartment,4 BR,4046387,8.0%,8.2%,High,Low
+PID-00531,Marina Central,JVC,DAMAC,Townhouse,Studio,1970500,9.9%,8.7%,Medium,Medium
+PID-00532,Central Square,Business Bay,Danube,Townhouse,4 BR,3184605,8.0%,7.7%,High,Low
+PID-00533,Royal Square,JVC,Sobha Realty,Villa,1 BR,1453532,8.9%,7.6%,Medium,Medium
+PID-00534,Creek Living,Dubai Marina,DAMAC,Villa,4 BR,4624293,8.4%,8.4%,High,Low
+PID-00535,Park Tower,JVC,Emaar,Apartment,4 BR,932693,9.5%,7.6%,Medium,Medium
+PID-00536,Azure Park,Business Bay,Emaar,Apartment,Studio,3601533,7.3%,7.9%,High,Low
+PID-00537,Canal Residences,JVC,Emaar,Villa,3 BR,898345,8.2%,8.8%,Medium,Medium
+PID-00538,Elite Vista,Business Bay,Danube,Townhouse,4 BR,3091332,8.8%,6.8%,High,Low
+PID-00539,Harbour Point,Dubai Marina,Binghatti,Apartment,4 BR,2447186,8.7%,7.1%,High,Low
+PID-00540,Skyline Vista,Business Bay,Sobha Realty,Townhouse,4 BR,2655967,7.8%,7.5%,High,Low
+PID-00541,Creek Heights,Dubai Marina,Sobha Realty,Apartment,Studio,4901475,8.8%,8.1%,High,Low
+PID-00542,Canal Park,Dubai Marina,Danube,Townhouse,3 BR,3450858,7.7%,7.0%,High,Low
+PID-00543,Park View,Dubai Marina,Danube,Villa,4 BR,3780602,7.9%,7.0%,High,Low
+PID-00544,Canal Point,Dubai Marina,Danube,Villa,4 BR,4986444,8.7%,8.3%,High,Low
+PID-00545,Royal Park,Business Bay,Sobha Realty,Apartment,4 BR,3314941,8.7%,6.6%,High,Low
+PID-00546,Elite Horizon,Dubai Marina,Emaar,Villa,2 BR,1523823,8.7%,7.0%,High,Low
+PID-00547,Creek Vista,Business Bay,DAMAC,Townhouse,Studio,1538426,8.2%,7.2%,High,Low
+PID-00548,Grand Park,JVC,Sobha Realty,Apartment,3 BR,1853473,8.3%,8.7%,Medium,Medium
+PID-00549,Azure Point,Dubai Marina,Danube,Villa,2 BR,3184925,8.0%,7.9%,High,Low
+PID-00550,Ocean Collection,Business Bay,DAMAC,Villa,3 BR,3987873,7.4%,7.5%,High,Low
+PID-00551,Park Vista,JVC,DAMAC,Townhouse,4 BR,1218697,9.9%,8.3%,Medium,Medium
+PID-00552,Skyline Horizon,Business Bay,DAMAC,Townhouse,2 BR,3326971,7.1%,7.5%,High,Low
+PID-00553,Vista Living,Business Bay,Danube,Villa,Studio,2688590,7.9%,7.4%,High,Low
+PID-00554,Elite Park,JVC,Binghatti,Villa,Studio,834474,8.7%,8.0%,Medium,Medium
+PID-00555,Marina Horizon,Dubai Marina,Sobha Realty,Apartment,4 BR,2745744,7.5%,7.1%,High,Low
+PID-00556,Ocean Park,Dubai Marina,DAMAC,Villa,1 BR,4587810,8.5%,7.7%,High,Low
+PID-00557,Marina Place,Business Bay,Emaar,Villa,3 BR,1502885,8.5%,7.6%,High,Low
+PID-00558,Harbour Place,JVC,DAMAC,Villa,Studio,1185113,9.8%,7.9%,Medium,Medium
+PID-00559,Azure Heights,JVC,Danube,Villa,3 BR,700956,8.0%,8.0%,Medium,Medium
+PID-00560,Park Collection,Business Bay,Emaar,Apartment,4 BR,3135654,8.2%,7.7%,High,Low
+PID-00561,Elite Place,Business Bay,Binghatti,Apartment,4 BR,2635617,8.3%,8.0%,High,Low
+PID-00562,Azure Residences,JVC,DAMAC,Townhouse,1 BR,1218105,8.8%,8.0%,Medium,Medium
+PID-00563,Central One,Business Bay,DAMAC,Townhouse,1 BR,1940452,7.5%,7.6%,High,Low
+PID-00564,Azure Vista,Business Bay,DAMAC,Townhouse,3 BR,3649487,8.6%,8.1%,High,Low
+PID-00565,Elite Horizon,Business Bay,Binghatti,Townhouse,3 BR,3402676,7.0%,7.5%,High,Low
+PID-00566,Elite Place,Dubai Marina,DAMAC,Townhouse,4 BR,1843084,7.3%,6.9%,High,Low
+PID-00567,The Tower,Business Bay,Sobha Realty,Villa,2 BR,3767808,7.8%,7.1%,High,Low
+PID-00568,Royal Central,Business Bay,DAMAC,Villa,Studio,1849134,8.4%,7.9%,High,Low
+PID-00569,Harbour Park,Dubai Marina,Binghatti,Apartment,Studio,1926332,7.1%,7.4%,High,Low
+PID-00570,Azure Heights,JVC,Emaar,Apartment,Studio,691349,8.2%,8.9%,Medium,Medium
+PID-00571,Vista One,Dubai Marina,DAMAC,Villa,2 BR,2545628,7.8%,7.5%,High,Low
+PID-00572,Ocean Residences,Business Bay,Emaar,Apartment,Studio,4399860,7.5%,7.6%,High,Low
+PID-00573,Harbour Square,Dubai Marina,DAMAC,Apartment,4 BR,3644284,8.2%,6.9%,High,Low
+PID-00574,Harbour Collection,Dubai Marina,Danube,Townhouse,2 BR,2860793,7.7%,8.2%,High,Low
+PID-00575,Vista Collection,JVC,Sobha Realty,Villa,Studio,1544730,8.8%,7.5%,Medium,Medium
+PID-00576,Palm Point,Dubai Marina,DAMAC,Apartment,1 BR,2412485,7.1%,7.5%,High,Low
+PID-00577,Infinity View,Dubai Marina,DAMAC,Villa,4 BR,2508922,8.1%,7.0%,High,Low
+PID-00578,Marina Heights,Business Bay,DAMAC,Apartment,2 BR,4284484,8.1%,6.6%,High,Low
+PID-00579,Harbour Point,Dubai Marina,Sobha Realty,Villa,2 BR,3090388,8.6%,8.2%,High,Low
+PID-00580,Canal Place,JVC,Binghatti,Apartment,3 BR,654246,8.8%,8.9%,Medium,Medium
+PID-00581,Ocean Park,Business Bay,Danube,Apartment,Studio,2914405,7.3%,7.0%,High,Low
+PID-00582,Central Residence,Dubai Marina,Binghatti,Villa,4 BR,1804636,8.5%,7.0%,High,Low
+PID-00583,Central Heights,Dubai Marina,Sobha Realty,Apartment,Studio,1681456,8.9%,8.2%,High,Low
+PID-00584,Harbour Square,Business Bay,Emaar,Apartment,1 BR,2667433,7.5%,7.0%,High,Low
+PID-00585,Central Tower,Dubai Marina,Sobha Realty,Villa,3 BR,2389495,7.8%,7.6%,High,Low
+PID-00586,Park Square,JVC,DAMAC,Apartment,1 BR,1811396,10.0%,8.1%,Medium,Medium
+PID-00587,Marina Heights,JVC,DAMAC,Townhouse,3 BR,1783138,9.6%,9.0%,Medium,Medium
+PID-00588,Vista Collection,JVC,Danube,Apartment,Studio,841586,9.0%,7.7%,Medium,Medium
+PID-00589,Skyline Square,JVC,DAMAC,Townhouse,2 BR,1027044,9.8%,8.7%,Medium,Medium
+PID-00590,Harbour Point,JVC,Sobha Realty,Apartment,3 BR,729232,9.1%,8.3%,Medium,Medium
+PID-00591,Royal One,JVC,Danube,Apartment,1 BR,1648257,8.3%,8.7%,Medium,Medium
+PID-00592,Elite Place,JVC,Sobha Realty,Townhouse,Studio,1148008,9.1%,7.8%,Medium,Medium
+PID-00593,The Vista,Business Bay,Danube,Apartment,4 BR,2136325,7.0%,7.7%,High,Low
+PID-00594,Canal Park,Business Bay,Danube,Townhouse,Studio,3313367,8.7%,8.0%,High,Low
+PID-00595,Infinity Tower,JVC,DAMAC,Apartment,3 BR,1454885,8.4%,8.2%,Medium,Medium
+PID-00596,Grand Tower,Dubai Marina,Binghatti,Apartment,2 BR,1506472,8.7%,7.2%,High,Low
+PID-00597,Canal Vista,JVC,Emaar,Villa,2 BR,1165752,9.6%,8.8%,Medium,Medium
+PID-00598,Grand Park,Dubai Marina,Binghatti,Villa,Studio,4227230,8.0%,6.5%,High,Low
+PID-00599,Elite Square,Dubai Marina,Danube,Townhouse,2 BR,1830364,8.6%,7.6%,High,Low
+PID-00600,Central View,Business Bay,Binghatti,Apartment,3 BR,1877040,7.8%,6.7%,High,Low
+PID-00601,Grand Central,Business Bay,Emaar,Villa,1 BR,1787586,7.8%,8.1%,High,Low
+PID-00602,Park Collection,JVC,Emaar,Townhouse,Studio,809528,10.0%,8.8%,Medium,Medium
+PID-00603,Marina Park,JVC,Emaar,Townhouse,3 BR,1145805,9.1%,8.5%,Medium,Medium
+PID-00604,Royal Point,Dubai Marina,Danube,Villa,Studio,4913225,7.0%,8.5%,High,Low
+PID-00605,Infinity Horizon,JVC,Emaar,Villa,3 BR,1944078,9.3%,8.7%,Medium,Medium
+PID-00606,Ocean Tower,JVC,DAMAC,Apartment,Studio,1210531,8.1%,8.5%,Medium,Medium
+PID-00607,Azure Residence,Dubai Marina,Danube,Apartment,3 BR,4084344,8.6%,7.5%,High,Low
+PID-00608,Palm One,JVC,DAMAC,Villa,1 BR,891523,9.8%,8.4%,Medium,Medium
+PID-00609,Ocean Gardens,JVC,Danube,Townhouse,2 BR,1605801,9.1%,8.2%,Medium,Medium
+PID-00610,Palm One,Dubai Marina,Binghatti,Villa,Studio,4377985,9.0%,8.0%,High,Low
+PID-00611,Park Park,Dubai Marina,Binghatti,Townhouse,3 BR,2270886,7.1%,7.8%,High,Low
+PID-00612,The Residence,Business Bay,Sobha Realty,Townhouse,3 BR,2833097,7.1%,7.6%,High,Low
+PID-00613,Central Collection,JVC,Binghatti,Villa,2 BR,1478435,8.3%,7.8%,Medium,Medium
+PID-00614,Azure Park,JVC,Danube,Townhouse,3 BR,1502611,9.8%,8.6%,Medium,Medium
+PID-00615,Central Place,JVC,Sobha Realty,Townhouse,1 BR,693600,9.4%,7.9%,Medium,Medium
+PID-00616,Grand Living,Business Bay,Emaar,Villa,Studio,4075816,8.0%,7.8%,High,Low
+PID-00617,Canal Living,JVC,DAMAC,Villa,2 BR,993929,8.8%,7.6%,Medium,Medium
+PID-00618,Grand Residence,Dubai Marina,Emaar,Villa,3 BR,3079014,8.5%,8.3%,High,Low
+PID-00619,Skyline Place,Business Bay,DAMAC,Apartment,4 BR,4320591,7.1%,7.9%,High,Low
+PID-00620,Marina Collection,Business Bay,Sobha Realty,Townhouse,Studio,2745449,7.4%,7.7%,High,Low
+PID-00621,Ocean Residences,JVC,Sobha Realty,Apartment,1 BR,1693822,8.5%,8.2%,Medium,Medium
+PID-00622,Vista One,JVC,Binghatti,Villa,Studio,1026823,8.4%,7.9%,Medium,Medium
+PID-00623,Canal Park,JVC,DAMAC,Villa,3 BR,1192476,8.6%,8.8%,Medium,Medium
+PID-00624,Creek View,JVC,DAMAC,Townhouse,3 BR,1523867,8.2%,8.3%,Medium,Medium
+PID-00625,Canal Gardens,JVC,DAMAC,Villa,2 BR,1736433,9.7%,7.6%,Medium,Medium
+PID-00626,Infinity Collection,Dubai Marina,Danube,Townhouse,3 BR,1613061,8.1%,6.7%,High,Low
+PID-00627,Infinity Residence,Dubai Marina,Danube,Apartment,2 BR,2791774,8.1%,6.6%,High,Low
+PID-00628,Central Point,Business Bay,Binghatti,Townhouse,2 BR,4241374,7.7%,7.0%,High,Low
+PID-00629,Azure Square,JVC,Danube,Villa,4 BR,855757,9.3%,8.1%,Medium,Medium
+PID-00630,Creek Vista,JVC,DAMAC,Townhouse,4 BR,1992161,9.9%,7.9%,Medium,Medium
+PID-00631,Royal Residences,Dubai Marina,Binghatti,Townhouse,Studio,3761574,8.4%,7.6%,High,Low
+PID-00632,Creek Residence,Business Bay,DAMAC,Apartment,4 BR,3568308,7.3%,7.3%,High,Low
+PID-00633,Creek Point,Business Bay,Danube,Villa,Studio,1315267,8.4%,7.8%,High,Low
+PID-00634,Grand Square,JVC,Danube,Apartment,1 BR,972974,8.8%,8.4%,Medium,Medium
+PID-00635,Harbour Park,JVC,Emaar,Apartment,Studio,1172456,9.2%,9.0%,Medium,Medium
+PID-00636,Palm Central,Business Bay,DAMAC,Villa,3 BR,1578257,7.9%,7.7%,High,Low
+PID-00637,Vista Gardens,JVC,Sobha Realty,Townhouse,2 BR,1930672,8.7%,7.5%,Medium,Medium
+PID-00638,Skyline Vista,Business Bay,Binghatti,Townhouse,Studio,3205315,8.5%,7.6%,High,Low
+PID-00639,Infinity Horizon,Dubai Marina,Emaar,Villa,4 BR,3736492,7.2%,7.0%,High,Low
+PID-00640,Skyline Place,Business Bay,Sobha Realty,Townhouse,Studio,2526514,8.6%,7.1%,High,Low
+PID-00641,Royal Gardens,JVC,Sobha Realty,Villa,2 BR,1644774,9.5%,8.7%,Medium,Medium
+PID-00642,Ocean Residence,JVC,Emaar,Villa,2 BR,1289516,8.0%,7.8%,Medium,Medium
+PID-00643,Royal Park,Dubai Marina,Binghatti,Townhouse,1 BR,3960292,8.1%,7.8%,High,Low
+PID-00644,Ocean Residence,Dubai Marina,DAMAC,Townhouse,3 BR,4194782,8.0%,8.5%,High,Low
+PID-00645,Royal Gardens,Business Bay,Emaar,Apartment,3 BR,2582320,8.3%,7.8%,High,Low
+PID-00646,Creek Point,JVC,Danube,Villa,3 BR,1038994,9.3%,7.5%,Medium,Medium
+PID-00647,Canal View,Dubai Marina,Binghatti,Apartment,4 BR,2170283,8.1%,7.5%,High,Low
+PID-00648,Azure Gardens,JVC,Binghatti,Villa,Studio,1235076,8.4%,8.4%,Medium,Medium
+PID-00649,Canal Gardens,Business Bay,Emaar,Townhouse,3 BR,4305651,8.3%,6.7%,High,Low
+PID-00650,Royal Horizon,Dubai Marina,Danube,Townhouse,3 BR,4760691,8.3%,7.4%,High,Low
+PID-00651,Vista Place,JVC,Binghatti,Townhouse,3 BR,915841,8.1%,8.6%,Medium,Medium
+PID-00652,Ocean Place,Dubai Marina,Emaar,Townhouse,1 BR,4512792,8.7%,6.8%,High,Low
+PID-00653,Vista Square,JVC,Sobha Realty,Apartment,Studio,1009097,9.9%,7.9%,Medium,Medium
+PID-00654,Marina Park,Business Bay,DAMAC,Apartment,Studio,4479101,8.5%,6.8%,High,Low
+PID-00655,Azure Place,Business Bay,Sobha Realty,Villa,3 BR,2659000,7.2%,7.1%,High,Low
+PID-00656,Park Living,Dubai Marina,Emaar,Apartment,1 BR,2537150,8.0%,7.9%,High,Low
+PID-00657,Vista Residence,Dubai Marina,Sobha Realty,Villa,1 BR,3994716,8.4%,7.9%,High,Low
+PID-00658,Azure Vista,JVC,Danube,Townhouse,3 BR,1450441,10.0%,8.1%,Medium,Medium
+PID-00659,Infinity One,Dubai Marina,Danube,Villa,1 BR,4299080,7.9%,7.0%,High,Low
+PID-00660,Skyline Living,Business Bay,Binghatti,Townhouse,4 BR,3101369,7.9%,7.5%,High,Low
+PID-00661,Ocean Collection,Dubai Marina,Danube,Villa,3 BR,1914921,7.2%,7.5%,High,Low
+PID-00662,Ocean Point,Dubai Marina,Binghatti,Apartment,3 BR,2466725,8.0%,7.9%,High,Low
+PID-00663,Canal Residences,Business Bay,Binghatti,Apartment,2 BR,2492955,7.4%,7.0%,High,Low
+PID-00664,Skyline Residence,JVC,DAMAC,Villa,4 BR,1023004,9.2%,8.1%,Medium,Medium
+PID-00665,Palm Tower,Dubai Marina,DAMAC,Apartment,2 BR,4888487,8.9%,7.8%,High,Low
+PID-00666,The Place,Dubai Marina,DAMAC,Townhouse,Studio,3337391,7.6%,6.6%,High,Low
+PID-00667,Skyline One,Business Bay,Danube,Villa,2 BR,1487720,8.6%,6.9%,High,Low
+PID-00668,Azure Residence,JVC,Binghatti,Apartment,4 BR,1125501,9.0%,8.3%,Medium,Medium
+PID-00669,Palm Tower,Business Bay,Binghatti,Townhouse,4 BR,2754623,8.4%,6.5%,High,Low
+PID-00670,Grand Living,JVC,DAMAC,Apartment,4 BR,1351225,9.1%,7.5%,Medium,Medium
+PID-00671,Ocean Residences,Business Bay,Sobha Realty,Villa,2 BR,4431511,8.3%,6.8%,High,Low
+PID-00672,The Gardens,Business Bay,Emaar,Villa,4 BR,3025045,8.4%,7.8%,High,Low
+PID-00673,Central Point,Business Bay,DAMAC,Townhouse,1 BR,3677287,8.6%,7.9%,High,Low
+PID-00674,Royal Central,Dubai Marina,Binghatti,Villa,1 BR,2486787,9.0%,8.3%,High,Low
+PID-00675,Central Residences,Dubai Marina,Emaar,Townhouse,2 BR,1743943,7.1%,8.4%,High,Low
+PID-00676,Vista Square,Business Bay,DAMAC,Apartment,Studio,1386689,7.8%,8.1%,High,Low
+PID-00677,Park Vista,Business Bay,Emaar,Villa,Studio,1681172,7.5%,6.9%,High,Low
+PID-00678,Palm View,Business Bay,Sobha Realty,Apartment,2 BR,2345326,7.4%,7.4%,High,Low
+PID-00679,Canal Living,Dubai Marina,Sobha Realty,Townhouse,3 BR,4208448,7.6%,6.8%,High,Low
+PID-00680,Azure Horizon,Dubai Marina,DAMAC,Villa,4 BR,3265222,8.0%,7.2%,High,Low
+PID-00681,Creek Collection,Dubai Marina,Emaar,Villa,1 BR,1552329,7.7%,8.0%,High,Low
+PID-00682,Palm One,Business Bay,DAMAC,Townhouse,1 BR,2775665,7.7%,8.0%,High,Low
+PID-00683,Canal Square,JVC,Danube,Apartment,4 BR,1726943,8.9%,8.7%,Medium,Medium
+PID-00684,Azure Residence,Dubai Marina,Emaar,Townhouse,3 BR,2816520,8.2%,7.6%,High,Low
+PID-00685,Ocean One,Business Bay,Danube,Villa,Studio,1916287,7.1%,7.8%,High,Low
+PID-00686,Skyline Place,Business Bay,DAMAC,Townhouse,4 BR,4091019,7.8%,6.7%,High,Low
+PID-00687,Elite Place,Business Bay,Emaar,Apartment,2 BR,1368572,8.6%,6.9%,High,Low
+PID-00688,Skyline One,Dubai Marina,Danube,Apartment,1 BR,2407618,8.4%,6.8%,High,Low
+PID-00689,Creek View,Dubai Marina,Binghatti,Townhouse,Studio,3968385,7.8%,8.4%,High,Low
+PID-00690,Elite Point,JVC,Emaar,Townhouse,2 BR,1863901,8.2%,8.9%,Medium,Medium
+PID-00691,Skyline Living,Dubai Marina,Sobha Realty,Apartment,4 BR,1922909,7.8%,7.2%,High,Low
+PID-00692,Central Tower,JVC,Binghatti,Townhouse,2 BR,1063649,9.6%,7.9%,Medium,Medium
+PID-00693,The Vista,JVC,DAMAC,Townhouse,1 BR,1608820,8.7%,8.3%,Medium,Medium
+PID-00694,Park Square,JVC,Sobha Realty,Townhouse,2 BR,1032651,9.6%,8.3%,Medium,Medium
+PID-00695,Central Central,JVC,Emaar,Townhouse,1 BR,921198,9.5%,8.9%,Medium,Medium
+PID-00696,Azure Horizon,Business Bay,DAMAC,Townhouse,1 BR,1695171,8.3%,6.8%,High,Low
+PID-00697,Park Vista,JVC,Sobha Realty,Townhouse,3 BR,1265537,9.6%,8.0%,Medium,Medium
+PID-00698,Park Collection,Dubai Marina,Binghatti,Townhouse,Studio,1993904,8.8%,7.1%,High,Low
+PID-00699,Canal Vista,Business Bay,Danube,Townhouse,1 BR,3851159,7.9%,7.6%,High,Low
+PID-00700,Skyline Point,JVC,Sobha Realty,Apartment,2 BR,1198439,9.6%,8.2%,Medium,Medium
+PID-00701,Park Point,Dubai Marina,Binghatti,Townhouse,Studio,3153394,7.4%,8.2%,High,Low
+PID-00702,Creek View,JVC,Danube,Apartment,3 BR,1983653,10.0%,8.3%,Medium,Medium
+PID-00703,Infinity Residence,JVC,DAMAC,Apartment,1 BR,1386875,8.5%,8.4%,Medium,Medium
+PID-00704,Palm Gardens,Dubai Marina,Danube,Townhouse,1 BR,4242461,8.5%,6.6%,High,Low
+PID-00705,Grand View,Dubai Marina,Danube,Townhouse,Studio,4273222,7.4%,7.8%,High,Low
+PID-00706,Grand Square,Dubai Marina,Sobha Realty,Villa,4 BR,3858354,7.4%,8.4%,High,Low
+PID-00707,Palm Point,Business Bay,DAMAC,Townhouse,3 BR,1545657,8.5%,7.8%,High,Low
+PID-00708,Infinity Place,JVC,Binghatti,Apartment,3 BR,1413939,9.0%,7.6%,Medium,Medium
+PID-00709,The Gardens,JVC,Emaar,Townhouse,2 BR,1003924,8.4%,9.0%,Medium,Medium
+PID-00710,Park Vista,Dubai Marina,DAMAC,Villa,Studio,4404850,8.6%,6.7%,High,Low
+PID-00711,Vista Living,JVC,DAMAC,Townhouse,3 BR,1509864,8.3%,8.3%,Medium,Medium
+PID-00712,Canal Collection,JVC,Emaar,Townhouse,Studio,680371,9.6%,7.8%,Medium,Medium
+PID-00713,Canal Point,JVC,Danube,Townhouse,4 BR,1960974,8.7%,8.8%,Medium,Medium
+PID-00714,Infinity Central,Business Bay,Sobha Realty,Townhouse,Studio,2137758,8.2%,7.4%,High,Low
+PID-00715,Marina Gardens,JVC,Danube,Apartment,1 BR,1687937,9.7%,8.0%,Medium,Medium
+PID-00716,Elite Vista,JVC,DAMAC,Villa,Studio,1117365,9.4%,7.9%,Medium,Medium
+PID-00717,Park View,Business Bay,DAMAC,Villa,1 BR,4321010,7.3%,7.6%,High,Low
+PID-00718,Park Horizon,JVC,Binghatti,Villa,1 BR,1167538,8.6%,8.6%,Medium,Medium
+PID-00719,Canal Square,JVC,Danube,Apartment,4 BR,1689767,9.1%,7.7%,Medium,Medium
+PID-00720,Azure Horizon,Dubai Marina,Sobha Realty,Apartment,4 BR,1575954,7.2%,7.9%,High,Low
+PID-00721,Central Central,Business Bay,Sobha Realty,Villa,2 BR,4294829,8.3%,6.6%,High,Low
+PID-00722,Central Gardens,JVC,Binghatti,Apartment,1 BR,1299213,8.8%,7.9%,Medium,Medium
+PID-00723,Park Central,Dubai Marina,Sobha Realty,Villa,4 BR,4205576,8.9%,7.0%,High,Low
+PID-00724,Central Park,Dubai Marina,Sobha Realty,Villa,4 BR,3588155,8.8%,7.6%,High,Low
+PID-00725,Palm Vista,Dubai Marina,Binghatti,Apartment,2 BR,3526618,8.0%,7.4%,High,Low
+PID-00726,Royal Horizon,Dubai Marina,Sobha Realty,Villa,1 BR,4489997,8.2%,8.3%,High,Low
+PID-00727,The Gardens,Business Bay,DAMAC,Villa,Studio,1622089,7.2%,7.8%,High,Low
+PID-00728,Grand Central,JVC,Sobha Realty,Villa,3 BR,1969307,9.3%,7.9%,Medium,Medium
+PID-00729,Ocean Collection,JVC,Binghatti,Apartment,1 BR,1815317,9.0%,7.6%,Medium,Medium
+PID-00730,Royal Living,Dubai Marina,Binghatti,Villa,Studio,2361858,7.3%,6.5%,High,Low
+PID-00731,Park Central,Dubai Marina,Binghatti,Apartment,1 BR,4430668,8.4%,7.6%,High,Low
+PID-00732,Skyline Place,Dubai Marina,DAMAC,Townhouse,2 BR,2935384,8.4%,7.0%,High,Low
+PID-00733,Grand Gardens,JVC,Sobha Realty,Townhouse,3 BR,1445412,9.5%,8.0%,Medium,Medium
+PID-00734,Grand One,JVC,DAMAC,Apartment,1 BR,997507,8.7%,8.7%,Medium,Medium
+PID-00735,Palm Collection,Business Bay,DAMAC,Townhouse,Studio,1502076,8.5%,7.7%,High,Low
+PID-00736,Marina Tower,JVC,Sobha Realty,Apartment,2 BR,853876,8.7%,8.6%,Medium,Medium
+PID-00737,Palm Square,JVC,Binghatti,Townhouse,1 BR,1468379,9.6%,8.2%,Medium,Medium
+PID-00738,Canal Point,Dubai Marina,Sobha Realty,Townhouse,Studio,4890323,7.2%,7.4%,High,Low
+PID-00739,Azure Horizon,JVC,DAMAC,Townhouse,3 BR,1095393,9.6%,7.7%,Medium,Medium
+PID-00740,Canal Heights,Business Bay,DAMAC,Apartment,Studio,1558039,8.5%,8.2%,High,Low
+PID-00741,Park Central,Dubai Marina,Sobha Realty,Apartment,Studio,1784473,9.0%,8.0%,High,Low
+PID-00742,Royal Residence,JVC,Sobha Realty,Apartment,4 BR,964689,9.8%,7.8%,Medium,Medium
+PID-00743,Vista Residences,Business Bay,Emaar,Townhouse,2 BR,3553824,7.1%,7.6%,High,Low
+PID-00744,Skyline Residence,JVC,Emaar,Villa,4 BR,1304312,8.1%,7.7%,Medium,Medium
+PID-00745,Vista Horizon,Business Bay,Sobha Realty,Villa,1 BR,2743632,8.3%,7.7%,High,Low
+PID-00746,Park Square,Business Bay,DAMAC,Townhouse,Studio,4169173,7.4%,6.9%,High,Low
+PID-00747,The One,Dubai Marina,Sobha Realty,Villa,Studio,3308931,7.1%,7.5%,High,Low
+PID-00748,Infinity Point,JVC,Binghatti,Townhouse,Studio,1688139,9.4%,8.2%,Medium,Medium
+PID-00749,The View,Dubai Marina,Emaar,Villa,3 BR,4306766,7.7%,7.0%,High,Low
+PID-00750,Infinity Point,JVC,Sobha Realty,Apartment,Studio,1324122,9.4%,8.2%,Medium,Medium
+PID-00751,Central Tower,JVC,Binghatti,Apartment,2 BR,1701901,8.5%,8.2%,Medium,Medium
+PID-00752,Marina Residences,Business Bay,Danube,Apartment,2 BR,4347125,8.5%,7.5%,High,Low
+PID-00753,Creek Vista,Dubai Marina,Binghatti,Townhouse,Studio,1966403,8.8%,8.3%,High,Low
+PID-00754,Grand Horizon,Business Bay,DAMAC,Apartment,2 BR,2482031,8.6%,7.4%,High,Low
+PID-00755,Palm Gardens,JVC,Binghatti,Villa,3 BR,1487249,8.8%,8.0%,Medium,Medium
+PID-00756,Azure Vista,JVC,Sobha Realty,Townhouse,Studio,1420494,8.9%,7.5%,Medium,Medium
+PID-00757,Royal View,JVC,DAMAC,Apartment,Studio,992128,8.8%,8.4%,Medium,Medium
+PID-00758,Vista Residence,Dubai Marina,Emaar,Villa,3 BR,3742951,8.0%,7.9%,High,Low
+PID-00759,Canal Square,Dubai Marina,Danube,Villa,1 BR,2583185,7.9%,7.8%,High,Low
+PID-00760,Elite Residences,Dubai Marina,Binghatti,Townhouse,1 BR,3112862,7.5%,7.6%,High,Low
+PID-00761,Creek Central,Dubai Marina,Sobha Realty,Villa,1 BR,2110348,8.7%,6.7%,High,Low
+PID-00762,The Tower,Business Bay,Danube,Apartment,4 BR,1686725,7.2%,6.5%,High,Low
+PID-00763,Grand Collection,Business Bay,Emaar,Apartment,4 BR,3292669,8.6%,6.7%,High,Low
+PID-00764,Azure Residences,Business Bay,Sobha Realty,Apartment,Studio,4172237,8.3%,6.5%,High,Low
+PID-00765,The Residence,Business Bay,DAMAC,Apartment,Studio,2833462,7.5%,8.0%,High,Low
+PID-00766,Elite Point,Dubai Marina,Emaar,Villa,3 BR,2772237,8.9%,7.8%,High,Low
+PID-00767,Skyline Residences,Dubai Marina,Binghatti,Townhouse,4 BR,2116264,7.2%,7.5%,High,Low
+PID-00768,The Point,Business Bay,Binghatti,Villa,3 BR,1995527,7.1%,7.5%,High,Low
+PID-00769,Azure Collection,Business Bay,Binghatti,Apartment,4 BR,2960844,8.8%,7.4%,High,Low
+PID-00770,Marina Horizon,Business Bay,Danube,Townhouse,2 BR,2967928,7.8%,7.2%,High,Low
+PID-00771,Vista Residence,Business Bay,Emaar,Townhouse,3 BR,1443475,8.8%,7.7%,High,Low
+PID-00772,Skyline Vista,Business Bay,DAMAC,Villa,1 BR,2651249,7.8%,7.3%,High,Low
+PID-00773,The Collection,JVC,Binghatti,Townhouse,4 BR,1543881,9.2%,8.4%,Medium,Medium
+PID-00774,Marina Residences,Business Bay,DAMAC,Townhouse,1 BR,4430540,8.5%,7.8%,High,Low
+PID-00775,Infinity Gardens,Business Bay,Binghatti,Villa,Studio,4279469,8.4%,8.2%,High,Low
+PID-00776,Infinity Horizon,Dubai Marina,Sobha Realty,Villa,3 BR,3996556,8.4%,6.8%,High,Low
+PID-00777,Harbour Tower,Dubai Marina,Sobha Realty,Apartment,3 BR,3521759,7.2%,8.5%,High,Low
+PID-00778,Creek Collection,Dubai Marina,Binghatti,Villa,4 BR,2008319,8.6%,8.0%,High,Low
+PID-00779,Infinity Point,Dubai Marina,Danube,Villa,2 BR,3880437,7.3%,7.6%,High,Low
+PID-00780,Canal Heights,JVC,Emaar,Townhouse,4 BR,834206,9.7%,8.4%,Medium,Medium
+PID-00781,Marina Vista,Dubai Marina,Emaar,Villa,3 BR,3024265,8.9%,6.7%,High,Low
+PID-00782,Azure Living,JVC,Binghatti,Apartment,Studio,1452284,8.4%,8.1%,Medium,Medium
+PID-00783,The Vista,JVC,DAMAC,Townhouse,Studio,1668183,8.4%,8.7%,Medium,Medium
+PID-00784,Central Point,JVC,DAMAC,Villa,3 BR,671671,10.0%,8.1%,Medium,Medium
+PID-00785,Creek Heights,Dubai Marina,Binghatti,Apartment,2 BR,3346503,8.3%,8.3%,High,Low
+PID-00786,Royal View,Business Bay,Binghatti,Apartment,3 BR,3762138,7.9%,7.6%,High,Low
+PID-00787,Park Vista,Business Bay,DAMAC,Villa,Studio,3148589,8.5%,7.9%,High,Low
+PID-00788,Azure Horizon,JVC,Emaar,Villa,4 BR,1532820,9.3%,8.3%,Medium,Medium
+PID-00789,Azure Living,Dubai Marina,DAMAC,Villa,2 BR,3445668,8.3%,8.3%,High,Low
+PID-00790,Palm Horizon,JVC,DAMAC,Villa,2 BR,1573506,8.5%,8.9%,Medium,Medium
+PID-00791,Infinity Residences,Dubai Marina,Binghatti,Townhouse,3 BR,2193671,9.0%,7.8%,High,Low
+PID-00792,Azure Residence,Business Bay,Danube,Townhouse,2 BR,2134692,7.6%,6.8%,High,Low
+PID-00793,Central Point,Business Bay,Emaar,Townhouse,2 BR,4167303,7.8%,7.8%,High,Low
+PID-00794,Harbour Collection,Dubai Marina,Sobha Realty,Townhouse,3 BR,2182135,7.0%,7.9%,High,Low
+PID-00795,Palm Central,Business Bay,Danube,Villa,3 BR,1673117,8.5%,7.4%,High,Low
+PID-00796,Marina Residences,Dubai Marina,Binghatti,Townhouse,4 BR,1662843,8.2%,7.2%,High,Low
+PID-00797,Central Horizon,Dubai Marina,Emaar,Townhouse,3 BR,1824966,7.9%,7.2%,High,Low
+PID-00798,Vista One,Dubai Marina,Emaar,Townhouse,3 BR,3626655,7.3%,6.8%,High,Low
+PID-00799,Central One,Dubai Marina,Emaar,Villa,3 BR,4509518,8.8%,6.9%,High,Low
+PID-00800,Ocean One,JVC,Emaar,Villa,4 BR,1406866,9.2%,8.4%,Medium,Medium
+PID-00801,Elite Living,Dubai Marina,Emaar,Townhouse,3 BR,2388552,7.4%,8.3%,High,Low
+PID-00802,Canal Central,Business Bay,Sobha Realty,Villa,3 BR,1514880,7.6%,7.2%,High,Low
+PID-00803,Palm Point,Dubai Marina,Binghatti,Townhouse,4 BR,3412985,8.2%,7.5%,High,Low
+PID-00804,Canal Gardens,JVC,Sobha Realty,Villa,3 BR,1435833,9.2%,7.6%,Medium,Medium
+PID-00805,Canal Tower,Dubai Marina,Sobha Realty,Townhouse,2 BR,4073169,8.9%,8.1%,High,Low
+PID-00806,Central Vista,Business Bay,DAMAC,Villa,2 BR,3329130,8.3%,6.9%,High,Low
+PID-00807,Royal Point,Business Bay,Danube,Townhouse,3 BR,1458734,7.5%,7.9%,High,Low
+PID-00808,Park Central,Dubai Marina,Binghatti,Villa,1 BR,1662997,7.4%,6.9%,High,Low
+PID-00809,Canal Vista,Business Bay,DAMAC,Villa,4 BR,4201328,7.3%,6.8%,High,Low
+PID-00810,Harbour Horizon,Dubai Marina,Emaar,Apartment,2 BR,3811834,8.6%,6.7%,High,Low
+PID-00811,Royal Tower,JVC,Sobha Realty,Villa,4 BR,1280859,8.8%,9.0%,Medium,Medium
+PID-00812,Royal Gardens,Dubai Marina,Danube,Villa,1 BR,4447819,8.2%,6.9%,High,Low
+PID-00813,Central Tower,Business Bay,Danube,Apartment,3 BR,2494187,7.7%,7.3%,High,Low
+PID-00814,Azure Gardens,Dubai Marina,Danube,Apartment,3 BR,4188101,8.9%,6.5%,High,Low
+PID-00815,Canal Living,Dubai Marina,Sobha Realty,Townhouse,2 BR,4954785,8.0%,8.3%,High,Low
+PID-00816,Royal Central,JVC,Danube,Villa,Studio,1079574,9.7%,8.6%,Medium,Medium
+PID-00817,Azure Collection,Dubai Marina,DAMAC,Villa,3 BR,4129033,7.9%,7.1%,High,Low
+PID-00818,Azure One,Business Bay,Danube,Villa,4 BR,2761685,8.2%,7.3%,High,Low
+PID-00819,Marina One,Business Bay,DAMAC,Townhouse,3 BR,2002903,7.8%,6.7%,High,Low
+PID-00820,Elite Residences,Business Bay,Danube,Villa,4 BR,4252437,8.6%,8.1%,High,Low
+PID-00821,The Horizon,Dubai Marina,DAMAC,Villa,2 BR,3739031,8.8%,7.8%,High,Low
+PID-00822,Infinity Living,JVC,Sobha Realty,Apartment,2 BR,783291,8.6%,8.1%,Medium,Medium
+PID-00823,Creek Square,JVC,Sobha Realty,Apartment,3 BR,980377,9.9%,8.6%,Medium,Medium
+PID-00824,The Tower,Dubai Marina,Emaar,Townhouse,2 BR,4917072,8.3%,7.8%,High,Low
+PID-00825,Creek One,Dubai Marina,DAMAC,Villa,Studio,1996848,7.7%,6.8%,High,Low
+PID-00826,Central Vista,JVC,Binghatti,Townhouse,Studio,1170502,9.2%,7.9%,Medium,Medium
+PID-00827,Skyline Point,Business Bay,DAMAC,Townhouse,Studio,1712547,8.3%,7.1%,High,Low
+PID-00828,Elite Tower,JVC,Emaar,Apartment,3 BR,693266,9.9%,8.5%,Medium,Medium
+PID-00829,Park Gardens,JVC,Danube,Apartment,3 BR,887453,8.2%,8.6%,Medium,Medium
+PID-00830,Central Gardens,Dubai Marina,Danube,Villa,Studio,2682772,7.1%,7.5%,High,Low
+PID-00831,Grand View,Dubai Marina,DAMAC,Villa,3 BR,1848155,7.3%,6.7%,High,Low
+PID-00832,Azure Square,JVC,Binghatti,Townhouse,1 BR,1261776,8.5%,8.2%,Medium,Medium
+PID-00833,Azure Square,Dubai Marina,DAMAC,Villa,Studio,4014387,7.7%,8.3%,High,Low
+PID-00834,Palm Horizon,JVC,Emaar,Villa,Studio,788619,9.0%,8.9%,Medium,Medium
+PID-00835,Ocean One,JVC,Danube,Villa,1 BR,1087515,9.2%,8.2%,Medium,Medium
+PID-00836,Canal Tower,Dubai Marina,DAMAC,Apartment,1 BR,2861960,8.7%,8.1%,High,Low
+PID-00837,Infinity Park,Business Bay,Emaar,Apartment,Studio,3660321,8.7%,7.4%,High,Low
+PID-00838,Harbour Park,Dubai Marina,Emaar,Apartment,2 BR,3391406,8.0%,8.2%,High,Low
+PID-00839,Creek Horizon,Dubai Marina,Emaar,Villa,3 BR,4692802,7.5%,7.9%,High,Low
+PID-00840,Ocean Living,JVC,Danube,Townhouse,3 BR,1117863,9.8%,8.3%,Medium,Medium
+PID-00841,Elite Residence,JVC,Sobha Realty,Villa,Studio,839418,9.2%,8.6%,Medium,Medium
+PID-00842,Azure Point,JVC,Sobha Realty,Apartment,1 BR,1436164,9.5%,8.4%,Medium,Medium
+PID-00843,Harbour One,JVC,Binghatti,Apartment,2 BR,755191,9.1%,8.9%,Medium,Medium
+PID-00844,Canal Central,Dubai Marina,Binghatti,Apartment,Studio,1659160,8.1%,7.9%,High,Low
+PID-00845,Royal One,Business Bay,Sobha Realty,Townhouse,3 BR,2871509,7.4%,6.9%,High,Low
+PID-00846,Harbour Residence,JVC,Binghatti,Villa,Studio,1400762,9.5%,8.5%,Medium,Medium
+PID-00847,Park View,JVC,Emaar,Villa,3 BR,915665,8.4%,7.7%,Medium,Medium
+PID-00848,Ocean Gardens,JVC,Emaar,Apartment,2 BR,903004,8.8%,8.5%,Medium,Medium
+PID-00849,Marina Central,JVC,Binghatti,Villa,3 BR,913231,9.5%,7.8%,Medium,Medium
+PID-00850,The Heights,Business Bay,DAMAC,Townhouse,1 BR,1274518,7.7%,7.6%,High,Low
+PID-00851,Park One,Business Bay,Binghatti,Apartment,2 BR,3305273,7.7%,7.0%,High,Low
+PID-00852,Azure Vista,JVC,Sobha Realty,Apartment,1 BR,1642453,8.3%,7.6%,Medium,Medium
+PID-00853,Grand Point,Dubai Marina,Danube,Apartment,3 BR,3316770,7.8%,7.7%,High,Low
+PID-00854,Vista Collection,Dubai Marina,DAMAC,Townhouse,2 BR,1812741,7.7%,7.8%,High,Low
+PID-00855,Central Vista,Dubai Marina,Emaar,Villa,2 BR,3424839,8.2%,7.1%,High,Low
+PID-00856,Central Place,Business Bay,Danube,Townhouse,3 BR,3091442,8.5%,6.7%,High,Low
+PID-00857,Canal Square,Dubai Marina,Danube,Townhouse,2 BR,4859594,8.5%,6.9%,High,Low
+PID-00858,Palm Horizon,JVC,Emaar,Apartment,2 BR,1599340,8.5%,8.3%,Medium,Medium
+PID-00859,Canal Residences,Dubai Marina,Danube,Villa,1 BR,4478620,8.9%,6.8%,High,Low
+PID-00860,Ocean Vista,Business Bay,DAMAC,Apartment,Studio,4099364,7.4%,8.1%,High,Low
+PID-00861,Azure Residences,Dubai Marina,Emaar,Villa,Studio,2937336,7.5%,8.4%,High,Low
+PID-00862,Skyline Park,Dubai Marina,Danube,Townhouse,3 BR,4933994,8.1%,7.3%,High,Low
+PID-00863,Infinity Heights,Business Bay,Binghatti,Apartment,4 BR,3375579,8.6%,7.5%,High,Low
+PID-00864,Park View,Dubai Marina,Emaar,Apartment,2 BR,4376847,8.4%,6.6%,High,Low
+PID-00865,Ocean Horizon,JVC,Sobha Realty,Villa,Studio,1149983,8.8%,7.6%,Medium,Medium
+PID-00866,Palm Gardens,JVC,Binghatti,Apartment,2 BR,914601,9.1%,8.4%,Medium,Medium
+PID-00867,Central Central,JVC,Danube,Apartment,2 BR,1945500,9.3%,8.8%,Medium,Medium
+PID-00868,Harbour Gardens,JVC,Binghatti,Villa,1 BR,1994555,8.8%,7.9%,Medium,Medium
+PID-00869,Azure Vista,JVC,Sobha Realty,Villa,3 BR,1671292,8.5%,8.0%,Medium,Medium
+PID-00870,Royal Horizon,JVC,Danube,Villa,1 BR,1497402,9.1%,8.3%,Medium,Medium
+PID-00871,Vista Vista,Dubai Marina,Danube,Villa,2 BR,1681622,8.0%,7.2%,High,Low
+PID-00872,Vista Square,Business Bay,DAMAC,Townhouse,Studio,3704150,8.2%,7.5%,High,Low
+PID-00873,Harbour View,Business Bay,Danube,Villa,4 BR,1506577,8.3%,8.0%,High,Low
+PID-00874,Park Tower,Business Bay,Binghatti,Townhouse,2 BR,3876048,7.2%,7.3%,High,Low
+PID-00875,Infinity Residence,Dubai Marina,Danube,Apartment,Studio,4889274,8.4%,8.3%,High,Low
+PID-00876,Infinity Vista,Dubai Marina,Binghatti,Apartment,4 BR,2229641,7.6%,8.4%,High,Low
+PID-00877,Park Place,JVC,Danube,Villa,4 BR,1080342,8.4%,8.2%,Medium,Medium
+PID-00878,Infinity View,JVC,Sobha Realty,Apartment,1 BR,1655546,8.0%,8.6%,Medium,Medium
+PID-00879,Marina Horizon,Dubai Marina,Binghatti,Villa,3 BR,2194484,7.8%,8.1%,High,Low
+PID-00880,Harbour One,JVC,DAMAC,Villa,4 BR,776020,9.1%,7.7%,Medium,Medium
+PID-00881,Park Tower,Dubai Marina,Sobha Realty,Townhouse,1 BR,2259767,8.9%,8.3%,High,Low
+PID-00882,Infinity Collection,JVC,Sobha Realty,Villa,1 BR,944618,9.7%,8.2%,Medium,Medium
+PID-00883,The Central,Business Bay,Emaar,Apartment,Studio,3121111,7.6%,6.7%,High,Low
+PID-00884,Elite One,JVC,Sobha Realty,Villa,2 BR,1236879,8.4%,8.6%,Medium,Medium
+PID-00885,Park Residences,Dubai Marina,Danube,Townhouse,3 BR,2698444,8.1%,7.2%,High,Low
+PID-00886,Ocean Square,Dubai Marina,Danube,Villa,Studio,4100918,7.7%,7.7%,High,Low
+PID-00887,Skyline Gardens,Dubai Marina,Binghatti,Apartment,4 BR,2259085,8.6%,8.2%,High,Low
+PID-00888,The Heights,Business Bay,DAMAC,Townhouse,2 BR,3239069,7.2%,7.5%,High,Low
+PID-00889,Royal Point,JVC,Danube,Apartment,3 BR,825771,8.1%,8.3%,Medium,Medium
+PID-00890,Creek Park,Business Bay,Binghatti,Apartment,3 BR,4353770,7.7%,7.7%,High,Low
+PID-00891,Royal Living,Dubai Marina,Danube,Townhouse,1 BR,1700534,7.4%,6.6%,High,Low
+PID-00892,Elite One,JVC,Emaar,Townhouse,Studio,1923980,9.5%,8.1%,Medium,Medium
+PID-00893,Infinity Residences,Dubai Marina,Danube,Townhouse,Studio,2082352,8.8%,7.4%,High,Low
+PID-00894,Vista Place,Business Bay,Sobha Realty,Villa,1 BR,2929669,7.4%,6.6%,High,Low
+PID-00895,Grand Heights,Dubai Marina,DAMAC,Villa,1 BR,3522803,7.7%,7.5%,High,Low
+PID-00896,Grand One,Business Bay,Emaar,Villa,1 BR,3346020,8.3%,6.6%,High,Low
+PID-00897,Marina One,JVC,Sobha Realty,Villa,3 BR,856753,8.5%,7.9%,Medium,Medium
+PID-00898,Infinity Place,Business Bay,Emaar,Villa,2 BR,4239189,8.2%,7.9%,High,Low
+PID-00899,Canal Gardens,Business Bay,DAMAC,Villa,Studio,2487836,7.3%,7.9%,High,Low
+PID-00900,Infinity View,Dubai Marina,DAMAC,Apartment,Studio,2247352,8.1%,6.9%,High,Low
+PID-00901,Ocean Point,Dubai Marina,DAMAC,Apartment,1 BR,4199425,8.1%,6.7%,High,Low
+PID-00902,Park One,Business Bay,DAMAC,Apartment,1 BR,1924630,8.0%,8.1%,High,Low
+PID-00903,Marina Residence,JVC,Emaar,Villa,1 BR,1902964,8.8%,8.9%,Medium,Medium
+PID-00904,Royal Place,Dubai Marina,Sobha Realty,Villa,3 BR,2235601,7.8%,8.1%,High,Low
+PID-00905,Grand Place,Business Bay,Sobha Realty,Townhouse,4 BR,1450267,7.1%,7.3%,High,Low
+PID-00906,The Park,JVC,DAMAC,Townhouse,2 BR,977461,9.4%,8.2%,Medium,Medium
+PID-00907,Vista Residences,JVC,Emaar,Apartment,1 BR,920828,8.7%,8.6%,Medium,Medium
+PID-00908,Vista Vista,Dubai Marina,Sobha Realty,Apartment,1 BR,4275422,7.4%,8.1%,High,Low
+PID-00909,Marina Place,Business Bay,DAMAC,Villa,1 BR,1227003,7.2%,7.4%,High,Low
+PID-00910,Skyline Gardens,Business Bay,Binghatti,Townhouse,Studio,1728473,8.3%,7.4%,High,Low
+PID-00911,Royal Horizon,Business Bay,Binghatti,Townhouse,Studio,2708049,8.4%,6.7%,High,Low
+PID-00912,Palm Horizon,Dubai Marina,Danube,Apartment,1 BR,3558606,8.5%,6.5%,High,Low
+PID-00913,Canal Central,Business Bay,Danube,Apartment,Studio,2947085,8.8%,6.6%,High,Low
+PID-00914,Central Horizon,Business Bay,Emaar,Villa,3 BR,3450255,8.1%,8.2%,High,Low
+PID-00915,Infinity Horizon,Business Bay,Emaar,Townhouse,Studio,4270823,8.2%,7.1%,High,Low
+PID-00916,Azure Park,Business Bay,Emaar,Villa,1 BR,2205479,8.0%,7.3%,High,Low
+PID-00917,Park Vista,Business Bay,Emaar,Villa,4 BR,3149857,8.4%,7.6%,High,Low
+PID-00918,Palm Residences,Dubai Marina,Danube,Villa,Studio,2435585,7.2%,6.9%,High,Low
+PID-00919,Azure Horizon,Dubai Marina,Emaar,Townhouse,2 BR,4172948,8.3%,8.4%,High,Low
+PID-00920,Ocean Central,Dubai Marina,Binghatti,Villa,4 BR,1618593,8.4%,7.3%,High,Low
+PID-00921,Canal Tower,Dubai Marina,Emaar,Apartment,1 BR,3941234,7.7%,8.2%,High,Low
+PID-00922,Canal View,Dubai Marina,Emaar,Townhouse,3 BR,3376724,8.1%,6.6%,High,Low
+PID-00923,Park Gardens,Business Bay,Emaar,Apartment,2 BR,4195663,8.4%,7.3%,High,Low
+PID-00924,Royal Park,JVC,Binghatti,Villa,2 BR,1027879,8.7%,8.5%,Medium,Medium
+PID-00925,Vista Residences,Dubai Marina,Sobha Realty,Apartment,Studio,3594108,7.8%,7.2%,High,Low
+PID-00926,Royal One,Dubai Marina,DAMAC,Apartment,2 BR,2255152,7.5%,7.9%,High,Low
+PID-00927,Azure Park,Dubai Marina,Danube,Apartment,2 BR,3204471,8.0%,8.3%,High,Low
+PID-00928,Marina One,Dubai Marina,Binghatti,Apartment,4 BR,3562885,7.0%,6.8%,High,Low
+PID-00929,The Heights,Dubai Marina,DAMAC,Villa,4 BR,4904926,8.5%,7.2%,High,Low
+PID-00930,The Gardens,Business Bay,Sobha Realty,Townhouse,4 BR,2502435,7.1%,7.0%,High,Low
+PID-00931,Palm Park,Dubai Marina,Sobha Realty,Townhouse,1 BR,1860848,8.9%,6.7%,High,Low
+PID-00932,Harbour Park,Dubai Marina,Danube,Townhouse,1 BR,4581295,7.6%,7.7%,High,Low
+PID-00933,Infinity Square,Dubai Marina,Emaar,Villa,2 BR,3149191,8.1%,7.9%,High,Low
+PID-00934,The Point,Business Bay,DAMAC,Apartment,3 BR,3627979,7.4%,6.9%,High,Low
+PID-00935,Skyline Horizon,Business Bay,Sobha Realty,Apartment,4 BR,1470782,7.6%,6.9%,High,Low
+PID-00936,Palm Central,Dubai Marina,Binghatti,Townhouse,Studio,2469223,7.8%,8.3%,High,Low
+PID-00937,Palm Square,Dubai Marina,Danube,Villa,1 BR,4271544,8.0%,7.4%,High,Low
+PID-00938,Grand Park,JVC,Danube,Apartment,1 BR,809209,8.4%,9.0%,Medium,Medium
+PID-00939,Central View,JVC,Sobha Realty,Townhouse,1 BR,1753034,8.0%,7.8%,Medium,Medium
+PID-00940,Royal Central,Business Bay,Sobha Realty,Apartment,1 BR,2370225,7.9%,7.9%,High,Low
+PID-00941,Skyline Square,JVC,Binghatti,Apartment,3 BR,1445822,9.5%,9.0%,Medium,Medium
+PID-00942,The Horizon,Dubai Marina,Sobha Realty,Townhouse,Studio,2157064,7.2%,7.7%,High,Low
+PID-00943,Azure Collection,JVC,DAMAC,Villa,2 BR,1723312,8.7%,7.7%,Medium,Medium
+PID-00944,Harbour Collection,Dubai Marina,DAMAC,Townhouse,Studio,3179885,8.7%,8.2%,High,Low
+PID-00945,Azure One,Dubai Marina,Danube,Apartment,4 BR,4446559,8.0%,7.4%,High,Low
+PID-00946,Central Central,Dubai Marina,Emaar,Townhouse,3 BR,3519867,8.3%,8.3%,High,Low
+PID-00947,Park One,Dubai Marina,Binghatti,Apartment,4 BR,3339907,8.3%,7.8%,High,Low
+PID-00948,Palm Park,JVC,Sobha Realty,Townhouse,4 BR,1770239,9.9%,8.0%,Medium,Medium
+PID-00949,Canal One,Dubai Marina,Sobha Realty,Apartment,Studio,1940763,8.0%,7.6%,High,Low
+PID-00950,Elite Residence,Dubai Marina,Danube,Townhouse,1 BR,1682965,8.5%,6.8%,High,Low
+PID-00951,Central Heights,Business Bay,DAMAC,Townhouse,4 BR,3243738,8.1%,8.1%,High,Low
+PID-00952,Vista Point,JVC,DAMAC,Townhouse,3 BR,1132496,8.8%,9.0%,Medium,Medium
+PID-00953,Marina Park,Dubai Marina,Binghatti,Villa,1 BR,2187696,8.2%,7.3%,High,Low
+PID-00954,Palm Place,JVC,Danube,Townhouse,Studio,1049198,9.5%,8.2%,Medium,Medium
+PID-00955,Skyline One,Dubai Marina,DAMAC,Villa,3 BR,3385901,8.9%,6.7%,High,Low
+PID-00956,Palm Place,Business Bay,Emaar,Townhouse,4 BR,3856407,7.4%,6.9%,High,Low
+PID-00957,Vista Square,JVC,Sobha Realty,Villa,3 BR,1806707,8.4%,8.0%,Medium,Medium
+PID-00958,Royal Tower,Business Bay,Binghatti,Villa,3 BR,1567341,8.2%,6.9%,High,Low
+PID-00959,Royal Gardens,Business Bay,Danube,Villa,4 BR,1407587,8.2%,7.1%,High,Low
+PID-00960,Grand Collection,JVC,Danube,Apartment,Studio,1731927,8.5%,8.6%,Medium,Medium
+PID-00961,Creek Heights,Dubai Marina,Emaar,Apartment,2 BR,2442139,8.2%,7.5%,High,Low
+PID-00962,Grand Vista,Business Bay,Sobha Realty,Villa,1 BR,3729127,7.7%,7.0%,High,Low
+PID-00963,Marina Collection,Business Bay,Sobha Realty,Villa,Studio,2530131,7.7%,8.2%,High,Low
+PID-00964,Central Heights,JVC,Emaar,Villa,1 BR,1736464,9.6%,8.5%,Medium,Medium
+PID-00965,Marina Tower,Dubai Marina,Sobha Realty,Villa,1 BR,3497441,7.2%,8.5%,High,Low
+PID-00966,Ocean Gardens,JVC,Binghatti,Apartment,2 BR,1741201,8.6%,8.1%,Medium,Medium
+PID-00967,Royal Residences,Dubai Marina,DAMAC,Townhouse,2 BR,4974416,7.9%,7.7%,High,Low
+PID-00968,Azure Residences,Business Bay,Binghatti,Apartment,1 BR,2968960,7.7%,7.6%,High,Low
+PID-00969,Azure Park,Dubai Marina,Danube,Apartment,1 BR,2578744,7.5%,8.3%,High,Low
+PID-00970,Azure Square,JVC,Binghatti,Apartment,3 BR,1929850,8.6%,8.6%,Medium,Medium
+PID-00971,Royal One,Business Bay,DAMAC,Villa,1 BR,1755622,8.6%,6.8%,High,Low
+PID-00972,Ocean Park,JVC,Danube,Villa,4 BR,1755306,8.7%,8.7%,Medium,Medium
+PID-00973,Vista Tower,JVC,DAMAC,Villa,3 BR,964311,9.3%,8.7%,Medium,Medium
+PID-00974,Creek Collection,Dubai Marina,Sobha Realty,Villa,3 BR,4019319,7.9%,7.3%,High,Low
+PID-00975,Vista Park,JVC,DAMAC,Villa,2 BR,724242,8.7%,8.2%,Medium,Medium
+PID-00976,Harbour Park,Business Bay,Danube,Apartment,3 BR,1964567,7.4%,7.1%,High,Low
+PID-00977,The Gardens,Business Bay,Sobha Realty,Villa,1 BR,2423254,7.3%,7.4%,High,Low
+PID-00978,Ocean Central,Business Bay,Sobha Realty,Townhouse,1 BR,2496156,7.7%,7.6%,High,Low
+PID-00979,Marina Tower,Business Bay,DAMAC,Apartment,3 BR,4043262,7.7%,7.8%,High,Low
+PID-00980,Skyline Tower,Business Bay,Emaar,Villa,2 BR,3116832,7.5%,7.4%,High,Low
+PID-00981,Creek Square,Business Bay,Binghatti,Villa,4 BR,3743676,7.1%,8.2%,High,Low
+PID-00982,Canal Collection,JVC,DAMAC,Apartment,1 BR,907095,8.6%,8.0%,Medium,Medium
+PID-00983,The Vista,Dubai Marina,DAMAC,Townhouse,3 BR,4061408,7.8%,8.4%,High,Low
+PID-00984,Palm Park,Business Bay,Emaar,Villa,Studio,4032152,7.3%,7.5%,High,Low
+PID-00985,Royal Tower,JVC,Danube,Apartment,2 BR,1868982,8.2%,8.7%,Medium,Medium
+PID-00986,Infinity Heights,Dubai Marina,DAMAC,Villa,4 BR,3723875,7.3%,6.7%,High,Low
+PID-00987,Elite Place,JVC,Binghatti,Apartment,2 BR,808362,10.0%,7.8%,Medium,Medium
+PID-00988,Ocean Residences,JVC,Binghatti,Townhouse,3 BR,1864624,9.8%,8.1%,Medium,Medium
+PID-00989,Palm Collection,Business Bay,Sobha Realty,Townhouse,1 BR,4491844,8.8%,7.8%,High,Low
+PID-00990,Vista Square,Dubai Marina,Sobha Realty,Apartment,2 BR,2459554,7.6%,7.6%,High,Low
+PID-00991,Royal Central,JVC,Emaar,Apartment,3 BR,1063590,8.7%,8.4%,Medium,Medium
+PID-00992,Royal Tower,JVC,Binghatti,Apartment,1 BR,1548027,9.6%,8.9%,Medium,Medium
+PID-00993,Ocean One,JVC,Emaar,Townhouse,2 BR,1179025,9.3%,8.4%,Medium,Medium
+PID-00994,Palm Square,Dubai Marina,Binghatti,Townhouse,1 BR,2703261,8.3%,7.8%,High,Low
+PID-00995,Central Place,JVC,DAMAC,Villa,Studio,1207719,9.7%,8.3%,Medium,Medium
+PID-00996,Infinity Vista,Business Bay,Emaar,Villa,4 BR,2615222,8.0%,7.0%,High,Low
+PID-00997,Vista Central,Business Bay,Emaar,Villa,Studio,3855018,8.2%,7.0%,High,Low
+PID-00998,Marina Heights,Dubai Marina,DAMAC,Townhouse,4 BR,1576039,7.3%,7.2%,High,Low
+PID-00999,Marina Tower,Business Bay,Sobha Realty,Villa,1 BR,1444032,8.1%,7.8%,High,Low
+PID-01000,Harbour Square,Dubai Marina,DAMAC,Apartment,2 BR,3017172,7.3%,7.2%,High,Low
+PID-01001,Marina Central,Dubai Marina,Danube,Townhouse,2 BR,2891098,8.6%,6.6%,High,Low
+PID-01002,Infinity Square,Dubai Marina,Danube,Apartment,4 BR,3056757,7.4%,7.4%,High,Low
+PID-01003,Ocean Gardens,Business Bay,Emaar,Townhouse,2 BR,3160089,7.0%,7.9%,High,Low
+PID-01004,Canal Collection,Business Bay,Danube,Townhouse,2 BR,1891816,7.4%,7.8%,High,Low
+PID-01005,Ocean Park,JVC,Sobha Realty,Villa,Studio,1088917,8.5%,9.0%,Medium,Medium
+PID-01006,Azure Horizon,Business Bay,Binghatti,Townhouse,4 BR,1949427,7.3%,6.9%,High,Low
+PID-01007,Grand Tower,Dubai Marina,DAMAC,Villa,2 BR,4148467,7.3%,7.6%,High,Low
+PID-01008,Park Collection,Business Bay,Sobha Realty,Apartment,3 BR,2780969,7.8%,7.2%,High,Low
+PID-01009,Park Square,Business Bay,Sobha Realty,Townhouse,Studio,3631937,7.7%,7.4%,High,Low
+PID-01010,Harbour Collection,Dubai Marina,DAMAC,Villa,3 BR,3394959,7.6%,6.7%,High,Low
+PID-01011,Infinity Park,Dubai Marina,Danube,Apartment,Studio,2059839,7.6%,7.4%,High,Low
+PID-01012,Central Collection,Business Bay,Danube,Townhouse,3 BR,3851604,8.3%,7.6%,High,Low
+PID-01013,Vista Residences,JVC,DAMAC,Townhouse,Studio,883002,9.6%,7.8%,Medium,Medium
+PID-01014,Canal Residence,Business Bay,Binghatti,Apartment,4 BR,2822132,8.7%,7.5%,High,Low
+PID-01015,The Park,Business Bay,DAMAC,Villa,2 BR,4495589,7.2%,7.7%,High,Low
+PID-01016,Canal View,Business Bay,Binghatti,Townhouse,4 BR,1764846,8.2%,7.7%,High,Low
+PID-01017,Vista Tower,JVC,Danube,Apartment,1 BR,1236069,8.4%,8.9%,Medium,Medium
+PID-01018,Grand Residence,Dubai Marina,DAMAC,Townhouse,Studio,1949546,7.2%,6.9%,High,Low
+PID-01019,Park Point,JVC,Danube,Townhouse,4 BR,1281418,9.0%,8.6%,Medium,Medium
+PID-01020,Canal Square,Business Bay,DAMAC,Townhouse,1 BR,2586186,7.9%,7.7%,High,Low
+PID-01021,Canal Residence,JVC,DAMAC,Apartment,3 BR,1276859,8.6%,8.4%,Medium,Medium
+PID-01022,Grand Point,Business Bay,Emaar,Townhouse,2 BR,1504774,7.2%,8.0%,High,Low
+PID-01023,Azure Residence,Dubai Marina,DAMAC,Apartment,1 BR,2527306,8.1%,6.7%,High,Low
+PID-01024,Marina Collection,JVC,DAMAC,Townhouse,3 BR,1021296,9.8%,8.0%,Medium,Medium
+PID-01025,Elite Point,Dubai Marina,Emaar,Townhouse,Studio,3142890,8.9%,8.4%,High,Low
+PID-01026,Canal Gardens,JVC,DAMAC,Villa,1 BR,1572559,8.3%,8.8%,Medium,Medium
+PID-01027,Royal Vista,JVC,Emaar,Apartment,Studio,1430720,8.9%,8.4%,Medium,Medium
+PID-01028,The View,JVC,Emaar,Villa,2 BR,1078380,8.6%,8.5%,Medium,Medium
+PID-01029,Skyline Central,Dubai Marina,Danube,Townhouse,Studio,1504846,8.8%,6.9%,High,Low
+PID-01030,Central Place,Business Bay,Emaar,Townhouse,1 BR,1776277,7.7%,7.1%,High,Low
+PID-01031,Elite Residences,Business Bay,Danube,Villa,3 BR,4329467,7.1%,7.3%,High,Low
+PID-01032,Vista View,Business Bay,Sobha Realty,Villa,1 BR,1518331,7.0%,6.9%,High,Low
+PID-01033,Palm Gardens,Dubai Marina,Binghatti,Villa,4 BR,2032416,8.6%,6.7%,High,Low
+PID-01034,Infinity Place,Business Bay,Danube,Villa,Studio,3535514,8.5%,7.9%,High,Low
+PID-01035,Royal Vista,Business Bay,Sobha Realty,Townhouse,3 BR,1833000,7.3%,7.8%,High,Low
+PID-01036,The Tower,Dubai Marina,DAMAC,Townhouse,3 BR,2122778,8.1%,8.1%,High,Low
+PID-01037,Vista Central,JVC,DAMAC,Villa,2 BR,1992433,9.3%,8.5%,Medium,Medium
+PID-01038,Canal View,Dubai Marina,Sobha Realty,Apartment,3 BR,2723429,7.8%,8.0%,High,Low
+PID-01039,Palm Place,JVC,DAMAC,Apartment,1 BR,687197,9.5%,7.6%,Medium,Medium
+PID-01040,Creek Gardens,JVC,Binghatti,Apartment,3 BR,1822918,8.7%,8.4%,Medium,Medium
+PID-01041,Grand Central,Business Bay,Sobha Realty,Townhouse,3 BR,2551101,7.3%,6.9%,High,Low
+PID-01042,Park Horizon,Dubai Marina,Binghatti,Townhouse,2 BR,2775537,8.0%,6.6%,High,Low
+PID-01043,Palm Gardens,Business Bay,Binghatti,Townhouse,4 BR,3060811,8.2%,7.2%,High,Low
+PID-01044,Royal Gardens,Dubai Marina,DAMAC,Townhouse,3 BR,3118636,7.6%,7.4%,High,Low
+PID-01045,The One,Dubai Marina,Danube,Villa,1 BR,4675064,7.6%,8.4%,High,Low
+PID-01046,Marina Residences,JVC,Emaar,Townhouse,2 BR,1161818,9.1%,9.0%,Medium,Medium
+PID-01047,Marina View,JVC,DAMAC,Townhouse,Studio,1974958,9.4%,8.8%,Medium,Medium
+PID-01048,Vista Collection,Business Bay,Sobha Realty,Townhouse,4 BR,3541171,7.9%,7.6%,High,Low
+PID-01049,Palm Park,Dubai Marina,Danube,Apartment,4 BR,2836920,8.6%,6.9%,High,Low
+PID-01050,Skyline Park,Dubai Marina,Emaar,Townhouse,4 BR,2088984,8.8%,7.9%,High,Low
+PID-01051,Infinity Residences,Business Bay,DAMAC,Townhouse,1 BR,3969555,7.4%,6.6%,High,Low
+PID-01052,Park Horizon,JVC,Emaar,Apartment,3 BR,1255864,9.2%,8.3%,Medium,Medium
+PID-01053,Harbour Vista,Dubai Marina,Danube,Villa,3 BR,3789014,8.0%,7.0%,High,Low
+PID-01054,The Horizon,Dubai Marina,Danube,Apartment,2 BR,4265596,7.1%,8.3%,High,Low
+PID-01055,Canal One,Dubai Marina,Danube,Villa,2 BR,3474654,8.2%,6.8%,High,Low
+PID-01056,Grand Collection,JVC,Binghatti,Townhouse,3 BR,1669050,9.9%,8.2%,Medium,Medium
+PID-01057,Elite Point,Dubai Marina,DAMAC,Villa,1 BR,2223061,7.9%,7.9%,High,Low
+PID-01058,Grand View,JVC,Binghatti,Townhouse,4 BR,1327033,8.3%,9.0%,Medium,Medium
+PID-01059,Royal Tower,Business Bay,Danube,Apartment,4 BR,3089862,7.3%,7.3%,High,Low
+PID-01060,Ocean Gardens,JVC,Danube,Apartment,3 BR,1777105,9.0%,7.6%,Medium,Medium
+PID-01061,Elite One,Business Bay,DAMAC,Villa,2 BR,4037205,7.1%,7.3%,High,Low
+PID-01062,Infinity Place,Dubai Marina,Binghatti,Apartment,3 BR,4852628,7.5%,6.6%,High,Low
+PID-01063,Creek Place,Business Bay,Sobha Realty,Apartment,Studio,2559795,8.6%,6.9%,High,Low
+PID-01064,Central Heights,Business Bay,Danube,Villa,1 BR,3923290,7.7%,7.4%,High,Low
+PID-01065,Creek Park,Business Bay,Binghatti,Apartment,3 BR,2534701,7.4%,7.3%,High,Low
+PID-01066,Azure Horizon,JVC,Binghatti,Villa,Studio,1982082,9.2%,8.7%,Medium,Medium
+PID-01067,Marina Horizon,Dubai Marina,Binghatti,Apartment,1 BR,4042979,7.5%,7.4%,High,Low
+PID-01068,Elite One,Dubai Marina,DAMAC,Villa,Studio,3938972,8.9%,6.9%,High,Low
+PID-01069,Ocean One,Business Bay,DAMAC,Townhouse,Studio,3120509,7.4%,8.2%,High,Low
+PID-01070,Vista Square,Business Bay,Binghatti,Townhouse,4 BR,2998724,7.8%,6.9%,High,Low
+PID-01071,Infinity Residence,Business Bay,Binghatti,Apartment,1 BR,1672916,7.2%,7.0%,High,Low
+PID-01072,Azure Point,Business Bay,Sobha Realty,Villa,2 BR,2340979,8.1%,7.3%,High,Low
+PID-01073,Vista Gardens,Business Bay,Sobha Realty,Apartment,1 BR,2284012,7.3%,7.6%,High,Low
+PID-01074,Vista Place,JVC,Danube,Apartment,Studio,1755768,8.5%,8.3%,Medium,Medium
+PID-01075,Park Living,JVC,Emaar,Villa,Studio,1145933,9.4%,7.8%,Medium,Medium
+PID-01076,Park Central,Business Bay,Danube,Apartment,1 BR,1273509,8.2%,8.2%,High,Low
+PID-01077,The Residences,Business Bay,Danube,Apartment,2 BR,2017220,7.5%,7.1%,High,Low
+PID-01078,Canal Collection,Dubai Marina,Emaar,Villa,2 BR,2552760,8.4%,7.3%,High,Low
+PID-01079,Park Park,Dubai Marina,Emaar,Townhouse,2 BR,4889714,8.3%,6.6%,High,Low
+PID-01080,Palm Residences,JVC,Emaar,Villa,1 BR,871049,10.0%,8.7%,Medium,Medium
+PID-01081,Marina Place,Dubai Marina,DAMAC,Apartment,1 BR,2407471,8.3%,8.3%,High,Low
+PID-01082,Canal View,Business Bay,Emaar,Townhouse,3 BR,1356075,8.8%,6.8%,High,Low
+PID-01083,Infinity Place,JVC,DAMAC,Apartment,1 BR,1030355,8.8%,8.6%,Medium,Medium
+PID-01084,Grand View,JVC,Emaar,Villa,3 BR,1625166,8.4%,7.9%,Medium,Medium
+PID-01085,Marina Square,JVC,DAMAC,Townhouse,1 BR,1859088,9.4%,7.7%,Medium,Medium
+PID-01086,Park Central,Business Bay,Binghatti,Villa,4 BR,2316767,7.6%,7.8%,High,Low
+PID-01087,Ocean Point,Business Bay,Sobha Realty,Apartment,1 BR,3841564,8.2%,7.4%,High,Low
+PID-01088,Palm Heights,Business Bay,Binghatti,Apartment,3 BR,3451498,7.9%,7.5%,High,Low
+PID-01089,Royal Horizon,JVC,Sobha Realty,Apartment,2 BR,1777614,8.7%,7.9%,Medium,Medium
+PID-01090,Central Horizon,Business Bay,Sobha Realty,Apartment,4 BR,2320355,7.6%,8.2%,High,Low
+PID-01091,Vista Vista,Business Bay,Binghatti,Townhouse,1 BR,3121039,8.4%,7.5%,High,Low
+PID-01092,Creek Horizon,Dubai Marina,Sobha Realty,Townhouse,1 BR,2276826,8.0%,6.8%,High,Low
+PID-01093,Vista Central,Business Bay,DAMAC,Townhouse,Studio,2880535,7.1%,8.1%,High,Low
+PID-01094,Central Heights,JVC,Sobha Realty,Apartment,1 BR,1989987,9.8%,8.9%,Medium,Medium
+PID-01095,Infinity Horizon,JVC,Emaar,Apartment,4 BR,1286776,9.5%,8.2%,Medium,Medium
+PID-01096,Vista Point,Business Bay,Sobha Realty,Townhouse,Studio,2867343,7.9%,6.9%,High,Low
+PID-01097,Central Collection,Business Bay,DAMAC,Villa,Studio,1518535,7.0%,7.9%,High,Low
+PID-01098,Canal Gardens,JVC,Binghatti,Villa,Studio,1279986,8.7%,8.9%,Medium,Medium
+PID-01099,Elite Heights,Dubai Marina,Binghatti,Villa,3 BR,1713256,8.5%,8.2%,High,Low
+PID-01100,Palm Horizon,JVC,Binghatti,Villa,1 BR,1486379,8.7%,7.6%,Medium,Medium
+PID-01101,The Heights,Business Bay,Emaar,Apartment,4 BR,2525418,8.7%,8.1%,High,Low
+PID-01102,Palm View,Dubai Marina,Binghatti,Villa,2 BR,2828009,7.3%,6.9%,High,Low
+PID-01103,Vista One,JVC,Emaar,Villa,4 BR,1241474,9.6%,8.3%,Medium,Medium
+PID-01104,Infinity Gardens,JVC,DAMAC,Apartment,1 BR,1383521,9.7%,7.6%,Medium,Medium
+PID-01105,Palm Collection,Business Bay,Binghatti,Villa,3 BR,4144539,7.6%,7.9%,High,Low
+PID-01106,Grand Park,Dubai Marina,Emaar,Townhouse,4 BR,2702853,7.4%,7.5%,High,Low
+PID-01107,Ocean Tower,Dubai Marina,Danube,Apartment,Studio,1504834,9.0%,8.3%,High,Low
+PID-01108,Central Tower,JVC,Binghatti,Townhouse,1 BR,1036428,8.4%,7.6%,Medium,Medium
+PID-01109,Elite Living,Business Bay,Emaar,Apartment,2 BR,2617025,7.5%,6.8%,High,Low
+PID-01110,Vista Square,Business Bay,Emaar,Apartment,2 BR,1333511,7.0%,7.5%,High,Low
+PID-01111,Park Horizon,JVC,Sobha Realty,Townhouse,3 BR,1724942,8.7%,8.9%,Medium,Medium
+PID-01112,Creek Square,JVC,DAMAC,Villa,Studio,877158,8.3%,7.9%,Medium,Medium
+PID-01113,Park Horizon,JVC,Binghatti,Townhouse,Studio,1314266,9.3%,8.4%,Medium,Medium
+PID-01114,Canal Tower,Dubai Marina,Danube,Villa,4 BR,4254201,7.4%,7.5%,High,Low
+PID-01115,The Central,Business Bay,DAMAC,Villa,1 BR,3764610,7.2%,7.0%,High,Low
+PID-01116,Vista Point,Dubai Marina,Binghatti,Villa,2 BR,1901681,8.0%,6.5%,High,Low
+PID-01117,Palm View,Business Bay,Danube,Townhouse,2 BR,3074113,8.4%,6.5%,High,Low
+PID-01118,Marina Point,Dubai Marina,Binghatti,Villa,2 BR,4132109,8.1%,8.3%,High,Low
+PID-01119,Grand Point,JVC,Sobha Realty,Apartment,3 BR,1293407,8.9%,7.9%,Medium,Medium
+PID-01120,Royal Horizon,Business Bay,Binghatti,Townhouse,Studio,1913174,7.6%,7.9%,High,Low
+PID-01121,Palm Residence,Business Bay,Emaar,Apartment,2 BR,3313440,7.6%,6.9%,High,Low
+PID-01122,Harbour View,JVC,Emaar,Apartment,1 BR,1076002,9.6%,7.7%,Medium,Medium
+PID-01123,Royal One,JVC,Binghatti,Apartment,4 BR,1872179,9.1%,7.7%,Medium,Medium
+PID-01124,Canal Point,JVC,Emaar,Townhouse,1 BR,1012778,8.2%,8.1%,Medium,Medium
+PID-01125,Ocean Heights,Business Bay,Sobha Realty,Villa,2 BR,2642836,7.4%,7.6%,High,Low
+PID-01126,Skyline Point,Dubai Marina,Binghatti,Apartment,4 BR,4904701,8.7%,7.7%,High,Low
+PID-01127,Central Central,Dubai Marina,DAMAC,Villa,3 BR,1793282,8.4%,7.7%,High,Low
+PID-01128,The Gardens,Business Bay,DAMAC,Apartment,1 BR,1775028,8.6%,8.1%,High,Low
+PID-01129,Elite Gardens,Business Bay,Emaar,Townhouse,3 BR,4036113,8.0%,7.6%,High,Low
+PID-01130,Marina Living,Dubai Marina,Sobha Realty,Villa,2 BR,4183331,8.5%,7.5%,High,Low
+PID-01131,Skyline Residences,Dubai Marina,Emaar,Villa,Studio,4409332,8.6%,7.7%,High,Low
+PID-01132,Infinity Gardens,JVC,DAMAC,Townhouse,2 BR,869185,9.1%,8.2%,Medium,Medium
+PID-01133,Park Central,Dubai Marina,Sobha Realty,Villa,4 BR,2248199,7.1%,6.9%,High,Low
+PID-01134,Royal Residences,Dubai Marina,DAMAC,Apartment,2 BR,4707730,7.1%,6.5%,High,Low
+PID-01135,Grand Point,Dubai Marina,Binghatti,Villa,3 BR,2217146,8.3%,7.5%,High,Low
+PID-01136,Creek One,Dubai Marina,Binghatti,Apartment,4 BR,4387015,8.7%,8.1%,High,Low
+PID-01137,Infinity Horizon,JVC,Danube,Villa,Studio,1086734,9.3%,7.9%,Medium,Medium
+PID-01138,Vista View,JVC,Emaar,Villa,3 BR,1392101,9.9%,8.0%,Medium,Medium
+PID-01139,Elite Horizon,Dubai Marina,DAMAC,Apartment,3 BR,1859170,7.5%,7.6%,High,Low
+PID-01140,Skyline Residences,Dubai Marina,Emaar,Apartment,3 BR,2104956,8.9%,6.7%,High,Low
+PID-01141,Skyline Central,JVC,Binghatti,Apartment,3 BR,1231342,9.7%,8.7%,Medium,Medium
+PID-01142,Grand Horizon,Dubai Marina,Sobha Realty,Apartment,4 BR,4386154,8.9%,7.7%,High,Low
+PID-01143,Elite Gardens,Dubai Marina,Sobha Realty,Townhouse,Studio,3094191,8.6%,7.3%,High,Low
+PID-01144,Canal Park,Business Bay,Emaar,Apartment,2 BR,1329260,7.7%,7.8%,High,Low
+PID-01145,Ocean Tower,Dubai Marina,Danube,Apartment,3 BR,1588709,8.8%,8.2%,High,Low
+PID-01146,Creek Residence,JVC,Binghatti,Townhouse,3 BR,679805,8.6%,8.8%,Medium,Medium
+PID-01147,Palm One,Dubai Marina,Emaar,Villa,2 BR,1634427,7.6%,7.9%,High,Low
+PID-01148,Royal Central,Business Bay,Sobha Realty,Apartment,Studio,1618111,7.3%,7.3%,High,Low
+PID-01149,Vista Heights,JVC,Sobha Realty,Apartment,2 BR,1294814,8.4%,8.6%,Medium,Medium
+PID-01150,Vista Heights,Business Bay,DAMAC,Townhouse,Studio,2210077,7.3%,7.2%,High,Low
+PID-01151,Vista Central,JVC,DAMAC,Villa,3 BR,1860477,8.2%,8.8%,Medium,Medium
+PID-01152,Infinity Tower,JVC,Binghatti,Townhouse,4 BR,1144432,8.5%,7.8%,Medium,Medium
+PID-01153,Canal Point,Dubai Marina,Sobha Realty,Apartment,4 BR,2254592,8.7%,8.1%,High,Low
+PID-01154,Creek Vista,Business Bay,Emaar,Apartment,Studio,3401497,8.6%,7.8%,High,Low
+PID-01155,Harbour Tower,Dubai Marina,Binghatti,Townhouse,4 BR,2002302,7.3%,7.4%,High,Low
+PID-01156,Royal Gardens,JVC,DAMAC,Apartment,4 BR,1408183,9.8%,7.8%,Medium,Medium
+PID-01157,Elite Horizon,JVC,Sobha Realty,Apartment,1 BR,1664694,8.4%,9.0%,Medium,Medium
+PID-01158,Canal Residences,Business Bay,DAMAC,Apartment,3 BR,4492129,8.7%,7.2%,High,Low
+PID-01159,Harbour Vista,Dubai Marina,DAMAC,Townhouse,1 BR,2772502,7.1%,8.3%,High,Low
+PID-01160,Elite Park,JVC,Sobha Realty,Villa,Studio,1313088,8.0%,8.0%,Medium,Medium
+PID-01161,Elite Heights,JVC,Binghatti,Villa,3 BR,1034204,10.0%,7.9%,Medium,Medium
+PID-01162,Marina Horizon,JVC,Sobha Realty,Apartment,4 BR,1853127,9.7%,8.8%,Medium,Medium
+PID-01163,Palm View,Dubai Marina,Binghatti,Villa,Studio,2072042,8.5%,8.1%,High,Low
+PID-01164,Skyline Square,Business Bay,Danube,Townhouse,1 BR,2277016,7.5%,7.2%,High,Low
+PID-01165,Ocean Place,JVC,Binghatti,Apartment,4 BR,1880507,9.1%,8.0%,Medium,Medium
+PID-01166,Vista Place,Business Bay,Sobha Realty,Apartment,Studio,1942643,7.3%,7.5%,High,Low
+PID-01167,Infinity Central,Dubai Marina,Binghatti,Townhouse,4 BR,3149913,8.7%,6.7%,High,Low
+PID-01168,Elite Central,Dubai Marina,Sobha Realty,Apartment,3 BR,4294473,7.2%,8.2%,High,Low
+PID-01169,Canal Tower,Dubai Marina,Emaar,Apartment,Studio,1592985,8.9%,7.6%,High,Low
+PID-01170,Palm Square,Dubai Marina,DAMAC,Villa,Studio,3534512,8.1%,7.1%,High,Low
+PID-01171,Azure Horizon,Business Bay,DAMAC,Villa,1 BR,3026326,8.1%,6.5%,High,Low
+PID-01172,Infinity Collection,Dubai Marina,DAMAC,Townhouse,3 BR,4504970,7.9%,7.1%,High,Low
+PID-01173,Vista Vista,Dubai Marina,Binghatti,Apartment,1 BR,1779647,7.0%,8.1%,High,Low
+PID-01174,Skyline View,JVC,DAMAC,Townhouse,1 BR,1702035,8.5%,8.8%,Medium,Medium
+PID-01175,Azure View,JVC,Binghatti,Villa,Studio,867920,8.9%,7.8%,Medium,Medium
+PID-01176,Ocean Central,Dubai Marina,DAMAC,Townhouse,1 BR,4153034,7.2%,8.1%,High,Low
+PID-01177,Central Residence,JVC,Emaar,Townhouse,1 BR,1170304,8.8%,8.9%,Medium,Medium
+PID-01178,Park Living,JVC,Sobha Realty,Townhouse,4 BR,827873,9.9%,8.2%,Medium,Medium
+PID-01179,Azure Residence,Business Bay,DAMAC,Apartment,3 BR,4297982,7.4%,7.7%,High,Low
+PID-01180,Infinity Residence,JVC,Binghatti,Villa,1 BR,1573301,8.7%,8.2%,Medium,Medium
+PID-01181,Park Tower,Business Bay,Emaar,Apartment,3 BR,3845251,8.8%,7.3%,High,Low
+PID-01182,Elite Heights,Dubai Marina,DAMAC,Apartment,1 BR,3805148,7.2%,6.9%,High,Low
+PID-01183,Infinity Point,JVC,Binghatti,Villa,1 BR,1885302,8.6%,8.1%,Medium,Medium
+PID-01184,Grand Residence,JVC,DAMAC,Townhouse,4 BR,1978632,9.5%,8.8%,Medium,Medium
+PID-01185,Harbour Residence,JVC,Emaar,Villa,1 BR,1691715,9.8%,8.9%,Medium,Medium
+PID-01186,Palm Collection,Dubai Marina,Sobha Realty,Apartment,4 BR,2700202,8.4%,7.4%,High,Low
+PID-01187,Vista Point,Dubai Marina,Danube,Townhouse,1 BR,4381111,8.6%,8.2%,High,Low
+PID-01188,Harbour Heights,Business Bay,Binghatti,Apartment,3 BR,1693965,7.9%,7.1%,High,Low
+PID-01189,Marina Living,Dubai Marina,Emaar,Townhouse,Studio,3108439,7.5%,7.3%,High,Low
+PID-01190,Elite Residence,JVC,Binghatti,Villa,2 BR,960932,8.1%,8.2%,Medium,Medium
+PID-01191,Palm Heights,JVC,Sobha Realty,Villa,3 BR,1417552,9.8%,8.3%,Medium,Medium
+PID-01192,Skyline Place,JVC,Danube,Apartment,2 BR,851955,9.1%,7.6%,Medium,Medium
+PID-01193,Canal Heights,Dubai Marina,Sobha Realty,Villa,3 BR,4087003,8.4%,7.6%,High,Low
+PID-01194,Grand Gardens,Dubai Marina,Danube,Townhouse,3 BR,2187447,7.2%,6.6%,High,Low
+PID-01195,Vista View,Dubai Marina,Emaar,Apartment,Studio,3331511,7.4%,6.9%,High,Low
+PID-01196,Park Residences,JVC,Sobha Realty,Townhouse,3 BR,1414167,9.1%,7.6%,Medium,Medium
+PID-01197,Elite Gardens,Dubai Marina,Danube,Townhouse,1 BR,4730203,7.3%,7.4%,High,Low
+PID-01198,Infinity Living,Dubai Marina,Emaar,Villa,Studio,3945961,7.6%,6.8%,High,Low
+PID-01199,Palm Vista,Business Bay,Danube,Villa,2 BR,3588191,8.6%,7.7%,High,Low
+PID-01200,Elite View,JVC,Sobha Realty,Villa,2 BR,1636153,8.1%,8.6%,Medium,Medium
+PID-01201,Park Heights,JVC,Emaar,Villa,2 BR,995617,8.0%,7.8%,Medium,Medium
+PID-01202,Skyline One,Business Bay,Binghatti,Townhouse,2 BR,1504878,8.8%,7.0%,High,Low
+PID-01203,Creek Horizon,JVC,Binghatti,Villa,Studio,777291,9.6%,8.0%,Medium,Medium
+PID-01204,Creek Living,Business Bay,Emaar,Apartment,1 BR,3792272,8.5%,8.1%,High,Low
+PID-01205,Park Gardens,Business Bay,Emaar,Villa,3 BR,3693237,8.6%,8.2%,High,Low
+PID-01206,Marina Vista,JVC,Sobha Realty,Villa,Studio,1087413,9.8%,8.9%,Medium,Medium
+PID-01207,Harbour Collection,Dubai Marina,Sobha Realty,Villa,3 BR,1700243,8.6%,6.9%,High,Low
+PID-01208,Grand Residences,JVC,DAMAC,Villa,3 BR,1389255,9.9%,7.9%,Medium,Medium
+PID-01209,Palm Living,Dubai Marina,DAMAC,Apartment,4 BR,4378359,8.3%,6.9%,High,Low
+PID-01210,Infinity Living,JVC,Danube,Apartment,4 BR,1777159,8.6%,8.8%,Medium,Medium
+PID-01211,Park Residence,Dubai Marina,Emaar,Villa,4 BR,1633334,7.5%,7.9%,High,Low
+PID-01212,Royal Living,Business Bay,DAMAC,Villa,3 BR,2632909,8.2%,7.6%,High,Low
+PID-01213,Elite Tower,JVC,Emaar,Villa,3 BR,1732279,9.9%,8.6%,Medium,Medium
+PID-01214,Harbour Vista,Business Bay,Binghatti,Townhouse,Studio,3070188,8.0%,7.4%,High,Low
+PID-01215,Skyline Heights,Dubai Marina,Binghatti,Villa,2 BR,3645751,7.4%,6.7%,High,Low
+PID-01216,Marina Park,Dubai Marina,Emaar,Villa,Studio,1726865,8.0%,6.9%,High,Low
+PID-01217,Harbour Central,Business Bay,DAMAC,Villa,4 BR,2454144,8.2%,7.3%,High,Low
+PID-01218,Skyline Collection,JVC,Danube,Villa,2 BR,1836823,8.3%,7.6%,Medium,Medium
+PID-01219,Marina Residences,Dubai Marina,Danube,Villa,3 BR,3001136,7.8%,7.2%,High,Low
+PID-01220,Harbour Living,JVC,Binghatti,Townhouse,4 BR,1366819,8.2%,8.3%,Medium,Medium
+PID-01221,Azure Central,Business Bay,Emaar,Townhouse,4 BR,3303841,7.1%,7.5%,High,Low
+PID-01222,Royal Square,JVC,Danube,Apartment,2 BR,1483410,9.5%,7.9%,Medium,Medium
+PID-01223,Canal Place,Dubai Marina,DAMAC,Villa,2 BR,3032617,7.1%,8.2%,High,Low
+PID-01224,Central Horizon,JVC,Emaar,Apartment,Studio,1450756,9.6%,8.3%,Medium,Medium
+PID-01225,Park Tower,Business Bay,Sobha Realty,Townhouse,4 BR,2777114,8.8%,7.3%,High,Low
+PID-01226,Central View,Dubai Marina,Binghatti,Villa,Studio,4649817,8.0%,7.4%,High,Low
+PID-01227,Marina Residence,JVC,Emaar,Villa,3 BR,713481,8.5%,7.8%,Medium,Medium
+PID-01228,Canal Living,Business Bay,Emaar,Townhouse,1 BR,3704096,8.5%,6.6%,High,Low
+PID-01229,Vista View,JVC,Binghatti,Apartment,1 BR,1673566,9.9%,8.0%,Medium,Medium
+PID-01230,Skyline Gardens,Business Bay,Emaar,Villa,2 BR,1777970,7.1%,7.3%,High,Low
+PID-01231,Creek Residences,Dubai Marina,DAMAC,Villa,3 BR,2369130,8.5%,8.5%,High,Low
+PID-01232,Grand Central,JVC,Emaar,Villa,Studio,1720001,9.4%,8.8%,Medium,Medium
+PID-01233,Elite Tower,Dubai Marina,Emaar,Apartment,4 BR,4448972,7.2%,7.5%,High,Low
+PID-01234,Palm Tower,Dubai Marina,Sobha Realty,Townhouse,Studio,1538747,7.8%,6.6%,High,Low
+PID-01235,Park Residences,Dubai Marina,Emaar,Apartment,1 BR,4610293,7.1%,7.7%,High,Low
+PID-01236,Elite Living,Business Bay,Emaar,Villa,3 BR,3404785,7.7%,7.2%,High,Low
+PID-01237,Azure Square,JVC,Emaar,Villa,1 BR,1350054,8.6%,8.0%,Medium,Medium
+PID-01238,Vista Vista,JVC,Sobha Realty,Villa,3 BR,1778541,8.0%,7.7%,Medium,Medium
+PID-01239,Infinity Tower,Business Bay,Binghatti,Villa,3 BR,2401923,8.0%,7.3%,High,Low
+PID-01240,Marina Collection,JVC,Danube,Villa,3 BR,981805,8.1%,7.9%,Medium,Medium
+PID-01241,Azure Central,JVC,Binghatti,Townhouse,3 BR,730474,8.1%,8.6%,Medium,Medium
+PID-01242,Central Residence,JVC,Danube,Townhouse,Studio,1539165,9.8%,7.5%,Medium,Medium
+PID-01243,Canal Park,Business Bay,Emaar,Townhouse,4 BR,1698340,7.7%,6.9%,High,Low
+PID-01244,Vista Central,JVC,Danube,Villa,2 BR,1330144,8.0%,7.7%,Medium,Medium
+PID-01245,Elite View,Business Bay,Danube,Apartment,2 BR,4295044,8.0%,7.7%,High,Low
+PID-01246,Vista Vista,JVC,Danube,Townhouse,3 BR,1012628,9.0%,7.8%,Medium,Medium
+PID-01247,Creek Point,JVC,Danube,Townhouse,3 BR,666215,8.8%,8.6%,Medium,Medium
+PID-01248,Skyline Tower,Business Bay,Binghatti,Villa,1 BR,1936730,7.6%,7.2%,High,Low
+PID-01249,Azure One,Business Bay,DAMAC,Apartment,1 BR,4421172,8.7%,7.6%,High,Low
+PID-01250,Vista Heights,Dubai Marina,DAMAC,Townhouse,3 BR,2855340,9.0%,8.3%,High,Low
+PID-01251,Elite Living,Business Bay,Binghatti,Apartment,2 BR,4250603,8.8%,7.4%,High,Low
+PID-01252,Park Collection,JVC,DAMAC,Villa,4 BR,1033191,8.3%,9.0%,Medium,Medium
+PID-01253,Ocean Gardens,Dubai Marina,DAMAC,Apartment,4 BR,3390466,8.8%,7.0%,High,Low
+PID-01254,Azure Point,JVC,Binghatti,Townhouse,1 BR,1023693,8.9%,8.7%,Medium,Medium
+PID-01255,Park Place,JVC,Binghatti,Villa,Studio,858229,9.1%,8.0%,Medium,Medium
+PID-01256,Vista Point,Business Bay,Danube,Apartment,2 BR,3488305,7.9%,8.0%,High,Low
+PID-01257,Vista Central,JVC,Sobha Realty,Apartment,Studio,1401082,8.6%,8.7%,Medium,Medium
+PID-01258,Royal View,Business Bay,DAMAC,Apartment,3 BR,4358496,7.2%,6.8%,High,Low
+PID-01259,Creek One,Dubai Marina,Sobha Realty,Apartment,1 BR,4052270,8.4%,7.0%,High,Low
+PID-01260,Central Collection,Dubai Marina,Sobha Realty,Villa,3 BR,2981942,8.9%,8.5%,High,Low
+PID-01261,Ocean Tower,JVC,Emaar,Apartment,2 BR,920564,9.8%,8.9%,Medium,Medium
+PID-01262,Grand Heights,Dubai Marina,Sobha Realty,Apartment,2 BR,3361161,7.2%,6.9%,High,Low
+PID-01263,Skyline View,Dubai Marina,Danube,Townhouse,3 BR,2502802,8.4%,7.1%,High,Low
+PID-01264,Creek Residences,JVC,Sobha Realty,Apartment,3 BR,1026844,9.8%,8.5%,Medium,Medium
+PID-01265,Palm Park,JVC,Danube,Townhouse,Studio,1386321,8.5%,8.4%,Medium,Medium
+PID-01266,Palm Gardens,Dubai Marina,Binghatti,Villa,Studio,3433967,7.5%,7.7%,High,Low
+PID-01267,Palm Point,JVC,Binghatti,Apartment,Studio,1544889,8.1%,8.6%,Medium,Medium
+PID-01268,Park Central,Dubai Marina,Binghatti,Townhouse,Studio,4983531,7.9%,8.2%,High,Low
+PID-01269,Azure Vista,JVC,Sobha Realty,Apartment,4 BR,661434,9.8%,8.6%,Medium,Medium
+PID-01270,Vista Point,JVC,Sobha Realty,Townhouse,2 BR,887055,9.5%,8.6%,Medium,Medium
+PID-01271,Central Residence,Business Bay,DAMAC,Apartment,2 BR,3142373,7.4%,8.0%,High,Low
+PID-01272,Creek One,Dubai Marina,Binghatti,Townhouse,1 BR,3613762,7.7%,7.4%,High,Low
+PID-01273,Infinity Tower,Business Bay,Binghatti,Apartment,1 BR,2479795,7.4%,7.0%,High,Low
+PID-01274,Palm Tower,JVC,Emaar,Villa,Studio,1545590,9.1%,8.8%,Medium,Medium
+PID-01275,Vista Square,Business Bay,Danube,Apartment,2 BR,1588140,7.7%,7.0%,High,Low
+PID-01276,Skyline Vista,Dubai Marina,Emaar,Apartment,Studio,3287173,7.8%,8.4%,High,Low
+PID-01277,Park View,Dubai Marina,Emaar,Villa,3 BR,3715673,7.7%,7.5%,High,Low
+PID-01278,Royal View,Dubai Marina,Binghatti,Apartment,4 BR,4112193,7.9%,7.2%,High,Low
+PID-01279,Ocean Central,Business Bay,DAMAC,Townhouse,1 BR,4172474,7.0%,7.7%,High,Low
+PID-01280,Ocean Residence,Business Bay,Emaar,Apartment,3 BR,3048694,7.3%,7.7%,High,Low
+PID-01281,Royal Central,Business Bay,Binghatti,Villa,4 BR,3344955,7.8%,6.6%,High,Low
+PID-01282,Marina Vista,Business Bay,Binghatti,Villa,4 BR,2789647,7.0%,7.5%,High,Low
+PID-01283,Palm Vista,Dubai Marina,Danube,Apartment,3 BR,2985182,8.1%,7.1%,High,Low
+PID-01284,Vista Tower,Dubai Marina,Danube,Apartment,4 BR,3040817,7.1%,8.3%,High,Low
+PID-01285,Harbour Residences,Business Bay,Sobha Realty,Villa,1 BR,3172316,7.4%,7.2%,High,Low
+PID-01286,Skyline View,Business Bay,Binghatti,Townhouse,1 BR,3022156,7.1%,6.6%,High,Low
+PID-01287,The Living,Dubai Marina,Binghatti,Townhouse,1 BR,3133785,7.7%,7.1%,High,Low
+PID-01288,Canal Vista,JVC,Danube,Townhouse,3 BR,732887,8.0%,8.1%,Medium,Medium
+PID-01289,Central Heights,JVC,Binghatti,Townhouse,3 BR,1355938,8.6%,8.4%,Medium,Medium
+PID-01290,Infinity Tower,JVC,Emaar,Townhouse,1 BR,1212981,8.2%,8.9%,Medium,Medium
+PID-01291,Azure Park,Business Bay,DAMAC,Townhouse,1 BR,1699179,7.4%,6.6%,High,Low
+PID-01292,The Residences,Business Bay,Sobha Realty,Apartment,3 BR,2487951,8.5%,6.7%,High,Low
+PID-01293,Park Square,JVC,Binghatti,Villa,Studio,1490142,9.9%,8.6%,Medium,Medium
+PID-01294,Skyline Square,JVC,DAMAC,Townhouse,2 BR,1456408,8.9%,8.7%,Medium,Medium
+PID-01295,Ocean One,Business Bay,Sobha Realty,Townhouse,3 BR,4388149,7.1%,7.5%,High,Low
+PID-01296,Infinity Heights,Dubai Marina,Sobha Realty,Apartment,1 BR,4025894,7.8%,8.2%,High,Low
+PID-01297,Creek Point,JVC,Emaar,Villa,4 BR,1499810,8.5%,8.9%,Medium,Medium
+PID-01298,Palm Vista,Business Bay,DAMAC,Townhouse,2 BR,2125083,7.5%,7.8%,High,Low
+PID-01299,The Central,JVC,Binghatti,Townhouse,1 BR,1704436,9.5%,8.5%,Medium,Medium
+PID-01300,Royal One,Business Bay,Binghatti,Villa,4 BR,3214506,8.1%,8.1%,High,Low
+PID-01301,Elite Square,JVC,Binghatti,Villa,3 BR,1048591,8.5%,7.9%,Medium,Medium
+PID-01302,Canal Vista,Dubai Marina,Sobha Realty,Villa,1 BR,1976127,7.3%,7.0%,High,Low
+PID-01303,Skyline Heights,Business Bay,DAMAC,Villa,3 BR,2301384,7.3%,8.2%,High,Low
+PID-01304,Royal Collection,Dubai Marina,Sobha Realty,Villa,3 BR,3257503,7.3%,6.5%,High,Low
+PID-01305,The Residence,JVC,Binghatti,Apartment,Studio,1959806,9.3%,8.0%,Medium,Medium
+PID-01306,Palm Heights,Dubai Marina,Sobha Realty,Villa,4 BR,3986820,7.8%,6.9%,High,Low
+PID-01307,Skyline Collection,Business Bay,Emaar,Apartment,Studio,2308190,8.3%,6.7%,High,Low
+PID-01308,Creek Residence,Business Bay,Binghatti,Apartment,2 BR,3915158,7.6%,7.6%,High,Low
+PID-01309,Canal Collection,Business Bay,Binghatti,Villa,Studio,1549214,8.5%,8.2%,High,Low
+PID-01310,Ocean Collection,Dubai Marina,Sobha Realty,Villa,4 BR,1907442,7.9%,8.0%,High,Low
+PID-01311,Azure Park,JVC,Sobha Realty,Townhouse,3 BR,807450,8.7%,8.6%,Medium,Medium
+PID-01312,Elite Residences,Business Bay,DAMAC,Villa,Studio,1246895,7.3%,7.6%,High,Low
+PID-01313,Infinity Vista,Business Bay,DAMAC,Townhouse,1 BR,3154937,7.9%,7.4%,High,Low
+PID-01314,Central Living,Business Bay,Binghatti,Villa,3 BR,1216491,7.8%,7.1%,High,Low
+PID-01315,Canal Residence,JVC,Binghatti,Townhouse,2 BR,1609636,9.5%,7.9%,Medium,Medium
+PID-01316,Creek Central,JVC,Binghatti,Apartment,Studio,1797414,9.4%,8.6%,Medium,Medium
+PID-01317,Skyline Vista,Business Bay,DAMAC,Villa,4 BR,4244998,8.0%,7.5%,High,Low
+PID-01318,Skyline Tower,Business Bay,Danube,Townhouse,Studio,3671281,8.8%,7.9%,High,Low
+PID-01319,Creek Gardens,JVC,DAMAC,Townhouse,4 BR,1311779,9.4%,7.6%,Medium,Medium
+PID-01320,Marina Place,Business Bay,DAMAC,Townhouse,4 BR,2242867,7.7%,6.6%,High,Low
+PID-01321,Palm One,JVC,DAMAC,Townhouse,2 BR,787939,8.1%,8.5%,Medium,Medium
+PID-01322,Harbour Square,Business Bay,Danube,Townhouse,Studio,4142281,8.0%,7.9%,High,Low
+PID-01323,The Gardens,Dubai Marina,Emaar,Villa,4 BR,4256708,8.3%,7.6%,High,Low
+PID-01324,Infinity Central,Dubai Marina,Sobha Realty,Villa,1 BR,2315788,8.8%,8.4%,High,Low
+PID-01325,Grand Park,Business Bay,DAMAC,Villa,Studio,1313431,8.0%,6.5%,High,Low
+PID-01326,Elite Residence,Business Bay,Emaar,Townhouse,Studio,1262114,8.2%,7.6%,High,Low
+PID-01327,Central Residences,Business Bay,Binghatti,Villa,4 BR,1683292,8.4%,6.9%,High,Low
+PID-01328,Azure Point,JVC,DAMAC,Apartment,Studio,1700408,8.7%,8.1%,Medium,Medium
+PID-01329,Grand Residences,Dubai Marina,DAMAC,Apartment,3 BR,2479247,8.8%,7.1%,High,Low
+PID-01330,Park Vista,Business Bay,Emaar,Villa,3 BR,3128794,8.7%,7.0%,High,Low
+PID-01331,Palm Vista,Business Bay,Sobha Realty,Apartment,1 BR,1735262,8.4%,6.9%,High,Low
+PID-01332,Palm Point,Business Bay,DAMAC,Townhouse,3 BR,1867484,8.8%,6.9%,High,Low
+PID-01333,Harbour Square,Business Bay,Danube,Villa,3 BR,2136058,7.6%,7.6%,High,Low
+PID-01334,Skyline Residence,Dubai Marina,Danube,Townhouse,Studio,2405244,7.5%,8.1%,High,Low
+PID-01335,Royal Residences,JVC,DAMAC,Villa,4 BR,1319740,8.7%,8.8%,Medium,Medium
+PID-01336,Azure Tower,JVC,Emaar,Apartment,4 BR,1458894,9.6%,8.8%,Medium,Medium
+PID-01337,Central Central,Dubai Marina,DAMAC,Villa,2 BR,2964991,7.3%,7.5%,High,Low
+PID-01338,Palm Point,Dubai Marina,Emaar,Apartment,4 BR,3712873,7.4%,7.1%,High,Low
+PID-01339,Canal Tower,Dubai Marina,Danube,Apartment,Studio,3880384,7.6%,7.9%,High,Low
+PID-01340,Infinity Horizon,JVC,Binghatti,Villa,1 BR,1547878,8.9%,8.0%,Medium,Medium
+PID-01341,Marina Central,Dubai Marina,Binghatti,Apartment,Studio,3408997,7.2%,6.6%,High,Low
+PID-01342,Palm Square,Business Bay,DAMAC,Townhouse,Studio,3055689,7.7%,6.7%,High,Low
+PID-01343,Infinity Park,JVC,Emaar,Apartment,2 BR,1716158,9.3%,9.0%,Medium,Medium
+PID-01344,Harbour Residence,JVC,Danube,Apartment,4 BR,1376206,8.6%,8.6%,Medium,Medium
+PID-01345,Park Place,Dubai Marina,Sobha Realty,Townhouse,1 BR,2026339,8.9%,8.3%,High,Low
+PID-01346,Royal Residence,Business Bay,Emaar,Apartment,4 BR,1966410,7.5%,7.4%,High,Low
+PID-01347,Ocean View,JVC,DAMAC,Apartment,1 BR,1996803,8.2%,7.8%,Medium,Medium
+PID-01348,The View,Dubai Marina,Binghatti,Apartment,4 BR,3330075,8.8%,8.5%,High,Low
+PID-01349,Canal Vista,Business Bay,Emaar,Townhouse,Studio,2272202,7.4%,7.9%,High,Low
+PID-01350,Palm Tower,Dubai Marina,DAMAC,Apartment,2 BR,4493777,7.3%,7.5%,High,Low
+PID-01351,Ocean Vista,Business Bay,Emaar,Apartment,2 BR,1635378,7.4%,6.5%,High,Low
+PID-01352,Marina Place,Dubai Marina,Emaar,Apartment,Studio,3328401,8.0%,7.6%,High,Low
+PID-01353,Elite Collection,Dubai Marina,Danube,Villa,3 BR,1809435,7.1%,8.4%,High,Low
+PID-01354,Creek Tower,Dubai Marina,Danube,Townhouse,2 BR,4717123,8.4%,7.9%,High,Low
+PID-01355,The Point,JVC,DAMAC,Townhouse,4 BR,1547764,8.2%,8.7%,Medium,Medium
+PID-01356,Royal Vista,JVC,Binghatti,Villa,2 BR,1543350,9.8%,7.6%,Medium,Medium
+PID-01357,Skyline Heights,JVC,Emaar,Apartment,4 BR,1352375,9.7%,8.2%,Medium,Medium
+PID-01358,Palm Living,JVC,Danube,Apartment,3 BR,1806854,9.4%,8.5%,Medium,Medium
+PID-01359,Ocean Heights,JVC,DAMAC,Apartment,Studio,1114192,9.3%,7.5%,Medium,Medium
+PID-01360,Infinity Park,Dubai Marina,Binghatti,Townhouse,Studio,2192078,7.5%,6.9%,High,Low
+PID-01361,Royal Park,Business Bay,Emaar,Townhouse,4 BR,4068239,7.0%,6.8%,High,Low
+PID-01362,Marina Point,Business Bay,DAMAC,Villa,1 BR,2219908,8.5%,7.5%,High,Low
+PID-01363,Vista Square,Dubai Marina,Binghatti,Apartment,3 BR,2943820,8.6%,8.1%,High,Low
+PID-01364,Grand Vista,Dubai Marina,Sobha Realty,Villa,4 BR,2272494,8.0%,8.4%,High,Low
+PID-01365,Vista Park,Business Bay,Sobha Realty,Villa,Studio,4326559,8.2%,8.0%,High,Low
+PID-01366,Canal Living,JVC,DAMAC,Townhouse,4 BR,1345415,8.1%,7.7%,Medium,Medium
+PID-01367,The Tower,JVC,Danube,Villa,Studio,779799,8.7%,8.6%,Medium,Medium
+PID-01368,Vista Living,Business Bay,Binghatti,Apartment,1 BR,2675984,8.1%,6.6%,High,Low
+PID-01369,Park Park,Business Bay,Sobha Realty,Townhouse,4 BR,3570928,8.6%,7.1%,High,Low
+PID-01370,Vista Park,JVC,Danube,Villa,2 BR,1971400,8.5%,8.7%,Medium,Medium
+PID-01371,Palm Residences,Dubai Marina,Emaar,Townhouse,2 BR,1608822,7.1%,6.6%,High,Low
+PID-01372,Grand Collection,Business Bay,DAMAC,Villa,3 BR,1551045,8.4%,8.2%,High,Low
+PID-01373,Skyline Living,JVC,DAMAC,Townhouse,2 BR,1120161,9.4%,8.9%,Medium,Medium
+PID-01374,Grand One,Business Bay,Sobha Realty,Apartment,Studio,4236457,8.6%,7.3%,High,Low
+PID-01375,Park Living,Dubai Marina,Danube,Apartment,3 BR,1773001,7.2%,8.0%,High,Low
+PID-01376,Vista Point,Business Bay,Emaar,Apartment,4 BR,2377987,8.2%,6.8%,High,Low
+PID-01377,Harbour Gardens,JVC,Sobha Realty,Townhouse,1 BR,1304625,8.6%,9.0%,Medium,Medium
+PID-01378,Ocean View,Dubai Marina,Emaar,Villa,Studio,2534928,7.7%,7.1%,High,Low
+PID-01379,Royal Place,Business Bay,Sobha Realty,Townhouse,2 BR,4218866,7.5%,7.3%,High,Low
+PID-01380,Elite Place,JVC,DAMAC,Townhouse,Studio,755135,8.1%,7.8%,Medium,Medium
+PID-01381,Central View,Dubai Marina,Danube,Apartment,4 BR,1666031,7.0%,7.7%,High,Low
+PID-01382,Royal Living,Dubai Marina,Binghatti,Townhouse,4 BR,4529538,7.7%,8.4%,High,Low
+PID-01383,Park Gardens,JVC,Danube,Townhouse,4 BR,1505141,9.8%,7.5%,Medium,Medium
+PID-01384,Vista One,Dubai Marina,Emaar,Villa,4 BR,4013871,7.2%,7.9%,High,Low
+PID-01385,Ocean Tower,JVC,Emaar,Villa,4 BR,963190,9.4%,8.9%,Medium,Medium
+PID-01386,Skyline Square,Dubai Marina,DAMAC,Apartment,Studio,1917376,8.3%,7.5%,High,Low
+PID-01387,Infinity Gardens,Business Bay,Binghatti,Townhouse,2 BR,3952469,8.2%,7.6%,High,Low
+PID-01388,Ocean Living,Dubai Marina,Binghatti,Villa,1 BR,3321838,8.9%,6.7%,High,Low
+PID-01389,Palm Collection,Dubai Marina,DAMAC,Apartment,Studio,4046994,7.1%,8.1%,High,Low
+PID-01390,Ocean Heights,Dubai Marina,Binghatti,Apartment,Studio,2459022,7.8%,7.8%,High,Low
+PID-01391,Marina Collection,Dubai Marina,Binghatti,Apartment,2 BR,3616747,8.1%,7.9%,High,Low
+PID-01392,Azure Place,Business Bay,Emaar,Apartment,3 BR,1653223,7.2%,7.1%,High,Low
+PID-01393,Vista Point,Business Bay,Emaar,Apartment,Studio,4053896,7.1%,7.0%,High,Low
+PID-01394,Azure Central,Business Bay,DAMAC,Apartment,2 BR,1981559,8.2%,6.9%,High,Low
+PID-01395,Palm Collection,Dubai Marina,Danube,Apartment,Studio,3922275,7.7%,6.6%,High,Low
+PID-01396,Vista Square,Business Bay,Sobha Realty,Townhouse,3 BR,2879542,7.9%,8.0%,High,Low
+PID-01397,Harbour Park,Business Bay,Emaar,Villa,4 BR,1482493,7.4%,6.5%,High,Low
+PID-01398,Harbour Residences,JVC,DAMAC,Townhouse,1 BR,983862,9.8%,8.7%,Medium,Medium
+PID-01399,Royal Park,Business Bay,Sobha Realty,Villa,1 BR,4389359,7.1%,6.8%,High,Low
+PID-01400,Palm Living,JVC,Danube,Townhouse,1 BR,755028,9.9%,7.8%,Medium,Medium
+PID-01401,Vista Park,Business Bay,Danube,Villa,4 BR,2298971,8.1%,7.0%,High,Low
+PID-01402,The View,Dubai Marina,Danube,Apartment,1 BR,4613409,8.4%,6.6%,High,Low
+PID-01403,Harbour Collection,Business Bay,DAMAC,Villa,Studio,2008665,7.6%,8.0%,High,Low
+PID-01404,Elite Central,Dubai Marina,DAMAC,Villa,3 BR,3091988,8.4%,6.9%,High,Low
+PID-01405,Central Gardens,Dubai Marina,DAMAC,Villa,1 BR,3038939,8.7%,8.3%,High,Low
+PID-01406,Infinity Horizon,Business Bay,Emaar,Villa,1 BR,3905617,8.1%,8.0%,High,Low
+PID-01407,Palm View,Business Bay,Binghatti,Townhouse,Studio,3533538,8.7%,6.7%,High,Low
+PID-01408,Harbour Point,Business Bay,Binghatti,Apartment,Studio,3026793,7.8%,7.7%,High,Low
+PID-01409,Elite Residence,JVC,DAMAC,Apartment,3 BR,1346465,9.5%,7.8%,Medium,Medium
+PID-01410,Azure Place,JVC,Danube,Townhouse,3 BR,1655135,8.6%,7.7%,Medium,Medium
+PID-01411,Ocean Horizon,Dubai Marina,Binghatti,Townhouse,3 BR,2492946,8.2%,8.5%,High,Low
+PID-01412,Ocean Vista,Dubai Marina,Emaar,Villa,4 BR,1831311,8.4%,7.7%,High,Low
+PID-01413,Canal Gardens,Dubai Marina,Danube,Apartment,Studio,2239250,8.1%,8.4%,High,Low
+PID-01414,Infinity Vista,JVC,Binghatti,Townhouse,Studio,812214,8.4%,8.5%,Medium,Medium
+PID-01415,Palm Central,JVC,Emaar,Townhouse,3 BR,1867583,9.4%,8.3%,Medium,Medium
+PID-01416,Palm View,Business Bay,DAMAC,Apartment,Studio,1406694,7.4%,7.6%,High,Low
+PID-01417,Skyline Residences,JVC,Sobha Realty,Townhouse,Studio,1875070,9.9%,8.6%,Medium,Medium
+PID-01418,Canal Tower,JVC,Danube,Apartment,4 BR,1444244,9.8%,8.2%,Medium,Medium
+PID-01419,Palm Place,Dubai Marina,DAMAC,Townhouse,4 BR,3494609,7.8%,8.3%,High,Low
+PID-01420,Vista View,Business Bay,DAMAC,Townhouse,3 BR,4162281,8.0%,7.6%,High,Low
+PID-01421,The Tower,Dubai Marina,Emaar,Townhouse,1 BR,2671907,7.0%,7.9%,High,Low
+PID-01422,Infinity Square,JVC,DAMAC,Villa,3 BR,1201544,8.2%,8.3%,Medium,Medium
+PID-01423,Creek Vista,JVC,DAMAC,Townhouse,4 BR,721101,9.5%,7.7%,Medium,Medium
+PID-01424,Park Horizon,Dubai Marina,Emaar,Villa,Studio,4660971,8.9%,7.4%,High,Low
+PID-01425,Grand Point,Business Bay,Emaar,Townhouse,Studio,2204233,7.8%,8.2%,High,Low
+PID-01426,Grand Residence,JVC,Sobha Realty,Villa,4 BR,1910289,9.3%,7.9%,Medium,Medium
+PID-01427,The Central,JVC,Danube,Townhouse,1 BR,683434,9.6%,8.0%,Medium,Medium
+PID-01428,Ocean Gardens,JVC,Emaar,Villa,3 BR,1312121,9.2%,7.9%,Medium,Medium
+PID-01429,Royal One,JVC,Danube,Townhouse,4 BR,946263,8.1%,7.6%,Medium,Medium
+PID-01430,Royal Horizon,JVC,DAMAC,Villa,4 BR,814838,8.9%,8.8%,Medium,Medium
+PID-01431,Creek Horizon,JVC,Emaar,Villa,4 BR,1051772,8.2%,8.0%,Medium,Medium
+PID-01432,Elite Tower,Business Bay,DAMAC,Villa,2 BR,3550523,8.2%,7.7%,High,Low
+PID-01433,Royal Gardens,Business Bay,DAMAC,Apartment,1 BR,2658452,8.5%,7.6%,High,Low
+PID-01434,Skyline Tower,Dubai Marina,Sobha Realty,Apartment,1 BR,3765292,8.5%,8.3%,High,Low
+PID-01435,Canal Vista,Dubai Marina,Emaar,Townhouse,1 BR,4331911,7.7%,8.3%,High,Low
+PID-01436,Central Point,Business Bay,Emaar,Villa,3 BR,1930888,8.3%,6.6%,High,Low
+PID-01437,The Central,Business Bay,DAMAC,Villa,1 BR,3501582,7.1%,6.6%,High,Low
+PID-01438,Skyline View,Dubai Marina,Binghatti,Villa,1 BR,3497044,8.7%,7.5%,High,Low
+PID-01439,Royal Living,Dubai Marina,DAMAC,Townhouse,Studio,3797068,8.2%,8.4%,High,Low
+PID-01440,Marina Place,Dubai Marina,Binghatti,Apartment,4 BR,4800456,7.1%,8.3%,High,Low
+PID-01441,Elite Residence,Business Bay,Emaar,Villa,3 BR,1866234,7.8%,6.8%,High,Low
+PID-01442,Park View,JVC,Danube,Apartment,3 BR,1542864,8.1%,8.3%,Medium,Medium
+PID-01443,Elite Vista,Business Bay,Binghatti,Townhouse,4 BR,3889021,7.1%,7.6%,High,Low
+PID-01444,Azure Vista,Dubai Marina,Emaar,Townhouse,3 BR,4054367,7.7%,8.0%,High,Low
+PID-01445,Park Residences,Dubai Marina,Binghatti,Townhouse,Studio,3671612,8.9%,7.4%,High,Low
+PID-01446,Ocean Square,Dubai Marina,Sobha Realty,Townhouse,Studio,3101053,7.1%,8.1%,High,Low
+PID-01447,The Living,JVC,Sobha Realty,Townhouse,1 BR,1553733,8.2%,8.0%,Medium,Medium
+PID-01448,Royal Residences,Business Bay,Emaar,Townhouse,2 BR,4485044,7.3%,7.9%,High,Low
+PID-01449,Vista Place,Business Bay,DAMAC,Apartment,1 BR,1715653,7.2%,8.0%,High,Low
+PID-01450,Grand Place,Business Bay,DAMAC,Villa,Studio,3841742,7.1%,6.6%,High,Low
+PID-01451,Canal Horizon,JVC,Danube,Townhouse,4 BR,1055520,8.4%,8.3%,Medium,Medium
+PID-01452,Central Collection,Business Bay,Emaar,Apartment,4 BR,3740437,7.3%,7.9%,High,Low
+PID-01453,Park View,Dubai Marina,Binghatti,Townhouse,2 BR,2916272,8.0%,6.7%,High,Low
+PID-01454,Marina Vista,Business Bay,Binghatti,Villa,4 BR,2249226,7.5%,6.9%,High,Low
+PID-01455,Creek Park,Dubai Marina,DAMAC,Apartment,1 BR,2279363,8.6%,7.0%,High,Low
+PID-01456,Central Vista,JVC,Binghatti,Townhouse,3 BR,1709543,8.5%,7.8%,Medium,Medium
+PID-01457,Ocean Point,Business Bay,Sobha Realty,Villa,3 BR,2640254,7.3%,7.1%,High,Low
+PID-01458,Central Place,JVC,Binghatti,Villa,Studio,1872295,9.5%,9.0%,Medium,Medium
+PID-01459,Vista Horizon,Dubai Marina,Binghatti,Townhouse,Studio,3574822,7.0%,6.7%,High,Low
+PID-01460,Elite Central,Business Bay,Emaar,Villa,Studio,4387777,7.2%,7.6%,High,Low
+PID-01461,Royal Heights,Dubai Marina,Sobha Realty,Apartment,2 BR,3870475,8.6%,7.8%,High,Low
+PID-01462,Grand Place,Dubai Marina,DAMAC,Apartment,1 BR,2784143,8.8%,8.2%,High,Low
+PID-01463,Harbour Collection,Business Bay,Danube,Townhouse,3 BR,1819270,7.3%,8.0%,High,Low
+PID-01464,Creek Point,JVC,Emaar,Apartment,2 BR,694428,9.0%,8.0%,Medium,Medium
+PID-01465,Palm Gardens,Dubai Marina,Danube,Apartment,Studio,2952704,8.5%,8.0%,High,Low
+PID-01466,Ocean Place,JVC,Binghatti,Townhouse,3 BR,764610,9.3%,8.7%,Medium,Medium
+PID-01467,Central Collection,JVC,Danube,Apartment,Studio,1467248,9.9%,8.3%,Medium,Medium
+PID-01468,Infinity Gardens,Dubai Marina,Emaar,Villa,4 BR,4580761,7.7%,6.8%,High,Low
+PID-01469,Harbour Collection,Business Bay,Sobha Realty,Townhouse,4 BR,3033303,7.2%,6.9%,High,Low
+PID-01470,Infinity Tower,Dubai Marina,DAMAC,Villa,3 BR,3099364,8.7%,7.5%,High,Low
+PID-01471,Ocean Central,Business Bay,DAMAC,Villa,4 BR,3405163,7.6%,8.2%,High,Low
+PID-01472,Park Gardens,Business Bay,Sobha Realty,Townhouse,Studio,3820825,7.9%,8.2%,High,Low
+PID-01473,Central Residences,Dubai Marina,DAMAC,Townhouse,2 BR,4255021,8.5%,7.7%,High,Low
+PID-01474,Vista Square,JVC,Emaar,Villa,4 BR,1514698,8.4%,7.6%,Medium,Medium
+PID-01475,Royal Square,Dubai Marina,Sobha Realty,Townhouse,2 BR,4117174,7.2%,7.9%,High,Low
+PID-01476,Vista One,JVC,Emaar,Townhouse,4 BR,1438615,9.7%,8.5%,Medium,Medium
+PID-01477,Skyline Residence,Business Bay,Binghatti,Apartment,4 BR,2569458,8.1%,7.6%,High,Low
+PID-01478,Canal Heights,Business Bay,DAMAC,Apartment,1 BR,2969419,7.5%,7.8%,High,Low
+PID-01479,Infinity Horizon,Business Bay,Danube,Villa,3 BR,2539708,7.8%,6.5%,High,Low
+PID-01480,Grand Point,JVC,Binghatti,Apartment,3 BR,1666322,9.8%,8.7%,Medium,Medium
+PID-01481,Park View,Business Bay,Binghatti,Townhouse,4 BR,3865672,8.7%,7.8%,High,Low
+PID-01482,Creek Square,JVC,Emaar,Apartment,1 BR,1970144,9.6%,8.0%,Medium,Medium
+PID-01483,Creek View,Business Bay,Binghatti,Apartment,4 BR,2333146,8.2%,6.7%,High,Low
+PID-01484,Central Vista,Dubai Marina,Emaar,Apartment,1 BR,1599130,8.9%,6.7%,High,Low
+PID-01485,Ocean Place,Dubai Marina,Binghatti,Villa,4 BR,1717811,8.8%,8.2%,High,Low
+PID-01486,Palm Heights,Business Bay,DAMAC,Townhouse,3 BR,2798833,8.0%,6.8%,High,Low
+PID-01487,Royal Place,JVC,Binghatti,Villa,Studio,915407,8.4%,8.6%,Medium,Medium
+PID-01488,Palm Vista,Business Bay,Binghatti,Apartment,Studio,2467973,7.7%,7.8%,High,Low
+PID-01489,Palm View,Dubai Marina,DAMAC,Townhouse,2 BR,2252342,7.9%,8.4%,High,Low
+PID-01490,Skyline Tower,Dubai Marina,Danube,Townhouse,2 BR,4668890,7.5%,7.0%,High,Low
+PID-01491,Harbour One,JVC,DAMAC,Townhouse,Studio,1922659,9.5%,8.5%,Medium,Medium
+PID-01492,Palm Collection,Dubai Marina,Sobha Realty,Townhouse,4 BR,2142640,7.0%,7.5%,High,Low
+PID-01493,Palm Tower,Business Bay,Sobha Realty,Apartment,1 BR,2204104,8.6%,7.9%,High,Low
+PID-01494,Creek Living,Business Bay,Binghatti,Apartment,3 BR,2234909,7.2%,6.6%,High,Low
+PID-01495,Grand Gardens,JVC,Sobha Realty,Townhouse,3 BR,1268244,9.9%,8.8%,Medium,Medium
+PID-01496,Skyline Gardens,Business Bay,Sobha Realty,Townhouse,3 BR,3707505,8.4%,7.9%,High,Low
+PID-01497,Royal Vista,Dubai Marina,Danube,Villa,Studio,4400268,8.2%,6.5%,High,Low
+PID-01498,Grand Square,JVC,Binghatti,Townhouse,3 BR,1285831,9.4%,8.1%,Medium,Medium
+PID-01499,Royal Central,Dubai Marina,Binghatti,Apartment,2 BR,3100594,8.0%,6.9%,High,Low
+PID-01500,Park Collection,JVC,DAMAC,Apartment,3 BR,1088352,8.8%,8.7%,Medium,Medium
+PID-01501,Ocean Residence,Dubai Marina,Emaar,Apartment,3 BR,4154129,7.3%,8.3%,High,Low
+PID-01502,Azure Heights,JVC,Emaar,Apartment,Studio,1017445,9.3%,8.8%,Medium,Medium
+PID-01503,Royal Gardens,Dubai Marina,DAMAC,Villa,3 BR,3310707,7.7%,8.4%,High,Low
+PID-01504,Palm Heights,Business Bay,Binghatti,Villa,1 BR,3023611,8.3%,7.0%,High,Low
+PID-01505,Palm Living,Business Bay,Sobha Realty,Apartment,2 BR,3912758,7.8%,6.6%,High,Low
+PID-01506,Palm Point,Dubai Marina,Sobha Realty,Townhouse,2 BR,2577583,7.7%,6.8%,High,Low
+PID-01507,Vista View,Dubai Marina,Sobha Realty,Villa,2 BR,3736432,7.3%,6.9%,High,Low
+PID-01508,The Collection,JVC,Emaar,Townhouse,4 BR,1615794,8.0%,7.6%,Medium,Medium
+PID-01509,Ocean Central,JVC,Danube,Villa,2 BR,1504837,9.7%,8.6%,Medium,Medium
+PID-01510,Skyline Heights,Business Bay,Binghatti,Townhouse,3 BR,2969035,8.6%,6.8%,High,Low
+PID-01511,Vista Place,Business Bay,Binghatti,Apartment,2 BR,1563578,7.8%,7.5%,High,Low
+PID-01512,Infinity Tower,JVC,Sobha Realty,Villa,1 BR,1794520,8.3%,7.8%,Medium,Medium
+PID-01513,Marina View,Business Bay,Sobha Realty,Apartment,Studio,1987298,8.6%,8.2%,High,Low
+PID-01514,Marina Central,Business Bay,Sobha Realty,Townhouse,Studio,4425276,8.5%,7.8%,High,Low
+PID-01515,Royal Collection,JVC,DAMAC,Townhouse,2 BR,1694300,9.9%,8.0%,Medium,Medium
+PID-01516,Creek Point,Business Bay,Sobha Realty,Apartment,2 BR,2910176,7.4%,7.0%,High,Low
+PID-01517,Ocean Tower,Dubai Marina,DAMAC,Villa,2 BR,2338446,7.5%,8.3%,High,Low
+PID-01518,Creek Park,Business Bay,Binghatti,Townhouse,2 BR,1604396,7.5%,7.1%,High,Low
+PID-01519,Infinity View,Business Bay,Binghatti,Villa,2 BR,1366228,8.1%,6.6%,High,Low
+PID-01520,Royal Residence,JVC,Sobha Realty,Apartment,2 BR,708473,9.2%,8.7%,Medium,Medium
+PID-01521,Infinity Collection,Dubai Marina,DAMAC,Villa,4 BR,1598640,7.7%,7.5%,High,Low
+PID-01522,Creek Gardens,Dubai Marina,Binghatti,Townhouse,3 BR,2453663,8.4%,6.9%,High,Low
+PID-01523,Grand Collection,JVC,DAMAC,Apartment,3 BR,1450954,9.1%,9.0%,Medium,Medium
+PID-01524,Palm View,Dubai Marina,DAMAC,Villa,Studio,3007931,8.7%,6.8%,High,Low
+PID-01525,Harbour Tower,JVC,Binghatti,Villa,1 BR,1782027,9.4%,7.5%,Medium,Medium
+PID-01526,Canal Vista,Dubai Marina,DAMAC,Townhouse,4 BR,2347135,8.5%,7.7%,High,Low
+PID-01527,Marina Collection,Business Bay,Emaar,Townhouse,1 BR,3511556,7.9%,7.5%,High,Low
+PID-01528,Ocean View,JVC,Emaar,Villa,4 BR,1618669,10.0%,8.1%,Medium,Medium
+PID-01529,Central Living,Dubai Marina,DAMAC,Apartment,4 BR,2295166,7.9%,6.6%,High,Low
+PID-01530,The One,Dubai Marina,DAMAC,Townhouse,Studio,2769352,7.8%,7.6%,High,Low
+PID-01531,Park One,JVC,DAMAC,Apartment,4 BR,833678,9.5%,8.9%,Medium,Medium
+PID-01532,Azure Residence,Business Bay,Danube,Townhouse,3 BR,2362500,7.7%,7.0%,High,Low
+PID-01533,Grand Heights,JVC,Binghatti,Villa,3 BR,1055817,10.0%,8.4%,Medium,Medium
+PID-01534,Royal Vista,JVC,Danube,Townhouse,4 BR,1265663,9.2%,8.6%,Medium,Medium
+PID-01535,Vista Residences,JVC,Binghatti,Apartment,4 BR,986553,8.4%,8.6%,Medium,Medium
+PID-01536,Harbour Gardens,JVC,Emaar,Apartment,2 BR,672112,9.8%,8.2%,Medium,Medium
+PID-01537,Skyline Horizon,Dubai Marina,Emaar,Apartment,4 BR,4297642,7.5%,7.4%,High,Low
+PID-01538,Vista Residence,Business Bay,Danube,Apartment,Studio,1883391,8.8%,7.6%,High,Low
+PID-01539,Elite Collection,Dubai Marina,DAMAC,Villa,1 BR,4509189,7.1%,8.1%,High,Low
+PID-01540,Central Gardens,JVC,Emaar,Villa,1 BR,669205,9.8%,7.5%,Medium,Medium
+PID-01541,Central One,Dubai Marina,Emaar,Apartment,Studio,3207593,7.4%,8.5%,High,Low
+PID-01542,Park Horizon,JVC,Danube,Apartment,2 BR,1557355,8.8%,8.8%,Medium,Medium
+PID-01543,Harbour Residences,JVC,DAMAC,Villa,4 BR,998052,9.5%,7.6%,Medium,Medium
+PID-01544,Marina Collection,JVC,Emaar,Townhouse,3 BR,1747694,8.1%,7.6%,Medium,Medium
+PID-01545,Infinity Vista,JVC,Binghatti,Villa,4 BR,1826701,9.5%,8.2%,Medium,Medium
+PID-01546,Creek Vista,Dubai Marina,DAMAC,Villa,4 BR,4540891,7.4%,7.3%,High,Low
+PID-01547,Palm Gardens,JVC,Sobha Realty,Villa,1 BR,974474,10.0%,8.9%,Medium,Medium
+PID-01548,Canal Tower,Business Bay,DAMAC,Townhouse,4 BR,2569387,8.4%,6.5%,High,Low
+PID-01549,Royal Horizon,JVC,Danube,Apartment,3 BR,671256,9.7%,8.1%,Medium,Medium
+PID-01550,Skyline One,JVC,Binghatti,Townhouse,2 BR,976824,8.4%,7.9%,Medium,Medium
+PID-01551,Vista Living,Dubai Marina,Binghatti,Apartment,Studio,2297645,7.7%,8.4%,High,Low
+PID-01552,Central Place,JVC,Binghatti,Townhouse,1 BR,1058679,8.4%,8.7%,Medium,Medium
+PID-01553,Park Collection,Business Bay,Sobha Realty,Townhouse,1 BR,2010025,7.2%,7.3%,High,Low
+PID-01554,Creek Vista,Dubai Marina,Emaar,Villa,4 BR,3131404,8.6%,7.9%,High,Low
+PID-01555,Harbour Point,JVC,Danube,Townhouse,3 BR,1476709,9.0%,7.5%,Medium,Medium
+PID-01556,Azure Point,JVC,DAMAC,Apartment,3 BR,763722,9.6%,7.6%,Medium,Medium
+PID-01557,Harbour Residences,JVC,Danube,Apartment,Studio,1150338,9.0%,8.1%,Medium,Medium
+PID-01558,Vista Central,JVC,Sobha Realty,Townhouse,3 BR,1384690,8.9%,8.9%,Medium,Medium
+PID-01559,Canal Point,Business Bay,Binghatti,Villa,1 BR,2524636,8.1%,7.2%,High,Low
+PID-01560,Harbour One,JVC,Binghatti,Apartment,3 BR,841666,9.3%,8.8%,Medium,Medium
+PID-01561,Elite Vista,JVC,DAMAC,Townhouse,Studio,1815936,9.5%,8.9%,Medium,Medium
+PID-01562,Skyline Living,Dubai Marina,DAMAC,Apartment,Studio,1698534,7.9%,7.3%,High,Low
+PID-01563,Ocean View,Dubai Marina,Sobha Realty,Townhouse,Studio,3041235,7.3%,7.8%,High,Low
+PID-01564,Azure Residence,Business Bay,DAMAC,Villa,3 BR,4272036,8.8%,6.7%,High,Low
+PID-01565,Marina Gardens,JVC,Emaar,Villa,1 BR,1907720,8.9%,8.2%,Medium,Medium
+PID-01566,Skyline Living,JVC,Emaar,Townhouse,1 BR,1586294,9.3%,8.4%,Medium,Medium
+PID-01567,Creek Place,Business Bay,Danube,Villa,3 BR,1469973,7.4%,6.8%,High,Low
+PID-01568,Elite Collection,Business Bay,Sobha Realty,Apartment,Studio,3052420,7.6%,6.6%,High,Low
+PID-01569,Ocean Living,JVC,Emaar,Apartment,3 BR,1465205,8.1%,7.6%,Medium,Medium
+PID-01570,Vista Tower,Business Bay,Sobha Realty,Townhouse,2 BR,4354570,8.5%,7.0%,High,Low
+PID-01571,Harbour Collection,Business Bay,Emaar,Apartment,Studio,4199241,8.1%,6.7%,High,Low
+PID-01572,Infinity View,JVC,DAMAC,Villa,2 BR,1762209,9.9%,8.7%,Medium,Medium
+PID-01573,Marina Collection,JVC,Binghatti,Villa,Studio,1687852,8.5%,7.9%,Medium,Medium
+PID-01574,Ocean Central,Dubai Marina,Binghatti,Apartment,3 BR,2588828,8.9%,6.5%,High,Low
+PID-01575,Palm Horizon,JVC,Danube,Townhouse,Studio,1074788,8.8%,8.3%,Medium,Medium
+PID-01576,Harbour Gardens,Business Bay,DAMAC,Villa,2 BR,3114643,8.2%,6.7%,High,Low
+PID-01577,Grand Central,Dubai Marina,Danube,Townhouse,3 BR,4352194,8.5%,8.1%,High,Low
+PID-01578,Royal Park,Dubai Marina,Danube,Apartment,2 BR,2343732,8.2%,8.3%,High,Low
+PID-01579,Elite Tower,JVC,Emaar,Apartment,1 BR,1209182,8.6%,7.7%,Medium,Medium
+PID-01580,Elite Square,Business Bay,Emaar,Villa,1 BR,4424433,7.4%,7.8%,High,Low
+PID-01581,Canal Residence,Business Bay,Danube,Villa,1 BR,2573088,7.5%,6.8%,High,Low
+PID-01582,Ocean Gardens,Dubai Marina,Sobha Realty,Apartment,1 BR,2597343,8.1%,7.8%,High,Low
+PID-01583,Harbour Collection,JVC,DAMAC,Villa,3 BR,776803,9.1%,8.4%,Medium,Medium
+PID-01584,Royal Point,Dubai Marina,Sobha Realty,Villa,2 BR,3956550,7.5%,7.9%,High,Low
+PID-01585,Royal Square,Business Bay,Emaar,Apartment,3 BR,3651714,7.5%,6.7%,High,Low
+PID-01586,Park Point,Dubai Marina,DAMAC,Apartment,4 BR,4493249,7.1%,7.0%,High,Low
+PID-01587,The View,JVC,Emaar,Apartment,Studio,1033251,9.1%,8.3%,Medium,Medium
+PID-01588,Ocean Place,Business Bay,Binghatti,Villa,1 BR,2090565,7.5%,6.7%,High,Low
+PID-01589,Royal Heights,Dubai Marina,Danube,Apartment,1 BR,2918466,7.6%,7.0%,High,Low
+PID-01590,Palm Tower,Business Bay,Danube,Villa,2 BR,4138836,7.6%,6.6%,High,Low
+PID-01591,Park Park,Dubai Marina,Danube,Townhouse,4 BR,4562930,7.0%,7.3%,High,Low
+PID-01592,Central Vista,Dubai Marina,Emaar,Villa,4 BR,4114141,7.9%,7.1%,High,Low
+PID-01593,Ocean Collection,Business Bay,Emaar,Townhouse,4 BR,2612026,7.4%,6.9%,High,Low
+PID-01594,Creek Gardens,Dubai Marina,Sobha Realty,Apartment,2 BR,2456480,7.3%,6.5%,High,Low
+PID-01595,Vista Park,JVC,DAMAC,Apartment,Studio,1467094,8.8%,7.7%,Medium,Medium
+PID-01596,Royal Park,Business Bay,Binghatti,Villa,2 BR,3854936,8.6%,7.8%,High,Low
+PID-01597,The View,Dubai Marina,Binghatti,Apartment,1 BR,2221364,8.7%,8.4%,High,Low
+PID-01598,Infinity View,JVC,Emaar,Villa,4 BR,1784097,8.4%,8.9%,Medium,Medium
+PID-01599,Azure Vista,JVC,DAMAC,Townhouse,Studio,769091,8.7%,7.7%,Medium,Medium
+PID-01600,Skyline Point,JVC,Emaar,Apartment,1 BR,766647,9.7%,8.3%,Medium,Medium
+PID-01601,Creek Central,Dubai Marina,Emaar,Villa,3 BR,4354783,7.7%,6.6%,High,Low
+PID-01602,Ocean One,Dubai Marina,Sobha Realty,Townhouse,1 BR,2720244,7.5%,7.6%,High,Low
+PID-01603,Canal Place,Dubai Marina,Danube,Apartment,Studio,3606516,8.1%,7.1%,High,Low
+PID-01604,Azure View,Dubai Marina,DAMAC,Villa,2 BR,4067752,8.8%,8.1%,High,Low
+PID-01605,Park Vista,Dubai Marina,Sobha Realty,Apartment,3 BR,3750513,7.6%,7.9%,High,Low
+PID-01606,Park One,Business Bay,Binghatti,Villa,3 BR,2493542,8.6%,7.9%,High,Low
+PID-01607,Ocean View,JVC,Binghatti,Apartment,4 BR,873512,8.2%,7.9%,Medium,Medium
+PID-01608,Vista Residence,JVC,Sobha Realty,Townhouse,3 BR,1922528,9.9%,7.7%,Medium,Medium
+PID-01609,Creek Living,Business Bay,Danube,Villa,4 BR,2483211,7.6%,7.2%,High,Low
+PID-01610,Skyline View,JVC,Danube,Apartment,1 BR,1103350,9.9%,7.7%,Medium,Medium
+PID-01611,Park Collection,JVC,Danube,Apartment,1 BR,1116582,8.8%,9.0%,Medium,Medium
+PID-01612,Palm Gardens,JVC,Danube,Townhouse,4 BR,762502,8.2%,7.8%,Medium,Medium
+PID-01613,Park Vista,Business Bay,Binghatti,Apartment,Studio,2161472,8.6%,8.1%,High,Low
+PID-01614,Creek Square,Business Bay,Emaar,Apartment,4 BR,1933845,8.6%,7.8%,High,Low
+PID-01615,Skyline Tower,Business Bay,Binghatti,Townhouse,2 BR,3087022,7.7%,6.5%,High,Low
+PID-01616,Park One,Business Bay,Danube,Townhouse,Studio,3561763,7.3%,7.8%,High,Low
+PID-01617,Park Central,Dubai Marina,Binghatti,Apartment,1 BR,3496344,7.5%,8.4%,High,Low
+PID-01618,Vista Collection,Business Bay,Binghatti,Townhouse,2 BR,1980607,7.4%,7.8%,High,Low
+PID-01619,Canal Living,Dubai Marina,DAMAC,Apartment,4 BR,3348769,7.3%,8.0%,High,Low
+PID-01620,Ocean Square,Dubai Marina,Binghatti,Villa,4 BR,3312572,8.2%,8.2%,High,Low
+PID-01621,Skyline Heights,JVC,DAMAC,Townhouse,2 BR,1332792,8.4%,8.9%,Medium,Medium
+PID-01622,Park Park,Dubai Marina,Binghatti,Apartment,2 BR,4314421,8.3%,6.5%,High,Low
+PID-01623,Grand Gardens,Dubai Marina,DAMAC,Apartment,4 BR,1917061,8.1%,8.4%,High,Low
+PID-01624,Royal View,Business Bay,DAMAC,Townhouse,Studio,3218314,8.6%,7.8%,High,Low
+PID-01625,Vista Residence,Business Bay,DAMAC,Apartment,1 BR,3166215,7.1%,7.8%,High,Low
+PID-01626,Royal Central,Dubai Marina,Binghatti,Villa,1 BR,4812943,7.0%,8.3%,High,Low
+PID-01627,Creek Heights,JVC,Binghatti,Villa,4 BR,1150336,8.2%,8.1%,Medium,Medium
+PID-01628,Palm Gardens,Dubai Marina,Danube,Townhouse,3 BR,3808830,7.5%,8.0%,High,Low
+PID-01629,Creek Central,Business Bay,Danube,Townhouse,2 BR,2171246,8.6%,7.8%,High,Low
+PID-01630,Royal Residence,Dubai Marina,DAMAC,Townhouse,2 BR,3289736,8.1%,7.6%,High,Low
+PID-01631,Park Residences,JVC,Danube,Townhouse,2 BR,1576968,8.3%,8.9%,Medium,Medium
+PID-01632,Azure Vista,Business Bay,Sobha Realty,Apartment,2 BR,4019636,8.0%,6.8%,High,Low
+PID-01633,Azure Gardens,Dubai Marina,Sobha Realty,Apartment,2 BR,4364281,7.9%,6.8%,High,Low
+PID-01634,Skyline Park,Business Bay,Sobha Realty,Villa,1 BR,3512364,7.9%,7.6%,High,Low
+PID-01635,Harbour Residence,Dubai Marina,Binghatti,Villa,Studio,1884305,7.2%,7.1%,High,Low
+PID-01636,Ocean Park,Business Bay,Emaar,Apartment,3 BR,2787351,7.7%,7.9%,High,Low
+PID-01637,Skyline View,Dubai Marina,Sobha Realty,Villa,3 BR,4256335,8.8%,8.3%,High,Low
+PID-01638,Ocean Central,JVC,DAMAC,Villa,2 BR,1619171,9.8%,7.8%,Medium,Medium
+PID-01639,Elite Heights,Business Bay,Sobha Realty,Townhouse,Studio,3741081,7.1%,6.6%,High,Low
+PID-01640,Park Gardens,Business Bay,Binghatti,Villa,Studio,2377902,8.1%,7.2%,High,Low
+PID-01641,Skyline Heights,Dubai Marina,Danube,Villa,3 BR,3142992,8.4%,6.6%,High,Low
+PID-01642,Azure Residence,JVC,Emaar,Townhouse,3 BR,1887246,9.2%,8.5%,Medium,Medium
+PID-01643,Park Tower,JVC,Sobha Realty,Townhouse,4 BR,1072494,9.3%,9.0%,Medium,Medium
+PID-01644,Vista Tower,Dubai Marina,Danube,Villa,3 BR,4549067,7.2%,6.8%,High,Low
+PID-01645,Canal Residence,Dubai Marina,Danube,Townhouse,2 BR,2847803,7.9%,7.7%,High,Low
+PID-01646,Elite View,Business Bay,Sobha Realty,Villa,Studio,3710364,8.6%,6.9%,High,Low
+PID-01647,Palm Park,Dubai Marina,Sobha Realty,Townhouse,3 BR,2813677,8.3%,7.6%,High,Low
+PID-01648,Creek Park,Business Bay,DAMAC,Townhouse,1 BR,2383022,7.2%,7.6%,High,Low
+PID-01649,Royal Point,Business Bay,Binghatti,Apartment,3 BR,1984380,7.7%,7.5%,High,Low
+PID-01650,Creek Residence,Business Bay,Sobha Realty,Townhouse,3 BR,3520355,8.5%,8.1%,High,Low
+PID-01651,Infinity Point,JVC,Emaar,Apartment,2 BR,730307,8.1%,8.6%,Medium,Medium
+PID-01652,Palm Point,JVC,DAMAC,Villa,3 BR,1687219,9.0%,8.7%,Medium,Medium
+PID-01653,Central Place,Dubai Marina,Binghatti,Apartment,2 BR,4578041,7.1%,8.1%,High,Low
+PID-01654,Azure Vista,Business Bay,DAMAC,Apartment,3 BR,2313350,7.8%,8.1%,High,Low
+PID-01655,Royal Residences,JVC,Binghatti,Apartment,Studio,1634127,9.5%,7.9%,Medium,Medium
+PID-01656,Azure Park,JVC,DAMAC,Apartment,3 BR,1699251,9.0%,8.2%,Medium,Medium
+PID-01657,Azure Living,JVC,DAMAC,Apartment,3 BR,986906,8.2%,7.5%,Medium,Medium
+PID-01658,Ocean Vista,Dubai Marina,Emaar,Apartment,3 BR,3781563,7.7%,8.5%,High,Low
+PID-01659,Grand Residences,JVC,Binghatti,Apartment,2 BR,1729517,9.5%,7.7%,Medium,Medium
+PID-01660,Azure Collection,JVC,Danube,Townhouse,4 BR,1624638,8.6%,7.6%,Medium,Medium
+PID-01661,Royal Central,Dubai Marina,Danube,Villa,Studio,4222203,7.8%,7.9%,High,Low
+PID-01662,Creek Park,Business Bay,Emaar,Townhouse,Studio,4350107,7.3%,7.3%,High,Low
+PID-01663,Azure Gardens,Dubai Marina,DAMAC,Villa,Studio,2232087,7.2%,6.6%,High,Low
+PID-01664,Azure Living,JVC,Binghatti,Apartment,3 BR,1212822,9.3%,7.5%,Medium,Medium
+PID-01665,Park Park,Business Bay,Danube,Townhouse,1 BR,2820125,8.1%,7.4%,High,Low
+PID-01666,Grand Collection,Dubai Marina,Emaar,Apartment,Studio,2470908,8.3%,7.4%,High,Low
+PID-01667,Skyline Horizon,Dubai Marina,Danube,Apartment,1 BR,3104974,7.8%,7.1%,High,Low
+PID-01668,Grand Vista,JVC,Danube,Villa,Studio,1421498,9.5%,8.3%,Medium,Medium
+PID-01669,Azure Horizon,JVC,DAMAC,Apartment,3 BR,1305937,8.0%,8.4%,Medium,Medium
+PID-01670,Creek Residences,JVC,Emaar,Villa,Studio,916971,8.0%,8.6%,Medium,Medium
+PID-01671,Palm Living,JVC,Sobha Realty,Apartment,1 BR,1064614,9.3%,9.0%,Medium,Medium
+PID-01672,Grand Living,Business Bay,Binghatti,Townhouse,4 BR,1594407,8.4%,6.6%,High,Low
+PID-01673,Azure Heights,JVC,Binghatti,Apartment,2 BR,1453149,9.3%,8.8%,Medium,Medium
+PID-01674,Skyline Place,JVC,DAMAC,Villa,2 BR,1134639,8.1%,7.5%,Medium,Medium
+PID-01675,Central Place,Business Bay,Danube,Villa,3 BR,2201513,8.2%,8.0%,High,Low
+PID-01676,Park Collection,JVC,DAMAC,Townhouse,3 BR,760105,8.1%,8.5%,Medium,Medium
+PID-01677,Marina Residences,JVC,Emaar,Apartment,2 BR,960680,8.4%,8.3%,Medium,Medium
+PID-01678,Park Place,JVC,Danube,Apartment,Studio,1126583,8.6%,7.5%,Medium,Medium
+PID-01679,Royal Square,Business Bay,Emaar,Apartment,4 BR,4397809,8.5%,6.8%,High,Low
+PID-01680,The View,Business Bay,DAMAC,Townhouse,2 BR,1743863,8.2%,7.6%,High,Low
+PID-01681,Canal Place,Business Bay,Emaar,Apartment,1 BR,3082389,8.4%,7.7%,High,Low
+PID-01682,Vista Vista,JVC,DAMAC,Apartment,2 BR,1725820,8.3%,8.2%,Medium,Medium
+PID-01683,Harbour View,JVC,Emaar,Villa,Studio,1059011,8.0%,8.6%,Medium,Medium
+PID-01684,Canal Collection,Dubai Marina,DAMAC,Apartment,3 BR,4356229,7.9%,7.6%,High,Low
+PID-01685,Marina Tower,Business Bay,Sobha Realty,Apartment,Studio,2080108,7.8%,8.2%,High,Low
+PID-01686,Elite Residences,Dubai Marina,Binghatti,Villa,2 BR,3544691,7.3%,7.7%,High,Low
+PID-01687,Marina Living,JVC,Emaar,Townhouse,3 BR,1904326,8.6%,8.2%,Medium,Medium
+PID-01688,Creek Residence,Business Bay,DAMAC,Townhouse,Studio,4140357,7.3%,7.7%,High,Low
+PID-01689,The Square,JVC,Binghatti,Townhouse,2 BR,1293450,9.9%,7.7%,Medium,Medium
+PID-01690,Azure Tower,JVC,Sobha Realty,Villa,1 BR,658715,8.7%,8.2%,Medium,Medium
+PID-01691,Royal Horizon,JVC,Sobha Realty,Townhouse,Studio,1512719,9.3%,8.5%,Medium,Medium
+PID-01692,Skyline Horizon,Business Bay,Emaar,Townhouse,3 BR,1963635,8.0%,7.7%,High,Low
+PID-01693,Azure Point,Dubai Marina,Emaar,Townhouse,4 BR,2664106,7.4%,8.3%,High,Low
+PID-01694,Elite Living,Dubai Marina,Emaar,Townhouse,Studio,4963481,7.1%,6.8%,High,Low
+PID-01695,Harbour Place,JVC,Sobha Realty,Apartment,2 BR,1621645,9.7%,8.0%,Medium,Medium
+PID-01696,Royal Point,JVC,Sobha Realty,Apartment,4 BR,1274453,9.7%,8.2%,Medium,Medium
+PID-01697,Canal Place,Business Bay,DAMAC,Apartment,Studio,1309166,7.8%,7.9%,High,Low
+PID-01698,Vista Gardens,JVC,Danube,Villa,1 BR,1872453,9.5%,8.3%,Medium,Medium
+PID-01699,Vista Residences,Dubai Marina,DAMAC,Apartment,Studio,4290462,8.4%,7.5%,High,Low
+PID-01700,Canal Gardens,Dubai Marina,Emaar,Townhouse,3 BR,1591623,8.2%,6.6%,High,Low
+PID-01701,Elite Gardens,Business Bay,Sobha Realty,Apartment,4 BR,1785725,8.1%,6.7%,High,Low
+PID-01702,Canal Residences,JVC,DAMAC,Apartment,1 BR,1185866,10.0%,9.0%,Medium,Medium
+PID-01703,Skyline Vista,Business Bay,Emaar,Apartment,2 BR,2537640,7.3%,7.7%,High,Low
+PID-01704,The Point,Business Bay,Danube,Townhouse,Studio,3886107,8.4%,8.0%,High,Low
+PID-01705,Skyline Place,Business Bay,DAMAC,Townhouse,3 BR,1804092,7.8%,6.9%,High,Low
+PID-01706,Azure Vista,Dubai Marina,DAMAC,Townhouse,1 BR,4592804,7.8%,7.7%,High,Low
+PID-01707,Park Place,Dubai Marina,Binghatti,Townhouse,4 BR,4413494,7.2%,7.8%,High,Low
+PID-01708,Marina View,JVC,Emaar,Townhouse,4 BR,1601443,8.8%,8.7%,Medium,Medium
+PID-01709,Skyline Point,JVC,Binghatti,Apartment,4 BR,1911682,9.8%,8.3%,Medium,Medium
+PID-01710,Central Point,Business Bay,Binghatti,Apartment,4 BR,2132068,7.2%,7.1%,High,Low
+PID-01711,Palm Tower,JVC,Sobha Realty,Villa,2 BR,1318194,8.6%,7.6%,Medium,Medium
+PID-01712,The Horizon,Dubai Marina,Danube,Villa,Studio,4906744,8.9%,7.1%,High,Low
+PID-01713,Azure Vista,Dubai Marina,Binghatti,Apartment,3 BR,4124836,8.0%,6.5%,High,Low
+PID-01714,Creek Residence,JVC,Danube,Villa,4 BR,1770681,8.3%,8.2%,Medium,Medium
+PID-01715,Vista Living,JVC,DAMAC,Villa,2 BR,1715139,8.0%,8.7%,Medium,Medium
+PID-01716,Vista Horizon,JVC,Emaar,Villa,4 BR,1929221,9.9%,8.7%,Medium,Medium
+PID-01717,Creek Square,Business Bay,Danube,Apartment,Studio,2639815,8.2%,8.1%,High,Low
+PID-01718,Grand Park,Business Bay,DAMAC,Townhouse,4 BR,1737848,8.4%,6.7%,High,Low
+PID-01719,Park Gardens,JVC,Sobha Realty,Villa,2 BR,1942751,9.8%,8.2%,Medium,Medium
+PID-01720,Marina Place,JVC,DAMAC,Apartment,3 BR,962373,9.7%,7.8%,Medium,Medium
+PID-01721,Creek Central,JVC,DAMAC,Townhouse,4 BR,1882787,9.5%,8.2%,Medium,Medium
+PID-01722,Ocean View,Business Bay,Sobha Realty,Apartment,4 BR,3558729,7.7%,6.9%,High,Low
+PID-01723,Vista Park,JVC,Sobha Realty,Townhouse,2 BR,1620772,9.5%,8.5%,Medium,Medium
+PID-01724,Vista Tower,Dubai Marina,Danube,Villa,3 BR,4862560,8.2%,8.2%,High,Low
+PID-01725,Infinity Gardens,Dubai Marina,Emaar,Villa,3 BR,2236030,7.2%,7.5%,High,Low
+PID-01726,Marina Vista,Dubai Marina,Emaar,Townhouse,4 BR,3045443,7.0%,8.3%,High,Low
+PID-01727,Palm Square,JVC,Danube,Villa,1 BR,1698477,8.9%,7.5%,Medium,Medium
+PID-01728,Harbour Residence,Dubai Marina,Sobha Realty,Villa,2 BR,4610994,8.7%,7.9%,High,Low
+PID-01729,Grand Horizon,Business Bay,Emaar,Villa,2 BR,4177174,8.0%,7.1%,High,Low
+PID-01730,The View,Business Bay,DAMAC,Townhouse,2 BR,1510979,8.4%,6.8%,High,Low
+PID-01731,Central Gardens,Business Bay,Danube,Townhouse,4 BR,3820343,8.4%,6.8%,High,Low
+PID-01732,Infinity One,Business Bay,DAMAC,Apartment,Studio,2513891,7.2%,8.0%,High,Low
+PID-01733,Elite Vista,Dubai Marina,Emaar,Villa,3 BR,3189394,7.2%,7.2%,High,Low
+PID-01734,Park Point,JVC,Binghatti,Villa,2 BR,1443917,9.9%,7.6%,Medium,Medium
+PID-01735,Park Square,Business Bay,DAMAC,Apartment,3 BR,3016743,7.2%,7.5%,High,Low
+PID-01736,Ocean Central,Business Bay,DAMAC,Townhouse,2 BR,2187775,7.2%,7.5%,High,Low
+PID-01737,Creek Park,JVC,Sobha Realty,Apartment,Studio,1962377,9.0%,8.3%,Medium,Medium
+PID-01738,Infinity Central,Business Bay,Binghatti,Villa,1 BR,2527367,8.4%,7.0%,High,Low
+PID-01739,Marina Tower,Business Bay,Binghatti,Villa,4 BR,4457555,7.4%,7.9%,High,Low
+PID-01740,Elite Gardens,Business Bay,Emaar,Villa,2 BR,3452414,7.5%,6.6%,High,Low
+PID-01741,Creek Collection,Business Bay,Sobha Realty,Villa,2 BR,2750485,7.6%,6.6%,High,Low
+PID-01742,Grand One,Dubai Marina,Emaar,Villa,3 BR,3223638,7.5%,7.1%,High,Low
+PID-01743,Azure Park,Business Bay,Binghatti,Villa,3 BR,2135619,8.0%,6.8%,High,Low
+PID-01744,The Gardens,JVC,Sobha Realty,Townhouse,1 BR,1869528,9.8%,7.8%,Medium,Medium
+PID-01745,Marina Horizon,Dubai Marina,DAMAC,Villa,2 BR,1820099,8.3%,6.9%,High,Low
+PID-01746,Palm Gardens,JVC,Danube,Apartment,Studio,1015395,8.2%,8.3%,Medium,Medium
+PID-01747,Central Residences,Dubai Marina,Binghatti,Apartment,4 BR,3291539,8.7%,7.8%,High,Low
+PID-01748,Palm Place,Dubai Marina,Danube,Townhouse,1 BR,1823870,7.8%,7.6%,High,Low
+PID-01749,The Gardens,Dubai Marina,Danube,Apartment,3 BR,4121017,8.9%,7.4%,High,Low
+PID-01750,Royal Residences,Dubai Marina,Emaar,Townhouse,1 BR,2348981,8.3%,8.1%,High,Low
+PID-01751,Skyline Central,JVC,Binghatti,Townhouse,1 BR,668573,8.6%,7.5%,Medium,Medium
+PID-01752,Ocean Horizon,Business Bay,Binghatti,Apartment,3 BR,1448411,8.8%,8.0%,High,Low
+PID-01753,Azure Central,Dubai Marina,Binghatti,Apartment,2 BR,3897691,8.7%,6.9%,High,Low
+PID-01754,Creek Collection,Business Bay,Binghatti,Villa,2 BR,2124169,7.9%,7.2%,High,Low
+PID-01755,Ocean Gardens,JVC,Emaar,Apartment,2 BR,952503,8.8%,8.0%,Medium,Medium
+PID-01756,Infinity Residence,Business Bay,Sobha Realty,Villa,3 BR,1278647,7.3%,7.0%,High,Low
+PID-01757,Vista Point,Dubai Marina,Binghatti,Villa,3 BR,2741730,7.2%,6.9%,High,Low
+PID-01758,Canal Place,Business Bay,Sobha Realty,Villa,Studio,3768408,8.1%,8.1%,High,Low
+PID-01759,Harbour Residences,Dubai Marina,Sobha Realty,Apartment,Studio,2685795,8.6%,6.8%,High,Low
+PID-01760,Marina Point,Dubai Marina,Danube,Apartment,3 BR,3063735,8.8%,8.5%,High,Low
+PID-01761,The Residence,Business Bay,Binghatti,Apartment,1 BR,2028261,7.7%,6.7%,High,Low
+PID-01762,Grand Collection,Dubai Marina,Emaar,Townhouse,2 BR,4610541,8.9%,7.7%,High,Low
+PID-01763,Elite Residence,JVC,Sobha Realty,Townhouse,Studio,1871842,8.6%,7.9%,Medium,Medium
+PID-01764,Skyline View,Dubai Marina,Emaar,Townhouse,3 BR,3899219,7.7%,6.9%,High,Low
+PID-01765,Palm Horizon,JVC,DAMAC,Apartment,3 BR,1198289,10.0%,7.8%,Medium,Medium
+PID-01766,Park One,JVC,Danube,Villa,1 BR,1321899,8.1%,7.8%,Medium,Medium
+PID-01767,Harbour Collection,Business Bay,Binghatti,Apartment,Studio,4481189,8.5%,7.9%,High,Low
+PID-01768,Skyline Horizon,Dubai Marina,Danube,Villa,4 BR,3939676,8.0%,7.4%,High,Low
+PID-01769,Ocean Living,JVC,Sobha Realty,Villa,4 BR,1180151,9.9%,8.2%,Medium,Medium
+PID-01770,Azure Point,JVC,Sobha Realty,Villa,3 BR,1131826,8.9%,8.8%,Medium,Medium
+PID-01771,Skyline Square,Dubai Marina,Emaar,Villa,2 BR,1733508,7.7%,7.0%,High,Low
+PID-01772,Marina Park,JVC,Emaar,Townhouse,4 BR,1477451,9.5%,7.6%,Medium,Medium
+PID-01773,Ocean Square,Business Bay,Sobha Realty,Townhouse,3 BR,3947569,7.5%,8.0%,High,Low
+PID-01774,Central Residences,JVC,Danube,Townhouse,4 BR,822721,8.9%,8.0%,Medium,Medium
+PID-01775,Skyline Residence,JVC,Sobha Realty,Townhouse,4 BR,932128,9.9%,8.1%,Medium,Medium
+PID-01776,Elite Gardens,JVC,Binghatti,Villa,4 BR,761499,9.4%,8.6%,Medium,Medium
+PID-01777,Central Park,JVC,Binghatti,Apartment,3 BR,1470180,9.9%,8.3%,Medium,Medium
+PID-01778,Creek Central,Dubai Marina,Emaar,Apartment,3 BR,3992890,7.4%,6.7%,High,Low
+PID-01779,Vista One,JVC,Sobha Realty,Apartment,2 BR,1497539,8.0%,8.2%,Medium,Medium
+PID-01780,Grand View,JVC,Sobha Realty,Villa,3 BR,910820,9.7%,7.9%,Medium,Medium
+PID-01781,The Heights,Dubai Marina,Binghatti,Villa,2 BR,4792359,8.8%,7.1%,High,Low
+PID-01782,Grand Residences,Business Bay,Emaar,Villa,3 BR,3888450,8.7%,7.2%,High,Low
+PID-01783,Park Place,Business Bay,DAMAC,Villa,3 BR,2048026,8.7%,6.5%,High,Low
+PID-01784,Royal Heights,Business Bay,DAMAC,Villa,4 BR,3026176,7.5%,8.1%,High,Low
+PID-01785,Skyline View,Business Bay,Emaar,Villa,3 BR,4033541,8.3%,6.6%,High,Low
+PID-01786,The Heights,JVC,Binghatti,Apartment,4 BR,1190390,9.6%,8.9%,Medium,Medium
+PID-01787,Elite Park,Business Bay,Binghatti,Villa,2 BR,1583686,8.4%,7.5%,High,Low
+PID-01788,Grand Residences,Business Bay,Sobha Realty,Villa,1 BR,1624256,7.1%,7.4%,High,Low
+PID-01789,Palm Residences,JVC,Binghatti,Apartment,4 BR,1468312,9.3%,8.3%,Medium,Medium
+PID-01790,Vista Residence,Business Bay,Emaar,Apartment,Studio,1796738,7.1%,8.0%,High,Low
+PID-01791,Skyline Park,Dubai Marina,Emaar,Villa,4 BR,2057542,8.0%,8.4%,High,Low
+PID-01792,Infinity Vista,Dubai Marina,Emaar,Villa,1 BR,4787935,7.8%,7.9%,High,Low
+PID-01793,The Park,Business Bay,Sobha Realty,Apartment,3 BR,1763371,7.6%,7.9%,High,Low
+PID-01794,Royal Central,Dubai Marina,Danube,Townhouse,Studio,4615002,7.6%,8.1%,High,Low
+PID-01795,The Place,Dubai Marina,Binghatti,Townhouse,4 BR,2302705,7.2%,7.5%,High,Low
+PID-01796,Harbour Square,Dubai Marina,Binghatti,Villa,2 BR,2355975,7.7%,7.7%,High,Low
+PID-01797,Royal Vista,Dubai Marina,Binghatti,Townhouse,2 BR,2396700,8.5%,6.5%,High,Low
+PID-01798,Infinity Park,Business Bay,DAMAC,Villa,3 BR,3775629,7.4%,7.3%,High,Low
+PID-01799,Park Horizon,Business Bay,Danube,Villa,Studio,1406831,7.4%,6.5%,High,Low
+PID-01800,Park Central,Business Bay,Binghatti,Apartment,1 BR,1266223,7.9%,6.8%,High,Low
+PID-01801,Harbour Park,Dubai Marina,Emaar,Apartment,1 BR,4290913,8.3%,7.4%,High,Low
+PID-01802,Royal Place,Dubai Marina,Sobha Realty,Townhouse,1 BR,2006707,8.8%,8.3%,High,Low
+PID-01803,Creek Place,Dubai Marina,Binghatti,Townhouse,2 BR,1831187,8.6%,6.9%,High,Low
+PID-01804,Vista Collection,Business Bay,Danube,Villa,3 BR,2146178,8.6%,7.5%,High,Low
+PID-01805,Palm Horizon,JVC,DAMAC,Townhouse,3 BR,754218,8.7%,8.4%,Medium,Medium
+PID-01806,The Park,Dubai Marina,Emaar,Townhouse,Studio,2441201,8.7%,6.8%,High,Low
+PID-01807,Infinity Residences,Dubai Marina,Danube,Apartment,1 BR,3754837,7.4%,7.2%,High,Low
+PID-01808,Marina Living,JVC,Danube,Townhouse,2 BR,1131247,8.5%,8.1%,Medium,Medium
+PID-01809,Royal Point,JVC,Binghatti,Townhouse,1 BR,1749069,9.1%,8.7%,Medium,Medium
+PID-01810,The Living,Dubai Marina,Binghatti,Townhouse,3 BR,4910958,7.8%,8.4%,High,Low
+PID-01811,Marina Place,JVC,Emaar,Townhouse,2 BR,1765421,8.2%,8.6%,Medium,Medium
+PID-01812,Ocean One,Dubai Marina,Sobha Realty,Villa,3 BR,2143361,8.2%,7.5%,High,Low
+PID-01813,Vista Point,Dubai Marina,Sobha Realty,Apartment,3 BR,1655219,8.1%,7.0%,High,Low
+PID-01814,Azure View,Business Bay,DAMAC,Apartment,Studio,3358007,8.8%,7.6%,High,Low
+PID-01815,Ocean Place,JVC,Sobha Realty,Apartment,4 BR,1749804,8.6%,8.1%,Medium,Medium
+PID-01816,Skyline View,Dubai Marina,Emaar,Townhouse,3 BR,2364502,8.3%,8.1%,High,Low
+PID-01817,Grand One,JVC,Binghatti,Townhouse,1 BR,1182912,8.4%,8.7%,Medium,Medium
+PID-01818,Infinity Residence,JVC,DAMAC,Townhouse,3 BR,1712269,9.7%,8.3%,Medium,Medium
+PID-01819,Infinity Collection,Business Bay,Danube,Apartment,3 BR,4179297,8.6%,7.0%,High,Low
+PID-01820,The Residences,JVC,Binghatti,Villa,3 BR,843529,8.9%,8.2%,Medium,Medium
+PID-01821,Canal Collection,Business Bay,Binghatti,Villa,2 BR,3979634,8.2%,6.9%,High,Low
+PID-01822,Palm Tower,Business Bay,Emaar,Townhouse,Studio,2814200,8.7%,7.9%,High,Low
+PID-01823,Canal Living,Business Bay,Emaar,Townhouse,Studio,3721340,8.0%,6.6%,High,Low
+PID-01824,Skyline Heights,Dubai Marina,DAMAC,Apartment,4 BR,3997904,8.4%,7.6%,High,Low
+PID-01825,Elite Horizon,JVC,Binghatti,Villa,1 BR,758251,8.3%,8.0%,Medium,Medium
+PID-01826,The Collection,Business Bay,Danube,Townhouse,3 BR,4049622,8.1%,7.7%,High,Low
+PID-01827,Infinity One,Business Bay,DAMAC,Villa,4 BR,2963971,8.2%,7.9%,High,Low
+PID-01828,Marina Park,JVC,DAMAC,Villa,1 BR,1761450,8.7%,8.1%,Medium,Medium
+PID-01829,The Horizon,Dubai Marina,Binghatti,Townhouse,1 BR,2471909,8.1%,6.7%,High,Low
+PID-01830,Elite Collection,Business Bay,DAMAC,Apartment,4 BR,3251699,7.8%,7.1%,High,Low
+PID-01831,Skyline Square,Dubai Marina,Sobha Realty,Villa,2 BR,3827986,8.1%,7.7%,High,Low
+PID-01832,Elite Heights,Business Bay,Sobha Realty,Villa,2 BR,4203282,8.4%,7.6%,High,Low
+PID-01833,Infinity View,JVC,Binghatti,Apartment,2 BR,1569589,8.7%,8.6%,Medium,Medium
+PID-01834,Park Square,Dubai Marina,Emaar,Apartment,2 BR,1534480,7.0%,7.2%,High,Low
+PID-01835,Skyline Park,JVC,Binghatti,Townhouse,1 BR,673562,8.9%,8.6%,Medium,Medium
+PID-01836,Marina Collection,JVC,Binghatti,Villa,4 BR,1115801,8.8%,9.0%,Medium,Medium
+PID-01837,Marina Square,Dubai Marina,Sobha Realty,Villa,3 BR,4929696,8.3%,7.2%,High,Low
+PID-01838,Elite Place,Business Bay,DAMAC,Villa,1 BR,2886199,7.9%,7.0%,High,Low
+PID-01839,Creek Vista,JVC,Binghatti,Apartment,4 BR,1001709,9.6%,8.7%,Medium,Medium
+PID-01840,Elite Place,Dubai Marina,DAMAC,Villa,1 BR,3314552,8.4%,7.2%,High,Low
+PID-01841,Creek Central,JVC,Emaar,Apartment,1 BR,667713,9.6%,8.8%,Medium,Medium
+PID-01842,Central Park,Business Bay,DAMAC,Apartment,2 BR,4469939,7.4%,8.2%,High,Low
+PID-01843,Elite Point,JVC,Emaar,Townhouse,2 BR,1503791,9.8%,7.8%,Medium,Medium
+PID-01844,Azure Tower,JVC,Danube,Townhouse,Studio,1021892,8.3%,8.2%,Medium,Medium
+PID-01845,Royal Vista,Business Bay,Sobha Realty,Villa,2 BR,4418337,8.7%,8.1%,High,Low
+PID-01846,Azure Gardens,Business Bay,Sobha Realty,Townhouse,Studio,4466120,8.1%,7.4%,High,Low
+PID-01847,Vista Vista,Dubai Marina,Danube,Villa,Studio,4813457,8.3%,6.9%,High,Low
+PID-01848,Skyline Park,JVC,Sobha Realty,Townhouse,2 BR,1958721,9.4%,8.7%,Medium,Medium
+PID-01849,Vista Tower,Dubai Marina,Binghatti,Apartment,4 BR,4868313,7.9%,7.1%,High,Low
+PID-01850,The One,Business Bay,Emaar,Townhouse,3 BR,2326129,7.2%,6.9%,High,Low
+PID-01851,Skyline Collection,Business Bay,Binghatti,Townhouse,1 BR,2102470,7.2%,7.7%,High,Low
+PID-01852,Skyline Heights,Dubai Marina,Binghatti,Townhouse,3 BR,3080157,8.7%,8.3%,High,Low
+PID-01853,Harbour One,JVC,Sobha Realty,Villa,2 BR,1765163,8.8%,8.4%,Medium,Medium
+PID-01854,Royal Collection,Dubai Marina,Danube,Townhouse,3 BR,1962186,7.1%,7.0%,High,Low
+PID-01855,Infinity Square,Business Bay,Emaar,Townhouse,2 BR,2018698,7.9%,7.9%,High,Low
+PID-01856,Ocean Tower,JVC,Emaar,Apartment,1 BR,966918,8.7%,8.9%,Medium,Medium
+PID-01857,Creek Point,JVC,Sobha Realty,Villa,Studio,1087181,9.9%,8.7%,Medium,Medium
+PID-01858,Creek Square,Business Bay,DAMAC,Townhouse,2 BR,3648034,7.8%,7.4%,High,Low
+PID-01859,Canal Living,Dubai Marina,Emaar,Townhouse,4 BR,3586149,7.1%,8.0%,High,Low
+PID-01860,Skyline Gardens,Business Bay,Danube,Villa,Studio,2992969,7.1%,7.3%,High,Low
+PID-01861,Canal One,Business Bay,Danube,Townhouse,2 BR,3896468,7.2%,7.4%,High,Low
+PID-01862,Harbour Gardens,Dubai Marina,Danube,Apartment,4 BR,4791267,8.0%,6.8%,High,Low
+PID-01863,Creek Central,Business Bay,Sobha Realty,Apartment,1 BR,4095860,7.2%,7.6%,High,Low
+PID-01864,Palm Horizon,JVC,Binghatti,Villa,1 BR,1326718,9.4%,8.4%,Medium,Medium
+PID-01865,Park Horizon,JVC,Binghatti,Villa,4 BR,1590206,8.3%,8.4%,Medium,Medium
+PID-01866,Skyline Square,JVC,Danube,Villa,Studio,1504312,8.0%,8.1%,Medium,Medium
+PID-01867,Grand Central,JVC,DAMAC,Townhouse,3 BR,1488562,9.4%,8.2%,Medium,Medium
+PID-01868,Canal Collection,Dubai Marina,Binghatti,Apartment,4 BR,4099651,8.7%,7.8%,High,Low
+PID-01869,Skyline Tower,Business Bay,Emaar,Townhouse,2 BR,4248951,7.9%,6.6%,High,Low
+PID-01870,Vista Place,JVC,DAMAC,Townhouse,3 BR,1660446,8.5%,8.5%,Medium,Medium
+PID-01871,Park Square,JVC,Sobha Realty,Apartment,3 BR,1962415,8.1%,8.1%,Medium,Medium
+PID-01872,Harbour Vista,JVC,Danube,Townhouse,2 BR,1448731,8.6%,8.0%,Medium,Medium
+PID-01873,Marina Residence,JVC,DAMAC,Townhouse,3 BR,749413,9.1%,7.7%,Medium,Medium
+PID-01874,Azure One,JVC,Danube,Townhouse,2 BR,1314769,9.4%,8.3%,Medium,Medium
+PID-01875,Park View,Business Bay,Sobha Realty,Apartment,1 BR,2888290,7.6%,8.2%,High,Low
+PID-01876,Ocean Residence,Dubai Marina,Danube,Villa,Studio,3622369,8.9%,7.1%,High,Low
+PID-01877,Park Living,JVC,Binghatti,Villa,2 BR,1566720,8.5%,7.6%,Medium,Medium
+PID-01878,Azure Tower,Business Bay,Sobha Realty,Apartment,2 BR,1318304,7.6%,7.5%,High,Low
+PID-01879,Azure Point,JVC,Emaar,Apartment,1 BR,823088,8.2%,8.1%,Medium,Medium
+PID-01880,Creek Gardens,Dubai Marina,Danube,Townhouse,4 BR,2045518,8.9%,8.0%,High,Low
+PID-01881,Royal Gardens,JVC,DAMAC,Apartment,2 BR,1517954,9.6%,8.3%,Medium,Medium
+PID-01882,Royal Residences,Dubai Marina,Danube,Townhouse,Studio,2289076,7.9%,7.5%,High,Low
+PID-01883,Canal Tower,Dubai Marina,Binghatti,Townhouse,Studio,3540313,7.7%,7.4%,High,Low
+PID-01884,Harbour Point,Business Bay,Sobha Realty,Townhouse,4 BR,2646783,8.2%,7.7%,High,Low
+PID-01885,Park View,Dubai Marina,Binghatti,Villa,4 BR,2069787,8.0%,7.2%,High,Low
+PID-01886,Harbour Heights,JVC,DAMAC,Villa,4 BR,1588137,8.6%,8.4%,Medium,Medium
+PID-01887,Vista Residences,Business Bay,Binghatti,Townhouse,Studio,3818744,7.3%,6.7%,High,Low
+PID-01888,Central Central,Dubai Marina,Binghatti,Apartment,2 BR,3751101,8.8%,7.0%,High,Low
+PID-01889,Grand Collection,Dubai Marina,Sobha Realty,Townhouse,3 BR,3379106,7.1%,7.8%,High,Low
+PID-01890,Palm Central,Dubai Marina,Danube,Villa,3 BR,3500205,8.9%,6.9%,High,Low
+PID-01891,Grand Heights,Business Bay,Binghatti,Apartment,1 BR,1347649,7.3%,6.9%,High,Low
+PID-01892,Harbour Park,Dubai Marina,Danube,Townhouse,2 BR,2079124,8.2%,6.8%,High,Low
+PID-01893,Marina Place,Business Bay,DAMAC,Villa,Studio,3666618,8.3%,6.8%,High,Low
+PID-01894,Grand Square,Business Bay,Danube,Villa,1 BR,2479031,7.3%,7.8%,High,Low
+PID-01895,Park Heights,JVC,Sobha Realty,Villa,1 BR,1501350,8.1%,8.0%,Medium,Medium
+PID-01896,Canal Heights,Dubai Marina,DAMAC,Villa,4 BR,3180221,7.4%,7.1%,High,Low
+PID-01897,Park Tower,Dubai Marina,DAMAC,Townhouse,2 BR,4510181,8.4%,6.8%,High,Low
+PID-01898,Infinity Park,Dubai Marina,Emaar,Townhouse,Studio,4253620,7.1%,8.4%,High,Low
+PID-01899,Palm Residence,Business Bay,Binghatti,Villa,4 BR,1256231,7.6%,6.6%,High,Low
+PID-01900,Park Central,JVC,Binghatti,Villa,1 BR,748355,9.4%,8.7%,Medium,Medium
+PID-01901,Ocean Residence,Dubai Marina,Danube,Villa,4 BR,2521345,8.3%,8.0%,High,Low
+PID-01902,Canal View,JVC,Emaar,Villa,1 BR,1761839,9.5%,8.0%,Medium,Medium
+PID-01903,Central Gardens,Business Bay,Danube,Villa,3 BR,1721749,7.7%,7.3%,High,Low
+PID-01904,Marina Collection,Dubai Marina,Danube,Townhouse,3 BR,1872351,8.1%,8.4%,High,Low
+PID-01905,Azure Point,Dubai Marina,DAMAC,Villa,3 BR,2181199,9.0%,6.6%,High,Low
+PID-01906,Elite Tower,Dubai Marina,Danube,Townhouse,1 BR,2866473,7.9%,7.3%,High,Low
+PID-01907,Harbour Square,Dubai Marina,DAMAC,Apartment,2 BR,2921341,8.1%,7.0%,High,Low
+PID-01908,Creek Tower,JVC,DAMAC,Villa,4 BR,1380276,9.6%,8.8%,Medium,Medium
+PID-01909,Vista Living,Dubai Marina,Sobha Realty,Townhouse,1 BR,4847985,8.7%,6.6%,High,Low
+PID-01910,Creek Vista,Business Bay,Binghatti,Townhouse,Studio,1675827,8.0%,7.0%,High,Low
+PID-01911,Ocean Heights,Business Bay,DAMAC,Apartment,1 BR,2551169,7.1%,8.0%,High,Low
+PID-01912,Ocean Gardens,Business Bay,Sobha Realty,Villa,Studio,3355035,8.0%,8.1%,High,Low
+PID-01913,Marina Residences,Business Bay,Emaar,Townhouse,1 BR,1804977,7.4%,6.8%,High,Low
+PID-01914,Park Tower,Business Bay,Emaar,Townhouse,Studio,3106211,8.6%,6.5%,High,Low
+PID-01915,Park Vista,Business Bay,Emaar,Apartment,1 BR,2705921,7.1%,7.2%,High,Low
+PID-01916,Azure Residence,Business Bay,Sobha Realty,Apartment,2 BR,2490790,7.4%,7.7%,High,Low
+PID-01917,Harbour One,Business Bay,DAMAC,Townhouse,3 BR,1860971,7.7%,8.0%,High,Low
+PID-01918,Skyline One,Dubai Marina,Sobha Realty,Townhouse,3 BR,3663281,8.3%,8.2%,High,Low
+PID-01919,Infinity Residence,Dubai Marina,Binghatti,Villa,4 BR,4169392,8.4%,7.2%,High,Low
+PID-01920,Infinity Heights,Business Bay,Danube,Apartment,2 BR,4339233,7.1%,6.6%,High,Low
+PID-01921,Harbour Gardens,Dubai Marina,Emaar,Townhouse,1 BR,2314357,8.4%,6.7%,High,Low
+PID-01922,The Residence,JVC,Sobha Realty,Apartment,1 BR,897347,8.9%,8.9%,Medium,Medium
+PID-01923,Canal Central,Business Bay,Danube,Apartment,4 BR,1806067,7.6%,8.1%,High,Low
+PID-01924,Vista Vista,JVC,Danube,Townhouse,1 BR,709247,8.5%,8.9%,Medium,Medium
+PID-01925,Central Tower,JVC,Sobha Realty,Apartment,4 BR,1626351,8.7%,8.2%,Medium,Medium
+PID-01926,Canal Residence,Dubai Marina,Danube,Villa,Studio,2344643,8.9%,6.5%,High,Low
+PID-01927,The Gardens,JVC,Binghatti,Apartment,3 BR,1599778,9.5%,8.2%,Medium,Medium
+PID-01928,Marina View,Business Bay,Binghatti,Apartment,Studio,3812092,8.6%,7.6%,High,Low
+PID-01929,Royal Tower,Business Bay,DAMAC,Villa,1 BR,1620958,7.3%,7.2%,High,Low
+PID-01930,Elite Tower,Dubai Marina,DAMAC,Apartment,Studio,4879679,7.8%,7.3%,High,Low
+PID-01931,Creek Park,JVC,Sobha Realty,Townhouse,1 BR,1436810,9.2%,8.5%,Medium,Medium
+PID-01932,Elite Point,JVC,Emaar,Apartment,2 BR,1288629,8.5%,7.6%,Medium,Medium
+PID-01933,Azure Living,JVC,Danube,Apartment,3 BR,1135388,8.2%,7.7%,Medium,Medium
+PID-01934,Skyline Gardens,JVC,Binghatti,Apartment,Studio,1842803,8.9%,8.8%,Medium,Medium
+PID-01935,Infinity Tower,Business Bay,Binghatti,Apartment,3 BR,2352312,7.6%,7.5%,High,Low
+PID-01936,Marina Tower,Dubai Marina,Binghatti,Townhouse,3 BR,3074414,8.1%,6.6%,High,Low
+PID-01937,Harbour Horizon,JVC,Emaar,Townhouse,2 BR,1914675,9.6%,7.6%,Medium,Medium
+PID-01938,Palm Collection,Dubai Marina,Sobha Realty,Townhouse,1 BR,4334016,7.1%,7.8%,High,Low
+PID-01939,Central Horizon,Business Bay,Danube,Apartment,2 BR,2568838,7.8%,7.0%,High,Low
+PID-01940,Grand Horizon,Business Bay,DAMAC,Villa,2 BR,3881088,7.3%,6.9%,High,Low
+PID-01941,The Living,Dubai Marina,DAMAC,Apartment,2 BR,3720782,7.6%,6.7%,High,Low
+PID-01942,Canal Vista,Dubai Marina,Emaar,Villa,1 BR,3323008,7.9%,8.1%,High,Low
+PID-01943,Harbour Gardens,Dubai Marina,Sobha Realty,Apartment,2 BR,1869383,7.1%,7.9%,High,Low
+PID-01944,Elite Residence,JVC,Emaar,Apartment,3 BR,1478813,9.8%,8.1%,Medium,Medium
+PID-01945,The Point,Dubai Marina,Emaar,Villa,2 BR,3817122,7.2%,7.4%,High,Low
+PID-01946,Palm Living,Business Bay,Binghatti,Townhouse,3 BR,2034434,7.3%,6.5%,High,Low
+PID-01947,Canal View,JVC,Danube,Apartment,Studio,1134611,9.2%,9.0%,Medium,Medium
+PID-01948,Royal Point,Dubai Marina,Binghatti,Townhouse,1 BR,3192820,7.9%,8.5%,High,Low
+PID-01949,Vista Residences,JVC,DAMAC,Townhouse,2 BR,1985385,8.9%,8.6%,Medium,Medium
+PID-01950,Harbour One,Dubai Marina,Sobha Realty,Villa,Studio,3454121,7.4%,7.6%,High,Low
+PID-01951,Royal View,Dubai Marina,Danube,Villa,2 BR,3327162,7.1%,7.8%,High,Low
+PID-01952,Harbour Square,Business Bay,Danube,Villa,2 BR,3724509,7.8%,7.5%,High,Low
+PID-01953,Elite Park,JVC,Danube,Apartment,3 BR,1857061,9.0%,7.7%,Medium,Medium
+PID-01954,Palm Central,Dubai Marina,DAMAC,Villa,1 BR,4300570,8.1%,8.5%,High,Low
+PID-01955,Elite Square,JVC,DAMAC,Apartment,3 BR,1250123,8.9%,7.9%,Medium,Medium
+PID-01956,Royal Point,Dubai Marina,Binghatti,Villa,4 BR,2997757,8.6%,6.8%,High,Low
+PID-01957,Creek Tower,Dubai Marina,Binghatti,Townhouse,3 BR,3923300,7.0%,7.4%,High,Low
+PID-01958,Marina Tower,Business Bay,Emaar,Townhouse,1 BR,1987111,7.8%,7.4%,High,Low
+PID-01959,Central Vista,Business Bay,Sobha Realty,Apartment,1 BR,3137704,7.3%,7.7%,High,Low
+PID-01960,Palm Living,JVC,Emaar,Apartment,2 BR,1855353,9.1%,7.8%,Medium,Medium
+PID-01961,Infinity One,JVC,Sobha Realty,Townhouse,4 BR,1816021,9.4%,7.9%,Medium,Medium
+PID-01962,Canal Vista,JVC,DAMAC,Apartment,Studio,1701002,8.9%,8.0%,Medium,Medium
+PID-01963,Royal Point,JVC,Binghatti,Apartment,Studio,732624,8.4%,8.9%,Medium,Medium
+PID-01964,Marina Residences,Dubai Marina,DAMAC,Townhouse,4 BR,3697144,7.7%,7.2%,High,Low
+PID-01965,Azure Point,Dubai Marina,Danube,Apartment,4 BR,3086217,7.4%,6.9%,High,Low
+PID-01966,Vista Tower,Business Bay,Danube,Villa,2 BR,4379774,8.5%,7.3%,High,Low
+PID-01967,Central Tower,JVC,Danube,Townhouse,Studio,1750178,8.9%,7.8%,Medium,Medium
+PID-01968,Canal Park,Dubai Marina,Binghatti,Apartment,Studio,2318433,8.6%,6.6%,High,Low
+PID-01969,The One,Dubai Marina,DAMAC,Apartment,Studio,4279018,8.8%,7.2%,High,Low
+PID-01970,Harbour Point,Business Bay,Danube,Apartment,Studio,4398870,7.6%,7.4%,High,Low
+PID-01971,Harbour Point,Business Bay,Emaar,Apartment,3 BR,3005761,7.5%,7.5%,High,Low
+PID-01972,Marina Tower,Dubai Marina,DAMAC,Apartment,2 BR,4334440,8.9%,8.1%,High,Low
+PID-01973,Palm Central,Business Bay,DAMAC,Villa,3 BR,4007016,8.7%,7.5%,High,Low
+PID-01974,Azure Heights,JVC,Binghatti,Apartment,2 BR,1239278,9.3%,8.0%,Medium,Medium
+PID-01975,Skyline Vista,JVC,Binghatti,Apartment,3 BR,1424979,9.7%,8.0%,Medium,Medium
+PID-01976,Infinity View,Dubai Marina,Binghatti,Apartment,Studio,4603743,7.1%,7.4%,High,Low
+PID-01977,Ocean Residence,Business Bay,Emaar,Villa,4 BR,2681397,7.9%,8.1%,High,Low
+PID-01978,Ocean View,JVC,Sobha Realty,Townhouse,Studio,1580292,8.3%,7.7%,Medium,Medium
+PID-01979,Ocean Park,JVC,DAMAC,Townhouse,4 BR,1570455,8.2%,8.5%,Medium,Medium
+PID-01980,Canal Park,JVC,Sobha Realty,Villa,2 BR,1964256,8.3%,8.3%,Medium,Medium
+PID-01981,Vista Place,Dubai Marina,Danube,Villa,1 BR,4861092,8.4%,6.6%,High,Low
+PID-01982,Canal Horizon,Dubai Marina,Sobha Realty,Townhouse,Studio,2157742,7.5%,7.0%,High,Low
+PID-01983,Central Heights,JVC,Binghatti,Apartment,1 BR,650917,8.4%,7.5%,Medium,Medium
+PID-01984,The Residences,Business Bay,Sobha Realty,Apartment,Studio,1845025,7.6%,7.0%,High,Low
+PID-01985,Azure Collection,Business Bay,Sobha Realty,Apartment,4 BR,3771688,7.1%,8.1%,High,Low
+PID-01986,Harbour View,Dubai Marina,Emaar,Townhouse,2 BR,3352545,7.9%,7.1%,High,Low
+PID-01987,Royal Residences,JVC,Binghatti,Townhouse,1 BR,774825,9.4%,8.1%,Medium,Medium
+PID-01988,Creek Point,Business Bay,Binghatti,Villa,4 BR,3240088,7.7%,6.6%,High,Low
+PID-01989,Harbour Tower,Business Bay,Binghatti,Villa,2 BR,1897164,8.2%,6.9%,High,Low
+PID-01990,Elite Heights,Business Bay,Emaar,Apartment,3 BR,2058986,8.8%,6.7%,High,Low
+PID-01991,Vista Living,JVC,Sobha Realty,Villa,Studio,1430385,8.4%,7.6%,Medium,Medium
+PID-01992,Royal Residence,Business Bay,Binghatti,Townhouse,Studio,4446910,7.6%,8.2%,High,Low
+PID-01993,Ocean Place,Dubai Marina,Danube,Apartment,4 BR,4955034,7.5%,8.3%,High,Low
+PID-01994,Park Park,JVC,Binghatti,Townhouse,1 BR,1259470,9.6%,7.9%,Medium,Medium
+PID-01995,Ocean Tower,Business Bay,Emaar,Townhouse,2 BR,4402121,7.2%,7.7%,High,Low
+PID-01996,Central View,JVC,Danube,Villa,Studio,1438769,9.8%,7.5%,Medium,Medium
+PID-01997,Elite Tower,Dubai Marina,Danube,Villa,2 BR,2508340,7.7%,7.0%,High,Low
+PID-01998,Creek Central,Business Bay,Danube,Townhouse,2 BR,1229796,8.3%,7.7%,High,Low
+PID-01999,Vista Gardens,Dubai Marina,Danube,Townhouse,Studio,3192217,8.9%,7.6%,High,Low
+PID-02000,The View,Dubai Marina,DAMAC,Villa,4 BR,2915496,8.4%,7.4%,High,Low
