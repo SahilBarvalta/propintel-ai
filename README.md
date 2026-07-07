@@ -25,10 +25,10 @@ Helping investors discover and evaluate Dubai real estate opportunities using AI
 
 **Application**
 
-> _Add your Streamlit URL here_
+> _https://propintel-ai.streamlit.app/_
 
 ```
-https://YOUR-APP.streamlit.app
+https://propintel-ai.streamlit.app/
 ```
 
 ---
